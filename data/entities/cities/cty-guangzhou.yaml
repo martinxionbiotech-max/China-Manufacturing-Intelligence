@@ -1,0 +1,27 @@
+id: cty-guangzhou
+type: City
+name_en: Guangzhou
+name_zh: 广州
+province: Guangdong
+major_clusters:
+- cls-sg-medical-devices
+major_industries:
+- ind-medical-devices
+major_products:
+- prd-medical-device
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 迈瑞医疗监护类产品连续 15 年蝉联第一; 深圳国际医疗器械城总规划近 20 km².
+  source: cls-sg-medical-devices
+- fact: '"Nature Index — research city" global ranking: #8; the Guangzhou-Shenzhen-Hong Kong cluster is the world''s #1 innovation cluster .'
+  source: 21经济网, "广州加快建设先进制造业强市" (2024).
+- fact: '2024 technology-contract turnover: RMB 255 billion .'
+  source: 21经济网, "广州加快建设先进制造业强市" (2024).
+- fact: 31 national single champions; 354 national "little-giant" SMEs; 5,847 provincial specialized SMEs .
+  source: 21经济网, "广州加快建设先进制造业强市" (2024).
+- fact: 'Yuexin (粤芯): the Greater Bay Area''s first 12-inch wafer fab; eHang: the world''s first fully certified (四证齐全) eVTOL maker .'
+  source: 21经济网, "广州加快建设先进制造业强市" (2024).
+confidence: High
+ports:
+- prt-guangzhou

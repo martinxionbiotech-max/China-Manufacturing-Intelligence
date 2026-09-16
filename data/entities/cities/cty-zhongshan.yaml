@@ -1,0 +1,25 @@
+id: cty-zhongshan
+type: City
+name_en: Zhongshan
+name_zh: 中山
+province: Guangdong
+major_clusters:
+- cls-guzhen-lighting
+major_industries:
+- ind-lighting
+major_products:
+- prd-led-lighting
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 古镇镇(不足 50 km²)占中国国内照明市场约 70%、全球约 50%, 年产值超 1000 亿元.
+  source: cls-guzhen-lighting
+- fact: 2024 GDP RMB 414.32 billion (+3.7%) — manufacturing value-added = 45% of GDP, a Pearl River Delta traditional-manufacturing exemplar .
+  source: 智研咨询, "2025年广东中山市新质生产力发展研判" (2025).
+- fact: '"4+6" new "Ten Fleets" cluster system (incl. the Torch High-Tech Zone) .'
+  source: 智研咨询, "2025年广东中山市新质生产力发展研判" (2025).
+- fact: 2024 Shenzhen-Zhongshan Link (深中通道) opened, cutting Shenzhen↔Zhongshan travel time sharply .
+  source: 智研咨询, "2025年广东中山市新质生产力发展研判" (2025).
+- fact: '2024 Hong Kong trade: RMB 15.56 billion (5.48% of total) .'
+  source: 智研咨询, "2025年广东中山市新质生产力发展研判" (2025).
+confidence: High

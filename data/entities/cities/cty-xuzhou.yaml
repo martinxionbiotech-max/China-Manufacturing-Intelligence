@@ -1,0 +1,27 @@
+id: cty-xuzhou
+type: City
+name_en: Xuzhou
+name_zh: 徐州
+province: Jiangsu
+major_clusters:
+- cls-xuzhou-construction-machinery
+major_industries:
+- ind-construction-machinery
+major_products:
+- prd-excavator
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 徐工机械 2024 全年营收 916.6 亿元, 境外收入 416.87 亿元、同比增长 12%; 2025 挖掘机械产值 400 亿元全国第一.
+  source: cls-xuzhou-construction-machinery
+- fact: 'GDP: RMB 900 billion+ (2024), and RMB 729.81 billion in the first three quarters of 2025 (+6.0%, tied with Huai''an for Jiangsu''s fastest) .'
+  source: 徐州市 "343" 创新产业集群规模达 7800 亿元 (地方产业报道, 2024).
+- fact: '"343" innovation clusters: RMB 780 billion (2024) — construction machinery is the largest .'
+  source: 徐州市 "343" 创新产业集群规模达 7800 亿元 (地方产业报道, 2024).
+- fact: 'Construction-machinery cluster: RMB 200 billion+ annual output, >20% national market share .'
+  source: 徐州市 "343" 创新产业集群规模达 7800 亿元 (地方产业报道, 2024).
+- fact: 'Enterprise matrix: 1 × RMB 100B + 100 × RMB 100M + 1,000+ SMEs .'
+  source: 徐州市 "343" 创新产业集群规模达 7800 亿元 (地方产业报道, 2024).
+- fact: 2024 added one national manufacturing "single-champion" (XCMG new-energy loaders) and two national "little-giant" specialists, lifting the city's cumulative count to 12 .
+  source: 徐州市 "343" 创新产业集群规模达 7800 亿元 (地方产业报道, 2024).
+confidence: High

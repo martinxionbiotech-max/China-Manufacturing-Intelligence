@@ -1,0 +1,28 @@
+id: prd-ev-battery
+type: Product
+name_en: EV Power Batteries
+name_zh: 动力电池
+industry: Power & Energy-Storage Batteries
+hs_codes:
+- 8507
+major_clusters:
+- cls-ningde-power-battery
+major_cities:
+- Ningde
+- Shenzhen
+components:
+- cathode material (正极材料)
+- precursor (前驱体)
+- separator (隔膜)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: CATL 2025 全球动力电池市占率 39.2%(连续 9 年第一)，储能电芯 30.4%(连续 5 年第一)；2025 年锂电销量 661 GWh.
+  source: cls-ningde-power-battery
+- fact: 宁德市已投产/在建锂电产能 330 GWh + 规划 170 GWh；福鼎 CATL 基地 120 GWh 为全球最大单体项目.
+  source: cls-ningde-power-battery
+- fact: 2025年动力和储能电池累计产量1755.6GWh(+60.1%)。
+  source: 中国汽车动力电池产业创新联盟(2026)
+confidence: High

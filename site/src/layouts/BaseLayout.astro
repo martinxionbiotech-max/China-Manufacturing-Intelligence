@@ -1,0 +1,78 @@
+---
+import { SITE_NAME, SITE_TAGLINE, orgJsonLd, webSiteJsonLd } from '../lib/schema';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  canonicalPath?: string;
+  jsonLd?: object[];
+}
+
+const { title, description, canonicalPath, jsonLd = [] } = Astro.props;
+const site = Astro.site ?? new URL('https://chinamanufacturingintel.example/');
+const canonical = canonicalPath ? new URL(canonicalPath, site).toString() : site.origin + '/';
+const fullTitle = title === SITE_NAME ? title : `${title} — ${SITE_NAME}`;
+const ld = [orgJsonLd(site), webSiteJsonLd(site), ...jsonLd];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta name="generator" content={Astro.generator} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    {ld.map((node) => (
+      <script type="application/ld+json" set:html={JSON.stringify(node)} />
+    ))}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="/">
+          <span class="brand__mark">CMI</span>
+          <span class="brand__name">{SITE_NAME}</span>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="/manufacturing-clusters/">Clusters</a>
+          <a href="/manufacturing-cities/">Cities</a>
+          <a href="/industries/">Industries</a>
+          <a href="/products/">Products</a>
+          <a href="/about/">About</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>
+          {SITE_TAGLINE}
+        </p>
+        <p class="footer-meta">
+          Every factual claim is sourced and labeled <strong>FACT</strong> /
+          <strong> INFERENCE</strong> / <strong> OPINION</strong>. See
+          <a href="/methodology/"> methodology</a>.
+        </p>
+        <p class="footer-nav">
+          <a href="/manufacturing-clusters/">Clusters</a>
+          <a href="/manufacturing-cities/">Cities</a>
+          <a href="/industries/">Industries</a>
+          <a href="/products/">Products</a>
+          <a href="/about/">About</a>
+          <a href="/methodology/">Methodology</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

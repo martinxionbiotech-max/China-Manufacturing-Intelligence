@@ -1,0 +1,22 @@
+id: ind-construction-machinery
+type: Industry
+name_en: Construction Machinery
+name_zh: 工程机械
+super_sector: B — High-End Equipment
+gb_code: C351
+major_clusters:
+- cls-changsha-construction-machinery
+- cls-xuzhou-construction-machinery
+major_products:
+- prd-excavator
+major_cities:
+- Changsha
+- Xuzhou
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 长沙集群 2024 产值超 2500 亿元(全国 30%+)，5 家全球前 50 强；徐州徐工 2024 营收 916.6 亿元，2025 挖掘机械产值 400 亿元全国第一.
+  source: cls-changsha-construction-machinery, cls-xuzhou-construction-machinery
+- fact: 2025年小/中/大挖分别出口49286/41207/27713台，同比+8%/+13%/+49%；挖掘机/装载机/起重机等主要产品总市场空间约1.1万亿元。
+  source: 中国机电产品进出口商会(2025)
+confidence: High

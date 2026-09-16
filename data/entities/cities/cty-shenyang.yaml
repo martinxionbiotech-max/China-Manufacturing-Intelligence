@@ -1,0 +1,23 @@
+id: cty-shenyang
+type: City
+name_en: Shenyang
+name_zh: 沈阳
+province: Liaoning
+major_clusters:
+- cls-shenyang-robotics
+major_industries:
+- ind-robotics
+major_products:
+- prd-industrial-robot
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 中科院沈阳自动化所近 50 年机器人研究史, 诞生我国第一台工业机器人样机; 新松(SIASUN)2000 年成立.
+  source: cls-shenyang-robotics
+- fact: The robotics cluster is led by 7 academicians and gathers 40+ national experts from the CAS Shenyang Institute of Automation, Institute of Metal Research, and China Machinery Institute .
+  source: 工业和信息化部, "2024年国家先进制造业集群名单" (2024).
+- fact: Liaoning added 3 national clusters in Dec 2024 — Shenyang aviation, Shenyang-Dalian machine tools, Dalian-Panjin green petrochemical — raising the province to 4 .
+  source: 工业和信息化部, "2024年国家先进制造业集群名单" (2024).
+- fact: 'Northeast Food Sci-Tech Park: RMB 10.5 billion investment, 3.24 km² (Sujiatun) — a food-industry diversification track .'
+  source: 工业和信息化部, "2024年国家先进制造业集群名单" (2024).
+confidence: High

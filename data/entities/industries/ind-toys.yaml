@@ -1,0 +1,23 @@
+id: ind-toys
+type: Industry
+name_en: Toys & Sports Products
+name_zh: 玩具/体育用品
+super_sector: F — Consumer Goods
+gb_code: C24
+major_clusters:
+- cls-chenghai-toys
+- cls-quanzhou-sports
+major_products:
+- prd-toys
+major_cities:
+- Shantou
+- Dongguan
+- Yiwu
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 澄海区 5 万多家玩具企业，拥有全球塑料玩具 33% 产能，品牌/IP/专利授权量全国第一；泉州现代体育产品集群 2024 入选国家先进制造业集群.
+  source: cls-chenghai-toys, cls-quanzhou-sports
+- fact: 中国体育用品业2025年总产出突破2万亿元。
+  source: 《中国体育用品业年度发展报告(2025)》/新华网
+confidence: High

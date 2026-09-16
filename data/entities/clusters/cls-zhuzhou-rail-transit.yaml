@@ -1,0 +1,64 @@
+# Cluster Entity — Zhuzhou Advanced Rail Transit Equipment Cluster
+# 株洲先进轨道交通装备集群
+
+id: cls-zhuzhou-rail-transit
+type: IndustrialCluster
+name_en: Zhuzhou Advanced Rail Transit Equipment Cluster
+name_zh: 株洲市先进轨道交通装备集群
+designation: national_cluster   # MIIT National Advanced Manufacturing Cluster (首批)
+
+location:
+  province: Hunan
+  city: Zhuzhou
+  sub_areas:
+    - { name: Tianxin (Tianxin industrial town), name_zh: 田心, role: industrial_core, note: "world's highest rail-transit industrial density" }
+    - { name: Shifeng District / Rail Transit Smart Valley, name_zh: 石峰区轨道智谷, role: innovation_hub, anchor: "National Advanced Rail Transit Equipment Innovation Center" }
+
+primary_industry: Rail Transit Equipment   # ind-rail-transit
+related_industries:
+  - Electric Locomotives
+  - Urban Rail / Metro Vehicles
+  - EMU / Maglev / APM
+  - Wind Power Equipment (technology spillover)
+  - Power Semiconductors (IGBT)
+  - New Energy Heavy Trucks
+
+major_products:
+  - electric locomotives
+  - EMUs / high-speed trains (Fuxing)
+  - urban rail & metro vehicles
+  - maglev trains / ART (autonomous rail transit)
+  - traction converters & control systems
+  - railway freight wagons
+
+key_manufacturers:      # CRRC first-tier subsidiaries
+  - { name: CRRC Zhuzhou Locomotive (ZELC), name_zh: 中车株机, role: complete_vehicles, note: "world's largest electric locomotive factory" }
+  - { name: CRRC Zhuzhou Institute, name_zh: 中车株洲所, role: traction_control, note: "Fuxing traction & network control systems" }
+  - { name: CRRC Zhuzhou Electric, name_zh: 中车株洲电机, role: traction_motors, note: "'power heart' of trains" }
+  - { name: Zhuzhou Lince Group, name_zh: 联诚集团, role: components, note: "shock absorbers, transformer tanks" }
+  - { name: Zhuzhou Jiufang Equipment, name_zh: 九方装备, role: components, note: "elastic wheels, bogies" }
+
+ports:
+  - { name: "Inland rail/road hub (Beijing-Guangzhou + Shanghai-Kunming railways)", role: logistics_rail }
+  # Note: landlocked; equipment ships via rail/road to coastal ports or China-Europe freight rail.
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "2023 cluster scale exceeded RMB 160B, >30% of national industry output; products exported to 100+ countries across six continents."
+    source: src-gxt-hunan-20241224, src-rednet
+  - fact: "World's largest rail transit equipment manufacturing base; China's most complete rail-transit industry chain; first 100-billion rail transit cluster globally."
+    source: src-gxt-hunan-20240826
+  - fact: "5 CRRC first-tier subsidiaries + 400+ upstream/downstream enterprises; 80%+ local supply rate; 80%+ of components within 5 km radius."
+    source: src-sasac, src-hunan-gov-20240816
+  - fact: "Founded 1936 (Yuehan Railway works); China's first mainline electric locomotive 1958; cumulative 10,000+ electric locomotives, 60+ models."
+    source: src-sasac-en-20230509
+  - fact: "CRRC ZELC can assemble 18 electric locomotives simultaneously; delivered a ~10,000-part European train in 18 months (half of international peers)."
+    source: src-sasac-en-20230509
+  - fact: "Fuxing traction & network control systems developed by CRRC Zhuzhou Institute; metro traction/inverter systems world #1 market share (reported)."
+    source: src-rmlt-20240708, src-gxt-hunan-20240826
+  - fact: "84 international standards + 112 national standards led/participated by Zhuzhou firms."
+    source: src-hnzy-2023
+
+confidence: High

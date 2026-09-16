@@ -1,0 +1,14 @@
+id: prt-yantai
+type: Port
+name_en: Yantai Port
+name_zh: 烟台港
+city: Yantai
+province: Shandong
+serves:
+- cls-qingdao-shipbuilding
+evidence_level: High
+confidence: High
+last_verified: '2026-09-15'
+verified_facts:
+- fact: 2024年烟台港完成货物吞吐量5.02亿吨(同比+3.6%)，居全国第9。
+  source: 2024全国超亿吨港口货物吞吐量排名(2025)

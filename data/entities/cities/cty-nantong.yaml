@@ -1,0 +1,29 @@
+id: cty-nantong
+type: City
+name_en: Nantong
+name_zh: 南通
+province: Jiangsu
+major_clusters:
+- cls-swt-textile
+major_industries:
+- ind-textiles
+major_products:
+- prd-home-textile
+- prd-socks
+- prd-textile-fabric
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2024 南通家纺产业规模突破 2400 亿元, 高端纺织是南通六大千亿级产业集群之一.
+  source: cls-swt-textile
+- fact: 'Six key clusters: RMB 1.2 trillion output (2024), >80% of above-scale industry .'
+  source: 中国日报网, "南通六大重点产业集群产值将突破1.3万亿" (2024).
+- fact: 'Shipbuilding & marine engineering: > RMB 200 billion; ~1/10 of national ships, 1/4 of national marine engineering — delivered 40+ "world-first / national-first" vessel types .'
+  source: 中国日报网, "南通六大重点产业集群产值将突破1.3万亿" (2024).
+- fact: 'Above-scale industrial firms: 5,262 → 7,465 (five-year span) .'
+  source: 中国日报网, "南通六大重点产业集群产值将突破1.3万亿" (2024).
+- fact: 15 firms above RMB 10 billion; Zhongtian Technology (中天科技) crossed RMB 100 billion .
+  source: 中国日报网, "南通六大重点产业集群产值将突破1.3万亿" (2024).
+confidence: High
+ports:
+- prt-nantong

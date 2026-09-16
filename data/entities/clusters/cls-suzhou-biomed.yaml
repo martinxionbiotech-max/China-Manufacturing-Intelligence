@@ -1,0 +1,39 @@
+# Cluster Entity — Suzhou Biopharma (Jiangsu)
+# 苏州生物医药集群（苏州工业园区）
+
+id: cls-suzhou-biomed
+type: IndustrialCluster
+name_en: Suzhou Biopharma Cluster
+name_zh: 苏州生物医药集群
+designation: park_economy   # 园区经济 + 耐心资本 + 全链生态
+
+location:
+  province: Jiangsu
+  city: Suzhou (苏州市) / 苏州工业园区
+  note: "园区生物医药综合竞争力全国第二，产业/人才/合作竞争力全国第一"
+
+primary_industry: Biopharmaceuticals (生物医药)   # ind-biopharma
+related_industries:
+  - innovative drugs (创新药)
+  - medical devices (医疗器械)
+  - biotech / cell therapy (生物技术/细胞治疗)
+
+major_products:
+  - innovative drugs (创新药)
+  - high-end medical devices (高端医疗器械)
+
+key_manufacturers:
+  - { name: "苏州工业园区 (SIP)", note: "生物医药及大健康企业超 2000 家，产值 1655 亿" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "截至去年底，苏州工业园区已吸引生物医药及大健康相关企业超 2000 家，产值达 1655 亿元."
+    source: src-sipac-biomed
+  - fact: "园区生物医药产业综合竞争力位列全国第二，产业竞争力、人才竞争力、合作竞争力 3 个单项全国第一."
+    source: src-suzhougov-biomed
+  - fact: "2024 年苏州市生物医药产业集群获国家战略性新兴产业集群优秀等级，是全省唯一获此褒奖."
+    source: src-yaozh-biomed
+
+confidence: High

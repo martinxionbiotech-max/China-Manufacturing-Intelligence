@@ -1,0 +1,40 @@
+# Cluster Entity — Xuzhou Construction Machinery (Jiangsu)
+# 徐州工程机械集群
+
+id: cls-xuzhou-construction-machinery
+type: IndustrialCluster
+name_en: Xuzhou Construction Machinery Cluster
+name_zh: 徐州工程机械集群
+designation: chain_anchor   # 链主企业(徐工) + 全品类工程机械 + 全球布局
+
+location:
+  province: Jiangsu
+  city: Xuzhou (徐州市)
+  note: "工程机械为徐州 4 个千亿级产业集群之一"
+
+primary_industry: Construction machinery (工程机械)   # ind-construction-machinery
+related_industries:
+  - cranes (起重机械)
+  - earthmoving (铲运/挖掘机械)
+  - piling machinery (桩工机械)
+
+major_products:
+  - cranes
+  - excavators & loaders
+  - piling machinery
+
+key_manufacturers:
+  - { name: "徐工机械 (XCMG)", note: "链主，2024 营收 916.6 亿元" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "徐工机械 2024 全年实现营收 916.6 亿元，境外收入 416.87 亿元、同比增长 12%."
+    source: src-sina-xcmg
+  - fact: "2024 年徐州'343'创新产业集群规模达到 7800 亿元，工程机械是 4 个千亿级产业集群之一."
+    source: src-jsgov-xuzhou
+  - fact: "2025 年徐州起重机械产值 180 亿元、铲运机械 160 亿元、桩工机械 90 亿元，均居全国第一；挖掘机械产值 400 亿元."
+    source: src-sina-xuzhou
+
+confidence: High

@@ -1,0 +1,40 @@
+# Cluster Entity — Hefei Intelligent Voice (iFLYTEK / China Speech Valley)
+# 合肥智能语音集群（中国声谷）
+
+id: cls-hefei-intelligent-voice
+type: IndustrialCluster
+name_en: Hefei Intelligent Voice Cluster (China Speech Valley)
+name_zh: 合肥智能语音集群（中国声谷）
+designation: research_plus_state   # 科研院所(中科大) + 国家战略 + 链主(科大讯飞)
+
+location:
+  province: Anhui
+  city: Hefei (合肥市)
+  zone: Hefei High-tech Zone (合肥高新区)
+  note: "中国声谷; 科大讯飞'讯飞小镇'总部园区"
+
+primary_industry: Intelligent voice / AI   # ind-ai-voice
+related_industries:
+  - speech recognition & synthesis
+  - natural language processing / LLM
+  - AI chips & smart hardware
+
+major_products:
+  - speech recognition/synthesis (语音识别合成)
+  - AI large models & applications
+  - smart voice hardware
+
+key_manufacturers:
+  - { name: iFLYTEK (科大讯飞), note: "链主, '讯飞小镇' AI 总部园区 2024 启用" }
+  - { name: "中科星图/华米科技等", note: "集聚企业" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "合肥智能语音产业集群入选国家先进制造业集群(2025 上半年), 集聚科大讯飞、中科星图、华米科技等企业."
+    source: src-chinaitcapital-voice
+  - fact: "2018 年'中国声谷'实现产值 650 亿元, 入驻企业 430 家; 科大讯飞 AI 总部园区'讯飞小镇'2024 年 9 月启用, 已吸引超千家创新企业入驻."
+    source: src-chinaitcapital-voice
+
+confidence: High

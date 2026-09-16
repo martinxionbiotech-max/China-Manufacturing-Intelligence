@@ -1,0 +1,39 @@
+# Cluster Entity — Shenyang Robotics (Liaoning)
+# 沈阳机器人产业集群
+
+id: cls-shenyang-robotics
+type: IndustrialCluster
+name_en: Shenyang Robotics Cluster
+name_zh: 沈阳机器人产业集群
+designation: research_anchor   # 科研院所(沈阳自动化所) + 链主(新松) + 第一台工业机器人
+
+location:
+  province: Liaoning
+  city: Shenyang (沈阳市)
+  note: "中国第一台工业机器人样机诞生地"
+
+primary_industry: Robotics (机器人)   # ind-robotics
+related_industries:
+  - industrial robots (工业机器人)
+  - intelligent manufacturing (智能制造)
+  - AI + robotics (机器人+AI)
+
+major_products:
+  - industrial robots (工业机器人)
+  - intelligent manufacturing solutions (智能制造解决方案)
+
+key_manufacturers:
+  - { name: "新松机器人 (SIASUN, 300024)", note: "国家机器人产业化基地，2000 年成立" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "中国科学院沈阳自动化研究所近 50 年机器人技术研究历史，诞生了我国第一台工业机器人样机."
+    source: src-scol-shenyang
+  - fact: "新松成立于 2000 年，是机器人技术和智能制造解决方案为核心的高科技上市公司，国家机器人产业化基地."
+    source: src-51job-shenyang
+  - fact: "新松入选工业和信息化部《工业机器人行业规范条件（2024版）》企业名单，并开启'机器人+AI'融合创新（具身智能研究院揭牌）."
+    source: src-siasun
+
+confidence: High

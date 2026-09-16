@@ -1,0 +1,30 @@
+---
+import type { Entity, Kind } from '../lib/entities';
+import { KIND_LABEL, entityUrl } from '../lib/entities';
+
+interface Props {
+  entities: Entity[];
+  kind: Kind;
+  emptyText: string;
+}
+
+const { entities, kind, emptyText } = Astro.props;
+const label = KIND_LABEL[kind];
+---
+
+<div class="crosslinks">
+  <h2 class="crosslinks__title">{label} <span class="crosslinks__count">({entities.length})</span></h2>
+  {
+    entities.length === 0 ? (
+      <p class="crosslinks__empty">{emptyText}</p>
+    ) : (
+      <ul class="crosslinks__list">
+        {entities.map((e) => (
+          <li>
+            <a href={entityUrl(e)}>{e.title}</a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+</div>

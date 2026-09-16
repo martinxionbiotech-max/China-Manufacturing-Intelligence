@@ -1,0 +1,40 @@
+# Cluster Entity — Weifang Power Equipment (Shandong)
+# 潍坊动力装备集群
+
+id: cls-weifang-power-equipment
+type: IndustrialCluster
+name_en: Weifang Power Equipment Cluster
+name_zh: 潍坊动力装备集群
+designation: chain_master   # 链长制 + 潍柴链主 + 动力装备
+
+location:
+  province: Shandong
+  city: Weifang (潍坊市)
+  note: "潍柴集团总部，动力装备产业链链长制"
+
+primary_industry: Power equipment (动力装备)   # ind-power-equipment
+related_industries:
+  - diesel engines (柴油机)
+  - powertrain (动力总成)
+  - new energy power (新能源动力)
+
+major_products:
+  - diesel engines (柴油机)
+  - powertrain systems (动力总成)
+  - marine & vehicle engines (船舶/车用发动机)
+
+key_manufacturers:
+  - { name: "潍柴集团 (Weichai)", note: "链主，动力装备产业链链长企业" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "2024 年 8 月潍坊市委书记任动力装备产业链'链长'在潍柴集团召开专题会议，全市 12 条产业链'链长'制全面起势."
+    source: src-52hrtt-weifang
+  - fact: "2024 年潍坊市地区生产总值 8203.2 亿元，同比增长 5.9%."
+    source: src-hongheiku-weifang
+  - fact: "2021 年潍坊动力装备集群年产值达 4135 亿元，约占全国动力装备产业总产值三分之一，潍柴等 8 个国家级单项冠军汇聚."
+    source: src-gov-weifang
+
+confidence: High

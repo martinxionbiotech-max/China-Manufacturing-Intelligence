@@ -1,0 +1,44 @@
+# Cluster Entity — Shanghai Integrated Circuits (Zhangjiang)
+# 上海集成电路集群（张江）
+
+id: cls-shanghai-ic
+type: IndustrialCluster
+name_en: Shanghai Integrated Circuits Cluster (Zhangjiang)
+name_zh: 上海集成电路集群（张江科学城）
+designation: state_research_driven   # 国家战略 + 高校/科研院所（与武汉光谷同源, 但更重制造）
+
+location:
+  province: Shanghai (municipality)
+  district: Pudong (张江 Zhangjiang)
+  note: "中国集成电路产业策源地, 大陆最大晶圆代工集群之一"
+
+primary_industry: Semiconductors / Integrated Circuits   # ind-semiconductor
+related_industries:
+  - wafer foundry (晶圆代工)
+  - IC design (设计)
+  - semiconductor equipment (装备)
+
+major_products:
+  - logic/mature-node wafers (28nm+)
+  - power/analog chips (功率/模拟)
+  - IC design
+
+key_manufacturers:
+  - { name: SMIC (中芯国际), note: "2000 由张汝京创立, 总部上海, 大陆最大晶圆代工, 2024 营收 US$8.0B" }
+  - { name: Hua Hong (华虹半导体), note: "1996 成立, 上海华力 28/22nm" }
+  - { name: "中微半导体/紫光展锐/格科微等", note: "张江 500 家上下游企业" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "2021 张江集成电路产业销售收入 1702.56 亿元, 占上海全市比重超六成; 张江集聚产业链上下游企业约 500 家."
+    source: src-yicai-zhangjiang
+  - fact: "全球芯片设计 10 强有 7 家在张江设立区域总部/研发中心; 中芯国际、华虹集团、中微半导体、紫光展锐、格科微、英伟达等集聚张江."
+    source: src-yicai-zhangjiang
+  - fact: "上海集成电路设计产业园(集设园)目标到 2025 年以 1000 亿带动浦东 IC 全产业链规模达 4000 亿, 占上海比重提升至 80%."
+    source: src-yicai-zhangjiang
+  - fact: "SMIC (中芯国际) founded 2000 by Zhang Rujing, HQ Shanghai; mainland China's largest contract chipmaker; 2024 revenue US$8.0 billion."
+    source: src-wiki-smic
+
+confidence: High

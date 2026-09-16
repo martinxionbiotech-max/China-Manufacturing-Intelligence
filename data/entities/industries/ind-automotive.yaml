@@ -1,0 +1,22 @@
+id: ind-automotive
+type: Industry
+name_en: Automobiles & Auto Components
+name_zh: 汽车及零部件
+super_sector: C — NEV & New Energy
+gb_code: C36
+major_clusters:
+- cls-changchun-auto
+- cls-shanghai-nev
+major_products:
+- prd-nev
+major_cities:
+- Changchun
+- Shanghai
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 长春为中国汽车工业摇篮(1956 第一辆解放卡车)，奥迪 PPE 项目约 50% 供应商布局在工厂 30 公里内；特斯拉上海工厂 2023 产值 2306 亿元占上海汽车产业 29.9%.
+  source: cls-changchun-auto, cls-shanghai-nev
+- fact: 2025年1-11月中国汽车零部件出口金额865.9亿美元(+2.7%)、进口194.9亿美元(-22.2%)，出口增长、进口收窄。
+  source: 中汽协/大公国际(2026)
+confidence: High

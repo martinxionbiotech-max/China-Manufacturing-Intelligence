@@ -1,0 +1,19 @@
+id: prt-ningbo-zhoushan
+type: Port
+name_en: Ningbo-Zhoushan Port
+name_zh: 宁波舟山港
+city: Ningbo
+province: Zhejiang
+serves:
+- cls-ningbo-green-petrochemical
+- cls-ningbo-magnetic-materials
+- cls-cixi-small-appliances
+- cls-hangzhou-bay-textile
+evidence_level: High
+confidence: High
+last_verified: '2026-09-15'
+verified_facts:
+- fact: 2024年宁波舟山港完成货物吞吐量13.77亿吨(同比+4%)，连续16年位居全球第一。
+  source: 新华网(2025-01)
+- fact: 2024年宁波舟山港完成集装箱吞吐量3930万标准箱(同比+11%)，增幅创近7年新高，稳居世界第三。
+  source: 新华网(2025-01)

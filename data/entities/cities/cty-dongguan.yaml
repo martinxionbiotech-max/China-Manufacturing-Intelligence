@@ -1,0 +1,33 @@
+id: cty-dongguan
+type: City
+name_en: Dongguan
+name_zh: 东莞
+province: Guangdong
+major_clusters:
+- cls-dongguan-smart-terminal
+- cls-fd-pan-home
+major_industries:
+- ind-electronics
+- ind-furniture
+major_products:
+- prd-furniture
+- prd-pcb
+- prd-smartphone
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 东莞智能移动终端集群 2019 入选国家先进制造业集群, 全国排名第 4; 华为/OPPO/vivo 三大智能终端品牌聚集.
+  source: cls-dongguan-smart-terminal
+- fact: 2024 持续推进佛莞'泛家居'产业集群建设.
+  source: cls-fd-pan-home
+- fact: 'GDP: RMB 1.228 trillion (2024), +4.6%; secondary industry +6.6% .'
+  source: 智研咨询, "2025年东莞市新质生产力发展研判" (2025).
+- fact: 'Global share: ~1/5 smartphones, 1/5 sweaters, 1/4 animation derivatives, ~85% of China''s art toys .'
+  source: 智研咨询, "2025年东莞市新质生产力发展研判" (2025).
+- fact: Electrical machinery & equipment manufacturing > RMB 500 billion; new materials > RMB 100 billion .
+  source: 智研咨询, "2025年东莞市新质生产力发展研判" (2025).
+- fact: 300+ national "little-giant" SMEs — most among prefecture-level cities in the province .
+  source: 智研咨询, "2025年东莞市新质生产力发展研判" (2025).
+- fact: 'Cross-border e-commerce export growth: ~25%/yr .'
+  source: 智研咨询, "2025年东莞市新质生产力发展研判" (2025).
+confidence: High

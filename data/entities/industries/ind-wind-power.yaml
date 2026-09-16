@@ -1,0 +1,21 @@
+id: ind-wind-power
+type: Industry
+name_en: Wind Power Equipment
+name_zh: 风电装备
+super_sector: C — NEV & New Energy
+gb_code: C381
+major_clusters:
+- cls-yancheng-wind-power
+major_products:
+- prd-wind-turbine
+major_cities:
+- Yancheng
+- Wuxi
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 盐城风电装机占江苏 41.5% 列第一；2020 年海上风电累计装机 352 万千瓦占全国 39%、全球约 10%；金风科技盐城大丰试验风电场 800MW.
+  source: cls-yancheng-wind-power
+- fact: 2024年全国风电新增装机7982万千瓦(+6%)，累计装机8.86亿千瓦(+45%)；吊装口径新增装机8699万千瓦、前5家市场份额75%。
+  source: 国家能源局/中电联(2025)
+confidence: High

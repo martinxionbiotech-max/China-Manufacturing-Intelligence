@@ -1,0 +1,20 @@
+id: ind-leather
+type: Industry
+name_en: Leather & Fur
+name_zh: 皮革
+super_sector: F — Consumer Goods
+gb_code: C19
+major_clusters:
+- cls-haining-leather
+major_products:
+- prd-leather
+major_cities:
+- Haining
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 海宁皮革城携手近 50 家优质企业亮相 2024 CHIC 春季展；海宁作为时尚产业高端供应链基地，对秋冬时尚具统治力.
+  source: cls-haining-leather
+- fact: 2025年皮革行业重点企业销售收入7500亿元(-13.1%)；2025年1-6月全国皮革产品出口432.3亿美元(-7.8%)。
+  source: 中国皮革协会(2025)
+confidence: High

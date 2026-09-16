@@ -1,0 +1,23 @@
+id: ind-power-equipment
+type: Industry
+name_en: Power Transmission & Electrical Equipment
+name_zh: 输变电/电气装备
+super_sector: B — High-End Equipment
+gb_code: C382
+major_clusters:
+- cls-baoding-power-equipment
+- cls-wenzhou-electrical
+major_products:
+- prd-power-equipment
+- prd-low-voltage-electrical
+major_cities:
+- Baoding
+- Yueqing
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 保定集群 6300+ 企业、2024 产值 1660 亿元，中国北方最大电力及新能源高端装备基地；乐清低压电器集群占全国市场份额 65%+.
+  source: cls-baoding-power-equipment, cls-wenzhou-electrical
+- fact: 2024年国内电网设备市场规模预计约1.8万亿元(+13%)，用电侧市场规模超3000亿元。
+  source: 大公国际/电力设备报告(2025)
+confidence: High

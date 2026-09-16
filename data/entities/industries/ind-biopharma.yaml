@@ -1,0 +1,22 @@
+id: ind-biopharma
+type: Industry
+name_en: Pharmaceuticals & Biotech
+name_zh: 生物医药
+super_sector: E — Biomedical
+gb_code: C27
+major_clusters:
+- cls-zhangjiang-biomed
+- cls-suzhou-biomed
+major_products:
+- prd-biopharma
+major_cities:
+- Shanghai
+- Suzhou
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 张江累计获批一类新药超 20 个、占全国近 1/5；2024 上海 License-out 交易金额 307 亿美元占全国 47%；苏州工业园区生物医药企业超 2000 家、产值 1655 亿元.
+  source: cls-zhangjiang-biomed, cls-suzhou-biomed
+- fact: 2024年1-12月规模以上医药制造业营收25298.5亿元；医药制造业出口交货值2153.30亿元(+7.3%)，高于全国工业出口增速2.2个百分点。
+  source: 国家统计局(2025)
+confidence: High

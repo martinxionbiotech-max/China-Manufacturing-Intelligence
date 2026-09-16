@@ -1,0 +1,23 @@
+id: cty-xian
+type: City
+name_en: Xi'an
+name_zh: 西安
+province: Shaanxi
+major_clusters:
+- cls-xian-aviation
+major_industries: []
+major_products: []
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 西安是大飞机的摇篮, 运20 等 30 多种型号飞机从西安飞上蓝天.
+  source: cls-xian-aviation
+- fact: 2024 GDP RMB 1,331.78 billion; 2,115 above-scale industrial firms with RMB 969.28 billion output, value-added +6.5% (6th of 15 sub-provincial cities) .
+  source: 半月谈, "2024年西安地区生产总值达13317.78亿元" (2025).
+- fact: 'Six pillar industries: RMB 767.13 billion output (+4.6%), 79.1% of above-scale industry .'
+  source: 半月谈, "2024年西安地区生产总值达13317.78亿元" (2025).
+- fact: Xi'an aviation, Yu-E-Ning coal-chemical, Bao-Han-Tian machine-tool clusters all entered the national list; advanced manufacturing = 43.9% of Shaanxi's above-scale output .
+  source: 半月谈, "2024年西安地区生产总值达13317.78亿元" (2025).
+- fact: 'Geely Xi''an NEV base: 902 welding robots on one body line, leading a 23-firm NEV-parts chain .'
+  source: 半月谈, "2024年西安地区生产总值达13317.78亿元" (2025).
+confidence: High

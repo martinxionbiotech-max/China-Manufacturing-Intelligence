@@ -1,0 +1,23 @@
+id: cty-wuhan
+type: City
+name_en: Wuhan
+name_zh: 武汉
+province: Hubei
+major_clusters:
+- cls-wuhan-optics-valley
+major_industries:
+- ind-optoelectronics
+major_products:
+- prd-optical-fiber
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 武汉光谷规划面积 518 平方公里, 全国 10 家'世界一流高科技园区'之一, 外资企业 700+; 全国光电子产业核心区.
+  source: cls-wuhan-optics-valley
+- fact: 2024 optoelectronics industry revenue +10%+; 16,000+ optoelectronic firms across the full "光芯屏端网" chain (fiber, chips, displays, terminals, networks) .
+  source: 武汉光电子信息产业报道 (2024).
+- fact: 'Anchors: China Information & Communication Tech (中信科), HG Tech (华工科技), YOFC (长飞光纤), Hisilicon (海思), Accelink (光迅科技) .'
+  source: 武汉光电子信息产业报道 (2024).
+- fact: 'S&T matrix: 1 national lab + 8 large scientific facilities + 10 Hubei labs + 163 national platforms + 525 new-type R&D institutes .'
+  source: 武汉光电子信息产业报道 (2024).
+confidence: High

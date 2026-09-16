@@ -1,0 +1,40 @@
+# Cluster Entity — Suzhou Nano (Jiangsu)
+# 苏州纳米产业集群
+
+id: cls-suzhou-nano
+type: IndustrialCluster
+name_en: Suzhou Nano Cluster
+name_zh: 苏州纳米产业集群
+designation: research_plus_state   # 科研院所 + 国家战略 + 全产业链
+
+location:
+  province: Jiangsu
+  city: Suzhou (苏州市)
+  note: "全球五大纳米产业集聚区之一; 国内纳米产业和人才聚集度最高的城市"
+
+primary_industry: Nanotechnology / advanced materials   # ind-nanotechnology
+related_industries:
+  - nano electronic materials
+  - nano bio materials
+  - micro-nano fabrication & equipment
+
+major_products:
+  - nano electronic materials
+  - nano bio materials
+  - micro-nano devices & equipment
+
+key_manufacturers:
+  - { name: "苏大维格/南大光电/晶方半导体/锦富新材/禾盛新材/天华超净/聚灿光电", note: "上市公司群" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "2022 苏州纳米产业集群总体规模 1460 亿元, 其中纳米材料产业规上工业产值 822 亿元; 全球五大纳米产业集聚区之一."
+    source: src-qianzhan-nano
+  - fact: "集聚纳米相关企业 1128 家(纳米材料核心企业 570 家, 规上工业 116 家); 中外院士 28 人, 国家重点人才引进专家 83 人."
+    source: src-qianzhan-nano
+  - fact: "2022 纳米材料产业列入工信部国家先进制造业集群; 拥有苏大维格/南大光电/晶方半导体/锦富新材/禾盛新材/天华超净/聚灿光电等上市公司."
+    source: src-qianzhan-nano
+
+confidence: High

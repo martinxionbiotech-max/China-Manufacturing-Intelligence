@@ -1,0 +1,22 @@
+id: ind-lighting
+type: Industry
+name_en: Lighting
+name_zh: 照明
+super_sector: F — Consumer Goods
+gb_code: C387
+major_clusters:
+- cls-guzhen-lighting
+major_products:
+- prd-led-lighting
+major_cities:
+- Zhongshan
+- Shenzhen
+- Xiamen
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 古镇镇(不足 50 km²)占中国国内照明市场约 70%、全球约 50%，年产值超 1000 亿元，出口 130+ 国家.
+  source: cls-guzhen-lighting
+- fact: 2024年LED照明产品出口423亿美元，占照明行业整体出口额75%，同比-2.5%。
+  source: 温其东《2024中国照明行业出口情况分析》(2025)
+confidence: High

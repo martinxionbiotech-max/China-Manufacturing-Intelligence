@@ -1,0 +1,25 @@
+id: cty-ningde
+type: City
+name_en: Ningde
+name_zh: 宁德
+province: Fujian
+major_clusters:
+- cls-ningde-power-battery
+major_industries:
+- ind-power-battery
+major_products:
+- prd-ev-battery
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: CATL 2024 全球动力电池市占率 37.9%, 连续 8 年第一; 宁德锂电产能 330 GWh+.
+  source: cls-ningde-power-battery
+- fact: 'Lithium-battery new energy: Ningde''s first RMB 200B+ cluster (2022); stainless-steel new materials its second (2023) .'
+  source: 人民网, "宁德四大主导产业地标'拔节生长'" (2025).
+- fact: 'CATL >130 GWh energy-storage shipments (2025, #1); Hithium (海辰储能) rose to global #2 .'
+  source: 人民网, "宁德四大主导产业地标'拔节生长'" (2025).
+- fact: First entry into the global top-100 innovation clusters (2025) .
+  source: 人民网, "宁德四大主导产业地标'拔节生长'" (2025).
+- fact: 'World-first outputs: sodium-ion batteries passing the new national standard, 9 MWh mega energy-storage systems, condensed-matter batteries, and "Shenxing" super-fast-charging cells .'
+  source: 人民网, "宁德四大主导产业地标'拔节生长'" (2025).
+confidence: High

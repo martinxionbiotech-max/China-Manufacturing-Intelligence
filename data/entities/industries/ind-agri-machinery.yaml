@@ -1,0 +1,21 @@
+id: ind-agri-machinery
+type: Industry
+name_en: Agricultural Machinery
+name_zh: 农机装备
+super_sector: B — High-End Equipment
+gb_code: C357
+major_clusters:
+- cls-luoyang-agri-machinery
+major_products:
+- prd-agri-machinery
+major_cities:
+- Luoyang
+- Weifang
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 洛阳现代农机装备集群 2024 入选国家先进制造业集群(河南首个)，以中国一拖为龙头、关联企业 300 余家、产值 600 亿元.
+  source: cls-luoyang-agri-machinery
+- fact: 2025年1-11月规模以上农机企业出口交货值479亿元；对共建'一带一路'国家出口量同比+29%，前10大出口目的地累计出口额40.6亿美元(+19.7%)。
+  source: 中国农机工业网(2025)
+confidence: High

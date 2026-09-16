@@ -1,0 +1,41 @@
+# Cluster Entity — Zhuzhou Small & Medium Aero Engines (Hunan)
+# 株洲中小航空发动机集群
+
+id: cls-zhuzhou-aero-engine
+type: IndustrialCluster
+name_en: Zhuzhou Small & Medium Aero Engine Cluster
+name_zh: 株洲中小航空发动机集群
+designation: central_soe_platform   # 央企平台(中国航发) + 中小航空发动机唯一基地
+
+location:
+  province: Hunan
+  city: Zhuzhou (株洲市)
+  note: "全国唯一的中小航空发动机研制基地，芦淞区核心承载"
+
+primary_industry: Aero engines (航空发动机)   # ind-aero-engine
+related_industries:
+  - light gas turbines (轻型燃气轮机)
+  - general aviation (通航整机)
+  - aero parts & maintenance (航空部件/维修)
+
+major_products:
+  - small & medium aero engines (中小航空发动机)
+  - light gas turbines (轻型燃气轮机)
+  - general aviation aircraft (通航整机)
+
+key_manufacturers:
+  - { name: "中国航发南方公司", note: "主机企业" }
+  - { name: "中国航发湖南动力机械研究所", note: "主机/研发" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "株洲是全国唯一的中小航空发动机研制基地，在中小航空发动机、轻型燃气轮机、通航整机制造等领域处于国内领先地位，创造新中国航空工业多个第一."
+    source: src-hngxt-zhuzhou
+  - fact: "株洲中小航空发动机集群入围工信部第三轮先进制造业集群决赛优胜者名单."
+    source: src-hngov-zhuzhou
+  - fact: "株洲芦淞通用机场成为全省唯一 A1 级通用机场，吸引 10 家企业驻场经营，助力通航产业打造万亿规模级产业集群."
+    source: src-hngxt-zhuzhou
+
+confidence: High

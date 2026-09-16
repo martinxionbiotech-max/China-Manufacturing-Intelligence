@@ -1,0 +1,40 @@
+# Cluster Entity — Luoyang Modern Agricultural Machinery (Henan)
+# 洛阳现代农机装备集群
+
+id: cls-luoyang-agri-machinery
+type: IndustrialCluster
+name_en: Luoyang Modern Agricultural Machinery Cluster
+name_zh: 洛阳现代农机装备集群
+designation: chain_anchor   # 链主(中国一拖) + 农机装备国家队 + 千亿集群
+
+location:
+  province: Henan
+  city: Luoyang (洛阳市)
+  note: "中国一拖龙头，河南省首个国家级先进制造业集群"
+
+primary_industry: Agricultural machinery (农机装备)   # ind-agri-machinery
+related_industries:
+  - tractors (拖拉机)
+  - harvesters (收获机)
+  - agricultural machinery components (农机部件)
+
+major_products:
+  - tractors (拖拉机)
+  - combine harvesters (联合收获机)
+  - agricultural machinery (农机装备)
+
+key_manufacturers:
+  - { name: "中国一拖 (YTO Group)", note: "龙头，大轮拖生产线" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "2024 年洛阳现代农机装备集群入选国家先进制造业集群，实现河南省国家级先进制造业集群'零的突破'."
+    source: src-cri-luoyang
+  - fact: "洛阳现代农机装备集群形成以中国一拖为龙头、产业链上下联动发展的格局，关联企业 300 余家，产值 600 亿元."
+    source: src-dahecube-luoyang
+  - fact: "中国一拖大轮拖生产线、8568 多功能联合收获机为国家农机装备创新中心研制."
+    source: src-cri-luoyang
+
+confidence: High

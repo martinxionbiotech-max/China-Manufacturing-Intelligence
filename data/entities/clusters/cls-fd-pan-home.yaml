@@ -1,0 +1,43 @@
+# Cluster Entity — Foshan-Dongguan Pan-Home (Guangdong)
+# 佛莞泛家居产业集群
+
+id: cls-fd-pan-home
+type: IndustrialCluster
+name_en: Foshan-Dongguan Pan-Home Cluster
+name_zh: 佛莞泛家居产业集群
+designation: dual_city   # 双城协同 + 家具(东莞) + 陶瓷(佛山) + 前店后厂
+
+location:
+  province: Guangdong
+  city: Foshan (佛山市) / Dongguan (东莞市)
+  note: "佛莞'泛家居'先进制造业集群"
+
+primary_industry: Pan-home / home furnishings (泛家居)   # ind-pan-home
+related_industries:
+  - furniture (家具)
+  - ceramics & tiles (陶瓷/瓷砖)
+  - home decoration (家居装饰)
+
+major_products:
+  - furniture (家具)
+  - ceramics & sanitary ware (陶瓷/卫浴)
+  - home decoration materials (家居装饰材料)
+
+key_manufacturers:
+  - { name: "东莞家具产业", note: "2024 世界级家具产业集群活动举办地" }
+  - { name: "佛山陶瓷产业", note: "瓷砖/卫浴" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "2024 年持续推进佛莞'泛家居'产业集群建设，起草《佛莞泛家居先进制造业产业集群》相关规划."
+    source: src-dg-panhome
+  - fact: "2024 世界级家具产业集群活动再次选定东莞作为举办地（东莞市政府 + 中国家具协会主办）."
+    source: src-gde-panhome
+  - fact: "佛山泛家居产业集群产值规模已超 1.5 万亿元，涵盖陶瓷、卫浴、家电、铝门窗、定制、照明、家具、地板、塑管等 14 个品类."
+    source: src-xinhua-panhome
+  - fact: "佛山泛家居产业集群 2020、2021 连续两年实现产值超万亿元."
+    source: src-gd-panhome
+
+confidence: High

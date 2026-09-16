@@ -1,0 +1,25 @@
+id: ind-home-appliances
+type: Industry
+name_en: Home Appliances
+name_zh: 家电
+super_sector: F — Consumer Goods
+gb_code: C385
+major_clusters:
+- cls-shunde-home-appliances
+- cls-qingdao-appliances
+- cls-cixi-small-appliances
+major_products:
+- prd-home-appliance
+- prd-small-appliance
+major_cities:
+- Foshan
+- Qingdao
+- Cixi
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 顺德家电产值约全国 15%、微波炉/电热水器全球 40%+；青岛海尔 2024 营收破 4000 亿元；慈溪智能家电集群核心区 2025 营收 1083.8 亿元.
+  source: cls-shunde-home-appliances, cls-qingdao-appliances, cls-cixi-small-appliances
+- fact: 2024年中国空调累计产量26598.4万台(+9.7%)，白电受益以旧换新政策与出口拉动产量明显回升。
+  source: 国家统计局(2025)
+confidence: High

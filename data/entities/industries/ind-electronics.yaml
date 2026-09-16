@@ -1,0 +1,24 @@
+id: ind-electronics
+type: Industry
+name_en: Electronics & ICT Manufacturing
+name_zh: 电子信息制造
+super_sector: A — New-Generation Information Technology
+gb_code: C39
+major_clusters:
+- cls-shenzhen-electronics
+- cls-dongguan-smart-terminal
+- cls-cy-electronics
+major_products:
+- prd-pcb
+- prd-smartphone
+major_cities:
+- Shenzhen
+- Dongguan
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 深圳电子集群全球约 1/7 智能手机'深圳造'；东莞智能终端 2022 年产智能手机 1.96 亿部、2024 出货约全球 24%.
+  source: cls-shenzhen-electronics, cls-dongguan-smart-terminal
+- fact: 2025年规模以上电子信息制造业增加值同比增长10.6%，增速比同期工业高4.7个百分点；2025年1-2月出口交货值同比+5.9%。
+  source: 工信部(2026)
+confidence: High

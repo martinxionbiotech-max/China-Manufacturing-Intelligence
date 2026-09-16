@@ -1,0 +1,43 @@
+# Cluster Entity — Cixi Small Appliances (Zhejiang)
+# 慈溪小家电集群（宁波·慈溪）
+
+id: cls-cixi-small-appliances
+type: IndustrialCluster
+name_en: Cixi Small Appliances Cluster
+name_zh: 慈溪小家电集群
+designation: private_chain_leader   # 民营 + 小家电 ODM 集群（与顺德同源, 更偏 ODM）
+
+location:
+  province: Zhejiang
+  city: Ningbo (宁波市)
+  county: Cixi (慈溪市, 县级市)
+  note: "宁波代管县级市, 杭州湾南岸; 全国百强县第六"
+
+primary_industry: Small household appliances   # ind-small-appliances
+related_industries:
+  - electric kettles & air fryers
+  - kitchen appliances (厨电)
+  - home environment (fans, heaters)
+  - beauty & personal care
+
+major_products:
+  - air fryers (日均 2 万台下线)
+  - electric kettles
+  - kitchen appliances
+  - beauty/personal care appliances
+
+key_manufacturers:
+  - { name: "悦达电子等分散的 ODM/OEM 企业群", note: "空气炸锅日产能 2 万台, 专利保有量全行业领先" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "2025 慈溪现代家具与智能家电产业集群核心区实现营收 1083.8 亿元, '慈溪智能家电'入围年度中国消费名品名单."
+    source: src-sina-cixi
+  - fact: "2026 年前两月慈溪家用电器出口达 50.2 亿元, 同比增长 6.6%."
+    source: src-sina-cixi
+  - fact: "慈溪位列全国百强县第六, 小家电是重要支柱; 悦达电子空气炸锅日均 2 万台下线, 技术专利保有量全行业领先."
+    source: src-sina-cixi
+
+confidence: High

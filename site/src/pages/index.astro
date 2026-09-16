@@ -1,0 +1,76 @@
+---
+import { getEntityIndex, KIND_LABEL_PLURAL, KIND_ROUTE, type Kind } from '../lib/entities';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EntityCard from '../components/EntityCard.astro';
+
+const index = await getEntityIndex();
+
+const sections: { kind: Kind; title: string; description: string; path: string }[] = [
+  {
+    kind: 'cluster',
+    title: 'Manufacturing Clusters',
+    description:
+      'National advanced-manufacturing clusters and specialized towns — where China\u2019s industries concentrate.',
+    path: KIND_ROUTE.cluster,
+  },
+  {
+    kind: 'city',
+    title: 'Manufacturing Cities',
+    description:
+      'Anchor cities and county-level production towns behind China\u2019s export base.',
+    path: KIND_ROUTE.city,
+  },
+  {
+    kind: 'industry',
+    title: 'Industries',
+    description:
+      'Industry taxonomies mapped to their geographic anchors and leading products.',
+    path: KIND_ROUTE.industry,
+  },
+  {
+    kind: 'product',
+    title: 'Products',
+    description:
+      '\u201CWhere is [product] made in China?\u201D — product categories tied to clusters and cities.',
+    path: KIND_ROUTE.product,
+  },
+];
+
+const total = index.all.length;
+---
+
+<BaseLayout
+  title="China Manufacturing Intelligence"
+  description="A sourced English-language knowledge base for China's manufacturing geography — clusters, cities, industries, and products, every claim labeled FACT / INFERENCE / OPINION."
+  canonicalPath="/"
+>
+  <section class="hero">
+    <h1>China Manufacturing Intelligence</h1>
+    <p>
+      A sourced, English-language knowledge base for China\u2019s manufacturing
+      geography. <strong>{total} entities</strong> across industrial clusters, cities,
+      industries, and products — every factual claim verified and labeled.
+    </p>
+    <p>
+      This is not a sourcing blog or supplier directory. It is an editorial map of
+      where things are actually made, and why.
+    </p>
+  </section>
+
+  {
+    sections.map((s) => (
+      <section class="section">
+        <h2><a href={s.path}>{s.title}</a></h2>
+        <p class="section-desc">
+          {s.description}{' '}
+          <a href={s.path}>
+            View all {index.byKind[s.kind].length} {KIND_LABEL_PLURAL[s.kind].toLowerCase()} →
+          </a>
+        </p>
+        <div class="grid">
+          {index.byKind[s.kind].slice(0, 6).map((e) => <EntityCard entity={e} />)}
+        </div>
+      </section>
+    ))
+  }
+</BaseLayout>

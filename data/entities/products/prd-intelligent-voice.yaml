@@ -1,0 +1,27 @@
+id: prd-intelligent-voice
+type: Product
+name_en: Intelligent Voice & AI Speech Systems
+name_zh: 智能语音/AI 语音系统
+industry: Artificial Intelligence / Software
+hs_codes:
+- 8517
+major_clusters:
+- cls-hefei-intelligent-voice
+major_cities:
+- Hefei
+components:
+- ASR engine (语音识别引擎)
+- TTS engine (语音合成引擎)
+- NLP (自然语言处理)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 合肥智能语音产业集群入选国家先进制造业集群(2025 上半年)，集聚科大讯飞/中科星图/华米科技等企业.
+  source: cls-hefei-intelligent-voice
+- fact: 2018 年'中国声谷'产值 650 亿元、入驻企业 430 家；科大讯飞 AI 总部'讯飞小镇'2024 年 9 月启用，吸引超千家创新企业.
+  source: cls-hefei-intelligent-voice
+- fact: 2025年AI语音全球市场规模突破1200亿美元，中国市场占比超35%。
+  source: IIM信息(2025)
+confidence: High

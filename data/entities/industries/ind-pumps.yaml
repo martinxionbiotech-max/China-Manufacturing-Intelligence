@@ -1,0 +1,21 @@
+id: ind-pumps
+type: Industry
+name_en: Pumps & Valves
+name_zh: 泵阀
+super_sector: B — High-End Equipment
+gb_code: C344
+major_clusters:
+- cls-taizhou-pumps
+major_products:
+- prd-pump-valve
+major_cities:
+- Taizhou
+- Wenzhou
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 玉环入选第三批浙江省级精密泵阀'新星'产业群；温岭泵与电机为全国重要基地.
+  source: cls-taizhou-pumps
+- fact: 2024年中国泵产品市场规模约2492亿元(含出口)，其中出口市场规模约526亿元。
+  source: 格物致胜《2025中国泵行业市场白皮书》(2025)
+confidence: High

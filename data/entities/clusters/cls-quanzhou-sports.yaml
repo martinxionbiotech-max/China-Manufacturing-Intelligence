@@ -1,0 +1,42 @@
+# Cluster Entity — Quanzhou Modern Sports Products (Fujian)
+# 泉州现代体育产品集群
+
+id: cls-quanzhou-sports
+type: IndustrialCluster
+name_en: Quanzhou Modern Sports Products Cluster
+name_zh: 泉州现代体育产品集群
+designation: private_champion_brand   # 民营链主(安踏/特步/361°) + 品牌集群 + 逆向工程→并购
+
+location:
+  province: Fujian
+  city: Quanzhou (泉州市) / Jinjiang (晋江)
+  note: "运动鞋产量占全国 40%、全球 20%"
+
+primary_industry: Sports products (体育用品)   # ind-sports-products
+related_industries:
+  - athletic footwear (运动鞋)
+  - sportswear (运动服装)
+  - sports equipment (体育器械)
+
+major_products:
+  - athletic footwear (运动鞋)
+  - sportswear & apparel (运动服装)
+  - sports equipment (体育器械)
+
+key_manufacturers:
+  - { name: "安踏 (ANTA)", note: "链主，2024 牵头成立体育用品产业创新联合体" }
+  - { name: "特步 (Xtep)", note: "2024H1 营收 72 亿" }
+  - { name: "361°", note: "2024H1 营收 51.41 亿" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "2024 年泉州现代体育产品集群入选国家先进制造业集群，以休闲体育为特色、纺织鞋服为核心."
+    source: src-ce-quanzhou
+  - fact: "2024 年泉州市纺织鞋服产业年产值超 7000 亿元，其中运动鞋产量占全国的 40%、全球的 20%."
+    source: src-fujian-quanzhou
+  - fact: "2024 年安踏牵头成立'体育用品产业创新联合体'，联合供应商、院校、研发机构协同创新并参与制定全球标准."
+    source: src-qzgov-quanzhou
+
+confidence: High

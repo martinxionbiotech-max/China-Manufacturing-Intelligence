@@ -1,0 +1,39 @@
+# Cluster Entity — Baoding Power & New Energy Equipment (Hebei)
+# 保定电力及新能源高端装备集群
+
+id: cls-baoding-power-equipment
+type: IndustrialCluster
+name_en: Baoding Power & New Energy Equipment Cluster
+name_zh: 保定电力及新能源高端装备集群
+designation: energy_valley   # 中国电谷 + 风光氢储输全链 + 京津冀协同
+
+location:
+  province: Hebei
+  city: Baoding (保定市)
+  note: "'中国电谷'，中国北方最大电力及新能源高端装备制造基地"
+
+primary_industry: Power & new energy equipment (电力及新能源装备)   # ind-power-equipment
+related_industries:
+  - wind power (风电)
+  - solar / PV (光伏)
+  - hydrogen & energy storage (氢能/储能)
+
+major_products:
+  - power transmission equipment (输变电装备)
+  - wind/solar/hydrogen equipment (风光氢储装备)
+
+key_manufacturers:
+  - { name: "保定高新区", note: "核心承载区，企业超 6300 家" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "保定高新区为核心承载区的产业集群汇聚企业超 6300 家，2024 年集群产值 1660 亿元，是中国北方最大的电力及新能源高端装备制造基地."
+    source: src-hebgxt-baoding
+  - fact: "保定'一核六区三基地'空间布局，'风光氢储输'产业脉络."
+    source: src-hebgxt-baoding
+  - fact: "到 2025 年集群年产值将达 2500 亿元，主营业务收入超百亿元企业 8 家."
+    source: src-xinhua-baoding
+
+confidence: High

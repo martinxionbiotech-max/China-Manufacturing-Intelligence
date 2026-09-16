@@ -1,0 +1,51 @@
+# Cluster Entity — Wuhan Optics Valley (Donghu High-tech Zone)
+# 武汉光谷光电子信息集群（东湖高新区）
+
+id: cls-wuhan-optics-valley
+type: IndustrialCluster   # 高校科研院所 + 国家战略驱动
+name_en: Wuhan Optics Valley (Donghu High-tech Zone)
+name_zh: 武汉光谷（东湖新技术开发区）
+designation: state_research_driven   # 国家光电子产业基地 / 第二家国家自主创新示范区
+
+location:
+  province: Hubei
+  city: Wuhan
+  zone: Donghu New Technology Development Zone
+  note: "规划面积 518 平方公里, 8 个街道, 8 个产业集聚园区, 人口约 200 万(平均年龄约 31 岁)"
+
+primary_industry: Optoelectronics & information   # ind-optoelectronics
+related_industries:
+  - optical fiber & cable (全球第一)
+  - laser equipment (全国最大激光设备生产基地)
+  - integrated circuits & new display (长江存储/新型显示)
+  - life sciences & health
+  - digital economy & AI
+
+major_products:
+  - optical fiber preform, fiber, cable
+  - optical communication devices
+  - lasers & laser equipment
+  - memory/storage chips (长江存储 YMTC)
+  - optoelectronic components
+
+key_manufacturers:
+  - { name: YOFC (长飞光纤), note: "1988年, 全球最大光纤光缆制造商, 2024营收122亿" }
+  - { name: FiberHome (烽火通信), note: "光通信设备龙头" }
+  - { name: YMTC (长江存储), note: "存储芯片" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "规划面积 518 平方公里, 8 街道 8 园区, 人口约 200 万(平均年龄约 31 岁); 全国 10 家'世界一流高科技园区'之一; 外资企业 700 多家, 世界 500 强 87 家."
+    source: src-wehdz
+  - fact: "外贸出口总量占湖北省三分之一、武汉市 60%."
+    source: src-wehdz
+  - fact: "形成'5+2'产业体系(五大千亿级: 光电子信息/生命健康/节能环保/高端装备/高技术服务 + 集成电路新型显示/数字经济); 建成国内最大光纤光缆/光电器件/光通信研发/激光设备基地, 光纤光缆生产规模全球第一."
+    source: src-wehdz
+  - fact: "中国三大智力密集区之一: 42 高校、56 科研院所、8000+ 博士、4 万+ 硕士以上人才."
+    source: src-wehdz
+  - fact: "2026 Q1 湖北工业利润同比 +87.5% 居全国第一, 计算机通信电子贡献超一半; 光谷 1976 年拉出中国第一根光纤."
+    source: src-ifeng-guanggu
+
+confidence: High

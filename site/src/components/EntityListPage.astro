@@ -1,0 +1,31 @@
+---
+import type { Kind } from '../lib/entities';
+import { KIND_LABEL_PLURAL, getEntityIndex } from '../lib/entities';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EntityCard from '../components/EntityCard.astro';
+
+interface Props {
+  kind: Kind;
+  title: string;
+  description: string;
+  canonicalPath: string;
+}
+
+const { kind, title, description, canonicalPath } = Astro.props;
+const index = await getEntityIndex();
+const entities = index.byKind[kind];
+---
+
+<BaseLayout title={title} description={description} canonicalPath={canonicalPath}>
+  <section class="hero">
+    <h1>{title}</h1>
+    <p>{description}</p>
+    <p>{entities.length} entities · sourced and verified · every claim labeled FACT / INFERENCE / OPINION</p>
+  </section>
+
+  <section class="section">
+    <div class="grid">
+      {entities.map((e) => <EntityCard entity={e} />)}
+    </div>
+  </section>
+</BaseLayout>

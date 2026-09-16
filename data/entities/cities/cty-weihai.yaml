@@ -1,0 +1,27 @@
+id: cty-weihai
+type: City
+name_en: Weihai
+name_zh: 威海
+province: Shandong
+major_clusters:
+- cls-qingdao-shipbuilding
+major_industries:
+- ind-shipbuilding
+major_products:
+- prd-ship
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 青烟威船舶与海洋工程装备集群 2024 年 12 月入选国家先进制造业集群, 由青岛、烟台、威海三地共同建设.
+  source: cls-qingdao-shipbuilding
+- fact: 'Above-scale industrial revenue: RMB 282.14 billion (2024), +3.1% .'
+  source: 威海市工业和信息化局, "2024年工业信息化发展情况" (2025).
+- fact: 'Ship/rail/aerospace equipment manufacturing value-added: +57% (2024) — the fastest industry .'
+  source: 威海市工业和信息化局, "2024年工业信息化发展情况" (2025).
+- fact: 'Printers: 17 million laser printers/year, with 94%+ parts localized — targeting "1 of every 3 printers globally" by 2025 .'
+  source: 威海市工业和信息化局, "2024年工业信息化发展情况" (2025).
+- fact: Carbon fiber — a national SME-characteristic cluster in Huancui district .
+  source: 威海市工业和信息化局, "2024年工业信息化发展情况" (2025).
+confidence: High
+ports:
+- prt-weihai

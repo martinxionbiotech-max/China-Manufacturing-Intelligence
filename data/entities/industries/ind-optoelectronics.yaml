@@ -1,0 +1,21 @@
+id: ind-optoelectronics
+type: Industry
+name_en: Optoelectronics & Displays
+name_zh: 光电子/显示
+super_sector: A — New-Generation Information Technology
+gb_code: C3974
+major_clusters:
+- cls-wuhan-optics-valley
+major_products:
+- prd-optical-fiber
+major_cities:
+- Wuhan
+- Shenzhen
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 光谷建成国内最大光纤光缆/光电器件/光通信研发/激光设备基地，光纤光缆生产规模全球第一；1976 年拉出中国第一根光纤.
+  source: cls-wuhan-optics-valley
+- fact: 2025年LED显示屏整体产值约486亿元。
+  source: 行家说Research(2025)
+confidence: High

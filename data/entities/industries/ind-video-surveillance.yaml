@@ -1,0 +1,21 @@
+id: ind-video-surveillance
+type: Industry
+name_en: Digital Security / Video Surveillance
+name_zh: 数字安防/视频监控
+super_sector: A — New-Generation Information Technology
+gb_code: C3932
+major_clusters:
+- cls-hangzhou-digital-security
+major_products:
+- prd-security-camera
+major_cities:
+- Hangzhou
+- Shenzhen
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 海康威视、大华股份两大龙头合计市场份额约 65%，诞生于杭州滨江核心区；2024 上半年海康营收 412 亿元(+9.68%)，向智能物联 AIoT 转型.
+  source: cls-hangzhou-digital-security
+- fact: 2025年全球视频监控市场规模837.1亿美元，预计2034年达2616.5亿美元(CAGR 13.5%)。
+  source: Fortune Business Insights(2025)
+confidence: High

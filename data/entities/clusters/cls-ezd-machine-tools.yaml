@@ -1,0 +1,39 @@
+# Cluster Entity — East-Zhejiang Industrial Mother Machines (Zhejiang)
+# 浙东工业母机集群
+
+id: cls-ezd-machine-tools
+type: IndustrialCluster
+name_en: East-Zhejiang Industrial Mother Machines Cluster
+name_zh: 浙东工业母机集群
+designation: cluster_density   # 台州温岭 + 千企协同 + 工业母机国家级集群
+
+location:
+  province: Zhejiang
+  city: Taizhou (台州市) / Wenling (温岭)
+  note: "核心承载地台州，近 2000 家工业母机相关企业"
+
+primary_industry: Machine tools / industrial mother machines (工业母机)   # ind-machine-tools
+related_industries:
+  - CNC machine tools (数控机床)
+  - precision components (精密部件)
+  - industrial automation (工业自动化)
+
+major_products:
+  - CNC machine tools (数控机床)
+  - machine tool components (机床部件)
+
+key_manufacturers:
+  - { name: "浙东工业母机集群", note: "2000+ 规上企业，产值近 2800 亿" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "2024 年浙东工业母机集群入选国家先进制造业集群；台州拥有近 2000 家工业母机相关企业，规上营收超 700 亿元."
+    source: src-wlxd-ezd
+  - fact: "浙东工业母机集群集聚 2000 多家规上企业，2023 年实现产值近 2800 亿元、占全国近五分之一."
+    source: src-cztv-ezd
+  - fact: "浙江省高档数控机床技术创新中心主导申报浙东工业母机集群成功入选国家先进制造业集群."
+    source: src-wlxd-ezd
+
+confidence: High

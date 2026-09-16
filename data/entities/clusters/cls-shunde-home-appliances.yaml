@@ -1,0 +1,57 @@
+# Cluster Entity — Shunde Home Appliance Cluster (Foshan)
+# 顺德家电产业集群（中国家电之都）
+
+id: cls-shunde-home-appliances
+type: IndustrialCluster   # 民营链主 + 草根逆向工程 + 极致配套密度
+name_en: Shunde Home Appliance Cluster
+name_zh: 顺德家电产业集群（中国家电之都）
+designation: private_chain_leader   # 连续五届"中国家电之都"
+
+location:
+  province: Guangdong
+  city: Foshan
+  district: Shunde
+  sub_areas:
+    - { name: Beijiao, name_zh: 北滘镇, role: core, note: "美的总部; 92km2, 近200家规上家电企业, 占全国家电产值10%" }
+    - { name: Shunde, name_zh: 顺德区, role: cluster, note: "3000+家电生产及配套企业" }
+
+primary_industry: Home appliances   # ind-home-appliances
+related_industries:
+  - small appliances (小家电)
+  - industrial robotics (库卡/发那科/ABB进驻)
+  - HVAC & compressors (美芝压缩机全球1/3空调)
+  - industrial design (广东工业设计城)
+
+major_products:
+  - microwave ovens (全球最大供应基地)
+  - rice cookers (全球最大供应基地)
+  - air conditioners, refrigerators, washing machines
+  - water heaters, range hoods
+  - small appliances (咖啡机/吸尘器/空气炸锅)
+
+key_manufacturers:
+  - { name: Midea, name_zh: 美的集团, note: "1968年, Fortune Global 500, 总部北滘" }
+  - { name: Galanz, name_zh: 格兰仕, note: "全球微波炉第一, 每2台微波炉有1台" }
+  - { name: Hisense Kelon, name_zh: 海信科龙, note: "空调/冰箱" }
+  - { name: Vanward, name_zh: 万和, note: "燃气热水器龙头" }
+  - { name: Xinbao, name_zh: 新宝电器, note: "小家电ODM龙头, 30+配件公司" }
+  - { name: Bear, name_zh: 小熊电器, note: "新兴小家电品牌" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "Shunde home appliance output ~15% of China's national total; export ~10% of national; 80% local sourcing rate; 3,000+ production & component firms."
+    source: src-gdeacc, src-time-weekly
+  - fact: "Shunde annual output value passed RMB 400B (2023-24); world's largest rice cooker and microwave oven supply base; national largest AC/fridge/water-heater/disinfecting-cabinet base."
+    source: src-foshanplus, src-cifnews
+  - fact: "Foshan microwave & water-heater output >40% of global; range hoods ~1/3 global; rice cookers ~1/4 global."
+    source: src-sina-20260115, src-stcn
+  - fact: "China microwave output ~116M units in 2024 (~67% of global); Galanz ~38M units/yr, historically 40-44% global share."
+    source: src-faxiangongchang
+  - fact: "Beijiao: 92 km2, ~200 above-scale appliance firms, >200M units/yr, ~10% of national appliance output value; Midea HQ."
+    source: src-xinhua-20220121
+  - fact: "Midea Shunde microwave plant was Foshan's first WEF 'Lighthouse Factory' (2021); Midea kitchen-heat plant is world's largest dishwasher base (6M units/yr, 145 countries)."
+    source: src-nfnews, src-cb
+
+confidence: High

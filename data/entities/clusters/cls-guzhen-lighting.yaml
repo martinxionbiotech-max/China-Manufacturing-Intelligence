@@ -1,0 +1,58 @@
+# Cluster Entity — Guzhen Lighting Cluster (Zhongshan)
+# 中山古镇灯饰集群
+
+id: cls-guzhen-lighting
+type: IndustrialCluster
+name_en: Guzhen Lighting Cluster
+name_zh: 古镇灯饰产业集群
+designation: town_level_cluster   # "中国灯饰之都" (2002, 中国轻工业联合会+中国照明电器协会)
+
+location:
+  province: Guangdong
+  city: Zhongshan
+  town: Guzhen
+  sub_areas:
+    - { name: Guzhen Town, name_zh: 古镇镇, role: core, note: "<50 km2; 70% domestic / 50% global lighting share" }
+    - { name: "Radiating 3 cities 11 towns", name_zh: 覆盖周边3市11镇区, role: surrounding_cluster, note: "Henglan, Xiaolan, etc." }
+
+primary_industry: Lighting & Luminaires   # ind-lighting
+related_industries:
+  - LED lighting (chips, packaging, application)
+  - Smart lighting
+  - Outdoor / landscape lighting
+  - Ceramic lighting
+
+major_products:
+  - residential lighting
+  - commercial lighting
+  - outdoor lighting
+  - LED light sources & drivers
+  - smart lighting systems
+
+key_manufacturers:
+  - { name: Opple Lighting, name_zh: 欧普照明, role: residential_lighting, note: "national brand" }
+  - { name: Huayi Lighting, name_zh: 华艺灯饰, role: decorative_lighting, note: "supplied Bird's Nest 'China Red'" }
+  - { name: NVC (雷士照明), name_zh: 雷士, role: commercial_lighting, note: "Shandong brand with Guzhen ops" }
+  - { name: Songwei Lighting, name_zh: 松伟照明, role: residential_lighting, note: "1000+ stores brand" }
+
+ports:
+  - { name: "Near Guangzhou Baiyun (CAN) / Shenzhen Bao'an (SZX) airports; PRD logistics", role: logistics_air_sea }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "Guzhen (<50 km2) holds ~70% of China's domestic lighting market and ~50% of the global market; exports to 130+ (some sources 180+) countries."
+    source: src-xinhua-20241122, src-oeeee-20251023
+  - fact: "Cluster centered on Guzhen, radiating 3 cities/11 towns, with annual output value exceeding RMB 100B."
+    source: src-oeeee-20251023, src-stcn
+  - fact: "30,000+ lighting business entities in the town (some sources 45,000+ registered); 200,000+ industry workers."
+    source: src-xinhua-20241122, src-stcn
+  - fact: "Originated 1982 with the first self-made lamp copied from a Hong Kong sample; 2002 named 'China Lighting Capital'."
+    source: src-zsdag, src-stcn
+  - fact: "China's overall lighting industry reached RMB 600B annual sales; 2024 export US$56.1B; 2025 Jan-Aug export US$34.4B (-6.7% YoY)."
+    source: src-oeeee-20251023
+  - fact: "Guzhen Lighting Fair (since 1999) is the Asia-Pacific's largest lighting exhibition; 33rd edition drew ~160,000 visitors, 4,800+ overseas buyers from 144 countries."
+    source: src-zsnews-20251026, src-gdtoday
+
+confidence: High

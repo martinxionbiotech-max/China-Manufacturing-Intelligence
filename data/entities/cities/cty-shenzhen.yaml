@@ -1,0 +1,33 @@
+id: cty-shenzhen
+type: City
+name_en: Shenzhen
+name_zh: 深圳
+province: Guangdong
+major_clusters:
+- cls-sg-medical-devices
+- cls-shenzhen-electronics
+major_industries:
+- ind-electronics
+- ind-medical-devices
+major_products:
+- prd-medical-device
+- prd-pcb
+- prd-smartphone
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2022 深圳电子信息制造业产值 2.48 万亿元, 约占全国 1/6; 华强北为全球最大电子元器件集散地.
+  source: cls-shenzhen-electronics
+- fact: 迈瑞医疗监护类产品连续 15 年蝉联第一, X射线/超声/呼吸/麻醉/检验等多产品线第一.
+  source: cls-sg-medical-devices
+- fact: '2024 above-scale industrial output: RMB 5.4 trillion; industrial value-added +9.7% — national "double #1" for 3 straight years .'
+  source: 深圳政府在线, "深圳在战新产业赛道跑出'加速度'" (2024).
+- fact: Strategic-emerging industries >40% of GDP; 5 national advanced-manufacturing clusters .
+  source: 深圳政府在线, "深圳在战新产业赛道跑出'加速度'" (2024).
+- fact: '2024 robot output: 133,900 industrial + 7.1129 million service robots; a "robot valley" of 100+ chain firms (UBTech, Dobot) .'
+  source: 深圳政府在线, "深圳在战新产业赛道跑出'加速度'" (2024).
+- fact: 1,800+ medical-device firms + dozens of top research institutions across the full R&D→clinical→ incubation→industrial chain .
+  source: 深圳政府在线, "深圳在战新产业赛道跑出'加速度'" (2024).
+confidence: High
+ports:
+- prt-shenzhen

@@ -1,0 +1,49 @@
+site_name: China Manufacturing Intelligence — Data Hub
+site_description: >-
+  Structured knowledge graph of China's manufacturing geography — industrial
+  clusters, cities, industries, and products, with verified facts and evidence
+  levels.
+site_url: https://data.chinamanufacturingintel.example
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - Manufacturing Clusters: clusters/index.md
+  - Manufacturing Cities: cities/index.md
+  - Industries: industries/index.md
+  - Products: products/index.md
+  - Ports: ports/index.md
+  - Provinces & Regions: provinces/index.md
+  - HS Code Index: hs-codes.md
+  - Source Index: sources.md

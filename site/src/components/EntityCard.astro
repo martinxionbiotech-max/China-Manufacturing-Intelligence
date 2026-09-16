@@ -1,0 +1,19 @@
+---
+import type { Entity } from '../lib/entities';
+import { KIND_LABEL, entityUrl } from '../lib/entities';
+
+interface Props {
+  entity: Entity;
+}
+
+const { entity } = Astro.props;
+const label = KIND_LABEL[entity.kind];
+---
+
+<article class="card">
+  <a class="card__link" href={entityUrl(entity)}>
+    <span class="card__kind">{label}</span>
+    <h3 class="card__title">{entity.title}</h3>
+    <p class="card__desc">{entity.description}</p>
+  </a>
+</article>

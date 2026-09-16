@@ -1,0 +1,29 @@
+id: prd-rail-equipment
+type: Product
+name_en: Rail Transit Equipment
+name_zh: 轨道交通装备
+industry: Rail Transit Equipment
+hs_codes:
+- 8603
+- 8607
+major_clusters:
+- cls-zhuzhou-rail-transit
+major_cities:
+- Zhuzhou
+- Changchun
+components:
+- traction system (牵引系统)
+- bogie (转向架)
+- control system (控制系统)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2023 株洲集群规模超 1600 亿元、占全国行业 30%+；全球最大轨道交通装备制造基地、全球首个千亿级轨道交通集群.
+  source: cls-zhuzhou-rail-transit
+- fact: 5 家 CRRC 一级子公司 + 400 多家上下游企业，本地配套率 80%+、80%+ 零部件 5 公里内；复兴号牵引及网络控制系统由中车株洲所研制.
+  source: cls-zhuzhou-rail-transit
+- fact: 2025年全球轨道交通装备出口总额约1470亿美元，中国占28%居首。
+  source: 观研天下(2026)
+confidence: High

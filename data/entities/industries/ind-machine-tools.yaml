@@ -1,0 +1,21 @@
+id: ind-machine-tools
+type: Industry
+name_en: Machine Tools / Industrial Mother Machines
+name_zh: 工业母机/机床
+super_sector: B — High-End Equipment
+gb_code: C342
+major_clusters:
+- cls-ezd-machine-tools
+major_products:
+- prd-machine-tool
+major_cities:
+- Taizhou
+- Ningbo
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 浙东工业母机集群 2023 产值近 2800 亿元、占全国近 1/5；2024 入选国家先进制造业集群，台州近 2000 家相关企业.
+  source: cls-ezd-machine-tools
+- fact: 2024年金属加工机床生产额2050亿元(+5.1%)；工业母机市场规模7128.96亿元，其中数控机床4325亿元、五轴联动120亿元。
+  source: 大公信用/格物致胜(2025)
+confidence: High

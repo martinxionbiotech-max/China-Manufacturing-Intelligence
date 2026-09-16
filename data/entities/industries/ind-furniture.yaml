@@ -1,0 +1,22 @@
+id: ind-furniture
+type: Industry
+name_en: Furniture & Home
+name_zh: 家具/泛家居
+super_sector: F — Consumer Goods
+gb_code: C21
+major_clusters:
+- cls-foshan-furniture
+- cls-fd-pan-home
+major_products:
+- prd-furniture
+major_cities:
+- Foshan
+- Dongguan
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 顺德全区家具相关企业超 3 万家，乐从家具城经营面积 200 多万 m²、3000+ 经销商户.
+  source: cls-foshan-furniture
+- fact: 2025年家具及其零件累计出口4559.4亿元(-5.6%)；2024年上半年家具及其零件出口额曾同比+18.3%。
+  source: 海关总署(2025)
+confidence: High

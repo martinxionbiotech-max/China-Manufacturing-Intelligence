@@ -1,0 +1,28 @@
+id: cty-taizhou
+type: City
+name_en: Taizhou
+name_zh: 台州
+province: Zhejiang
+major_clusters:
+- cls-ezd-machine-tools
+- cls-taizhou-pumps
+major_industries:
+- ind-machine-tools
+- ind-pumps
+major_products:
+- prd-machine-tool
+- prd-pump-valve
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2024 浙东工业母机集群入选国家先进制造业集群; 台州拥有近 2000 家工业母机相关企业, 规上营收超 700 亿元.
+  source: cls-ezd-machine-tools
+- fact: 玉环入选第三批浙江省级精密泵阀'新星'产业群; 温岭泵与电机为全国重要基地.
+  source: cls-taizhou-pumps
+- fact: 2,000+ machine-tool equipment firms (Heidman, Eastern CNC, Beiping); economical CNC machine tools = 1/3 of national output .
+  source: 新华每日电讯, "台州先进制造业集群的'生长密码'" (2024).
+- fact: '299 "hidden-champion" products with #1 domestic/global share; 55 listed firms .'
+  source: 新华每日电讯, "台州先进制造业集群的'生长密码'" (2024).
+- fact: 'Emerging new-energy track: Qingtao solid-state lithium-battery PACK plant (Huangyan) and a broader wind/PV/nuclear-storage play .'
+  source: 新华每日电讯, "台州先进制造业集群的'生长密码'" (2024).
+confidence: High

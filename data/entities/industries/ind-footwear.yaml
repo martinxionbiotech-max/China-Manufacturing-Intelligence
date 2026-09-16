@@ -1,0 +1,23 @@
+id: ind-footwear
+type: Industry
+name_en: Footwear
+name_zh: 鞋
+super_sector: F — Consumer Goods
+gb_code: C195
+major_clusters:
+- cls-jinjiang-footwear
+- cls-quanzhou-sports
+major_products:
+- prd-footwear
+major_cities:
+- Jinjiang
+- Quanzhou
+- Wenzhou
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 陈埭镇(不足 40 km²)3000 多家鞋企年产运动鞋超 10 亿双；2024 泉州纺织鞋服产业年产值超 7000 亿元，运动鞋产量占全国 40%、全球 20%.
+  source: cls-jinjiang-footwear, cls-quanzhou-sports
+- fact: 2023年中国制鞋行业产量135.07亿双，中国为全球最大制鞋生产国。
+  source: 国家统计局/智研咨询(2026)
+confidence: High

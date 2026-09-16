@@ -1,0 +1,25 @@
+id: cty-changsha
+type: City
+name_en: Changsha
+name_zh: 长沙
+province: Hunan
+major_clusters:
+- cls-changsha-construction-machinery
+major_industries:
+- ind-construction-machinery
+major_products:
+- prd-excavator
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2021 长沙工程机械集群产值超 2800 亿元(约全国 1/3), 5 家全球前 50 强; 2022 回落至约 2000 亿元.
+  source: cls-changsha-construction-machinery
+- fact: '>70% of China''s construction-machinery product varieties and ~30% of national output value come from Changsha — #1 for 10+ consecutive years .'
+  source: 湖南政研网, "奋进长沙制造" (2024).
+- fact: Manufacturing value-added = 24.5% of GDP; above-scale industrial value-added grew 9.6% in 2024, a decade high .
+  source: 湖南政研网, "奋进长沙制造" (2024).
+- fact: 'Zoomlion overseas revenue: RMB 23.38 billion (2024), 51.41% of total .'
+  source: 湖南政研网, "奋进长沙制造" (2024).
+- fact: 'National advanced-manufacturing top-100 city ranking: #10 → #5 over the "14th Five-Year" period .'
+  source: 湖南政研网, "奋进长沙制造" (2024).
+confidence: High

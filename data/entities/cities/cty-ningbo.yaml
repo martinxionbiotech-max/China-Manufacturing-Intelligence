@@ -1,0 +1,39 @@
+id: cty-ningbo
+type: City
+name_en: Ningbo
+name_zh: 宁波
+province: Zhejiang
+major_clusters:
+- cls-cixi-small-appliances
+- cls-hangzhou-bay-textile
+- cls-ningbo-green-petrochemical
+- cls-ningbo-magnetic-materials
+major_industries:
+- ind-advanced-materials
+- ind-home-appliances
+- ind-textiles
+major_products:
+- prd-home-appliance
+- prd-home-textile
+- prd-ndfeb-magnet
+- prd-small-appliance
+- prd-socks
+- prd-textile-fabric
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 宁波集聚全国约 22% 的稀土永磁材料企业, 磁性材料产量占全国总产量 40% 以上.
+  source: cls-ningbo-magnetic-materials
+- fact: 2025 慈溪智能家电产业集群核心区实现营收 1083.8 亿元.
+  source: cls-cixi-small-appliances
+- fact: 镇海炼化打造'世界级、高科技、一体化'绿色石化基地.
+  source: cls-ningbo-green-petrochemical
+- fact: 'National single-champion firms: 104 (added 21 in 2024) — China''s first "hundred-champion city" (百冠之城) .'
+  source: 新华网/浙江日报, "2024年宁波三大新兴产业实现两位数增长" (2025).
+- fact: NEV output > 42% of Zhejiang's total; above-scale AI manufacturing value-added +15.5% (2024) .
+  source: 新华网/浙江日报, "2024年宁波三大新兴产业实现两位数增长" (2025).
+- fact: '"361" industrial system: 3 world-class clusters + 6 high-energy clusters + future tracks .'
+  source: 新华网/浙江日报, "2024年宁波三大新兴产业实现两位数增长" (2025).
+confidence: High
+ports:
+- prt-ningbo-zhoushan

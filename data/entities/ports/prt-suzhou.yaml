@@ -1,0 +1,18 @@
+id: prt-suzhou
+type: Port
+name_en: Suzhou Port
+name_zh: 苏州港
+city: Suzhou
+province: Jiangsu
+serves:
+- cls-suzhou-biomed
+- cls-suzhou-nano
+- cls-swt-textile
+evidence_level: High
+confidence: High
+last_verified: '2026-09-15'
+verified_facts:
+- fact: 2024年苏州港完成集装箱吞吐量1002.6万标箱(同比+4.6%)，成为全国首个年吞吐量突破千万标箱的内河港，居全国第8、全球第20。
+  source: 江苏省国资委/荔枝新闻(2025-02)
+- fact: 苏州港由太仓、张家港、常熟3个沿江港区和内河港区组成，现有泊位307个(万吨级以上142个)，2024年货物吞吐量6.05亿吨居全国第8。
+  source: 国务院国资委/光明日报(2024-12)

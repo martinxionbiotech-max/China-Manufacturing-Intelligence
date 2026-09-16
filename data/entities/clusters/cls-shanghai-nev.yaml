@@ -1,0 +1,41 @@
+# Cluster Entity — Shanghai New Energy Vehicle (Tesla Gigafactory + SAIC)
+# 上海新能源汽车集群
+
+id: cls-shanghai-nev
+type: IndustrialCluster
+name_en: Shanghai NEV Cluster
+name_zh: 上海新能源汽车集群
+designation: foreign_anchor_plus_local_ecosystem   # 外资超级工厂 + 本土链主 + 长三角供应链
+
+location:
+  province: Shanghai (municipality)
+  district: Pudong (泥城镇 / 临港新片区)
+  note: "特斯拉上海超级工厂 + 上汽集团; 上海有史以来最大外资制造业项目"
+
+primary_industry: New energy vehicles (NEV)   # ind-new-energy-vehicles
+related_industries:
+  - EV batteries (电池包)
+  - automotive electronics
+  - energy storage (Megapack)
+
+major_products:
+  - electric vehicles (Model 3/Y)
+  - EV battery packs
+  - grid-scale energy storage (Megapack)
+
+key_manufacturers:
+  - { name: Tesla Shanghai Gigafactory, note: "总投资 500 亿, 2023 产值 2306 亿(占上海汽车产业 29.9%)" }
+  - { name: SAIC Motor (上汽集团), note: "本土链主" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "特斯拉上海超级工厂是上海有史以来最大外资制造业项目, 总投资 500 亿元; 2020 首个完整年入库工业产值 380 多亿, 2021 年 1319 亿(+247%, 占上海汽车产业 17.3%), 2022 年 1838 亿(+49.7%, 占 22.7%), 2023 年 2306 亿(+25.4%, 占 29.9%, 税收 83.9 亿)."
+    source: src-baike-tesla-sh
+  - fact: "上海工厂 1/3 车辆出口海外, 2026 年 3 月出口近 3 万台; 2026 年 8 月第 600 万个电池包下线."
+    source: src-baike-tesla-sh
+  - fact: "工厂占地 86 万平方米, 位于浦东新区泥城镇(临港); 2025 年首台 Megapack 超大型商用电化学储能系统下线, 产品辐射亚太乃至全球."
+    source: src-baike-tesla-sh
+
+confidence: High

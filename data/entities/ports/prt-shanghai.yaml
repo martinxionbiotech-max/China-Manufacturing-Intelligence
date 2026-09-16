@@ -1,0 +1,20 @@
+id: prt-shanghai
+type: Port
+name_en: Shanghai Port
+name_zh: 上海港
+city: Shanghai
+province: Shanghai
+serves:
+- cls-shanghai-ic
+- cls-shanghai-nev
+- cls-zhangjiang-biomed
+evidence_level: High
+confidence: High
+last_verified: '2026-09-15'
+verified_facts:
+- fact: 2024年上海港集装箱吞吐量首次突破5000万标准箱，创全球港口集装箱运输史上最高纪录，连续15年蝉联全球第一。
+  source: 上海市国资委/国务院国资委(2025-01)
+- fact: 上海港拥有近350条国际航线，覆盖200多个国家和地区的700多个港口，港口连通度连续13年全球第一。
+  source: 上海市国资委(2025-01)
+- fact: 2024年上海港货物吞吐量8.61亿吨，居全国第3。
+  source: 2024全国超亿吨港口货物吞吐量排名(2025)

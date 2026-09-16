@@ -1,0 +1,26 @@
+id: cty-baoding
+type: City
+name_en: Baoding
+name_zh: 保定
+province: Hebei
+major_clusters:
+- cls-baoding-power-equipment
+major_industries:
+- ind-power-equipment
+major_products:
+- prd-low-voltage-electrical
+- prd-power-equipment
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 保定集群汇聚企业超 6300 家, 2024 年产值 1660 亿元, 是中国北方最大的电力及新能源高端装备制造基地.
+  source: cls-baoding-power-equipment
+- fact: 'Manufacturing quality-competitiveness index: 90.13 (2024) — #1 in Hebei for 11 consecutive years .'
+  source: 河北日报, "保定制造业质量竞争力指数连续11年全省第一" (2024).
+- fact: 8 thousand-yuan (RMB 100B) clusters across the city .
+  source: 河北日报, "保定制造业质量竞争力指数连续11年全省第一" (2024).
+- fact: 'Two pillars: auto & parts + new energy, plus 37 county-level characteristic clusters .'
+  source: 河北日报, "保定制造业质量竞争力指数连续11年全省第一" (2024).
+- fact: 'Yingli Group: ~40% global market share in BIPV (building-integrated photovoltaics), RMB 1 billion R&D in the field .'
+  source: 河北日报, "保定制造业质量竞争力指数连续11年全省第一" (2024).
+confidence: High

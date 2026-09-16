@@ -1,0 +1,64 @@
+# Cluster Entity — Changsha Construction Machinery Cluster
+# 长沙工程机械集群
+
+id: cls-changsha-construction-machinery
+type: IndustrialCluster
+name_en: Changsha Construction Machinery Cluster
+name_zh: 长沙市工程机械集群
+designation: national_cluster   # MIIT National Advanced Manufacturing Cluster (2021 首批)
+
+location:
+  province: Hunan
+  city: Changsha
+  sub_areas:
+    - { name: Changsha Economic & Tech Dev Zone, name_zh: 长沙经开区, role: manufacturing_core, anchors: [Sany, CRCHI, Sunward] }
+    - { name: Xiangjiang New Area, name_zh: 湘江新区, role: smart_manufacturing, anchor: "Zoomlion Smart Industrial City" }
+    - { name: Chang-Zhu-Tan Metro Area, name_zh: 长株潭都市圈, role: regional_agglomeration }
+
+primary_industry: Construction & Mining Machinery   # ind-construction-machinery
+related_industries:
+  - Tunnel Boring Machinery (TBM)
+  - Aerial Work Platforms
+  - New Energy Heavy Trucks
+  - Hydraulic Components
+
+major_products:
+  - excavators
+  - concrete pumps & machinery
+  - cranes (tower / crawler / truck)
+  - tunnel boring machines (TBM)
+  - static pile drivers
+  - aerial work platforms
+  - road machinery (rollers, milling machines)
+
+key_manufacturers:      # verified public companies
+  - { name: Sany Heavy Industry, name_zh: 三一重工, role: excavators_concrete, note: "world #1 concrete machinery" }
+  - { name: Zoomlion Heavy Industry, name_zh: 中联重科, role: cranes_concrete, note: "founded 1992 from research institute" }
+  - { name: Sunward Intelligent, name_zh: 山河智能, role: pile_drivers_excavators, note: "world #1 static pile drivers" }
+  - { name: CRCHI (China Railway Construction Heavy Industry), name_zh: 铁建重工, role: tbm_underground, note: "world #1 full-face TBM" }
+  - { name: Sinoboom, name_zh: 星邦智能, role: aerial_work_platforms, note: "entered top-50 in 2022" }
+
+ports:
+  - { name: Changsha Port (Xiangjiang River), name_zh: 长沙港（湘江）, role: inland_river_port }
+  # Note: landlocked city; heavy machinery exports route via rail/truck to coastal ports (Shanghai etc.) or China-Europe freight rail.
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "2021 cluster output exceeded RMB 280B (~1/3 national); 2022 fell to ~RMB 200B (industry downturn); 2024 recovered to >RMB 250B (>30% national share)."
+    source: src-hunan-gov-20250427, src-stcn-2024
+  - fact: "World's 3rd largest construction machinery agglomeration (after US Illinois and Japan Tokyo); asset/revenue/profit #1 nationally for 12+ consecutive years."
+    source: src-stcn-2024
+  - fact: "5 companies in global top-50 (Sany, Zoomlion, Sunward, CRCHI, Sinoboom); Changsha is the world's 2nd city with 5 top-50 firms (after Tokyo)."
+    source: src-chinadaily-20230301
+  - fact: "2024 cluster export RMB 29.06B (+22.9%); overseas revenue CAGR >50%; Sany/Zoomlion/Sunward overseas revenue share >50%."
+    source: src-chinadaily-20250515, src-hunan-gov-20250427
+  - fact: "Cluster produces 12 categories, 100+ sub-categories, ~500 model specs — 70% of national construction machinery variety."
+    source: src-hunan-gov-202105
+  - fact: "Local supply rate rose from 16.3% (2019) to >22% (2022); in-province rate 32.2%."
+    source: src-stcn-2024, src-hunan-gov-202105
+  - fact: "2022: key enterprises' average R&D intensity >6.5%, R&D spend >RMB 20B; 20+ national & 100+ provincial innovation platforms."
+    source: src-scol-20240407
+
+confidence: High

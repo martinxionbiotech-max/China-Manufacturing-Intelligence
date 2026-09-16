@@ -1,0 +1,56 @@
+# Cluster Entity — Foshan Ceramics Cluster
+# 佛山陶瓷产业集群（南国陶都）
+
+id: cls-foshan-ceramics
+type: IndustrialCluster   # 品牌总部经济型（生产外迁，品牌/研发/营销留本地）
+name_en: Foshan Ceramics Cluster
+name_zh: 佛山陶瓷产业集群（南国陶都）
+designation: brand_headquarters_economy   # 全国最大陶瓷生产基地 + 世界最大陶瓷品牌中心
+
+location:
+  province: Guangdong
+  city: Foshan
+  sub_areas:
+    - { name: Chancheng, name_zh: 禅城区, role: core, note: "石湾=发源地; 南庄=中国建陶第一镇" }
+    - { name: Nanhai, name_zh: 南海区, role: production, note: "西樵=蒙娜丽莎基地" }
+    - { name: Sanshui, name_zh: 三水区, role: production, note: "生产基地" }
+
+primary_industry: Ceramics (building tiles & sanitary ware)   # ind-ceramics
+related_industries:
+  - ceramic machinery (压机/窑炉, 全国80%陶瓷压机)
+  - ceramic chemicals & glazes
+  - rock slabs (岩板)
+  - sanitary ware
+
+major_products:
+  - ceramic tiles (抛光砖/釉面砖/仿古砖/大理石瓷砖)
+  - rock slabs (岩板)
+  - sanitary ware
+  - ceramic boards & thin panels
+
+key_manufacturers:
+  - { name: Dongpeng, name_zh: 东鹏, note: "1972年, 上市公司" }
+  - { name: Monalisa, name_zh: 蒙娜丽莎, note: "A股上市, 1121项专利, 全品类5A认证" }
+  - { name: New Pearl, name_zh: 新明珠, note: "冠珠/萨米特品牌, 1993年" }
+  - { name: Eagle, name_zh: 鹰牌, note: "1974年" }
+  - { name: Keda, name_zh: 科达, note: "陶瓷机械龙头" }
+  - { name: Oceano, name_zh: 欧神诺, note: "2000年" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "2023 Foshan ceramics industry total output value RMB 101.97B (超千亿); ceramic tile output 745M m2 (peak 1.22B m2 in 2010)."
+    source: src-taocixinxi-20240902
+  - fact: "Foshan ceramic tile output historically 30-40% of China's national total (peak ~50% in 2006); 2023 export RMB 11.45B (~32.97% of national)."
+    source: src-fstcwy, src-jiemian
+  - fact: "8,000+ registered ceramics entities, ~2,000 brands; 152 high-tech firms; listed firms include Dongpeng, Keda, Monalisa, Arrow."
+    source: src-taocixinxi-20240902
+  - fact: "Origin 1983: Shiwan Lihua imported Italy's glazed-tile line (start of modern Chinese building ceramics); 2002 China Ceramics City opened."
+    source: src-nfnews-20220601
+  - fact: "Ceramic machinery: ~80% of China's ceramic presses and 85% of polished-tile presses made in Foshan (Lital, Keda)."
+    source: src-baike
+  - fact: "'Foshan Ceramics' collective trademark registered 2020 (after 15 years, 3 rejections)."
+    source: src-taocixinxi-20240902
+
+confidence: High

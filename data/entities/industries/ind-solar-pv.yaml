@@ -1,0 +1,23 @@
+id: ind-solar-pv
+type: Industry
+name_en: Solar / Photovoltaic
+name_zh: 光伏
+super_sector: C — NEV & New Energy
+gb_code: C3825
+major_clusters:
+- cls-yancheng-pv
+major_products:
+- prd-solar-panel
+major_cities:
+- Yancheng
+- Changzhou
+- Wuxi
+- Hefei
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 天合光能在盐城设生产制造基地，2024 年 5 月扩建年产 2GW 高效组件项目竣工环保验收；盐城基地获国家级智能光伏试点示范企业.
+  source: cls-yancheng-pv
+- fact: 2025年光伏组件出口额237亿美元(-15.3%)、出口量249.8GW(+5.7%)，出口市场集中度下降。
+  source: 中国机电产品进出口商会(2026)
+confidence: High

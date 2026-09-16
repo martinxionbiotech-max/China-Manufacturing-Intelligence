@@ -1,0 +1,46 @@
+# Cluster Entity — Jinjiang Footwear (Fujian)
+# 晋江鞋业集群（泉州·晋江）
+
+id: cls-jinjiang-footwear
+type: IndustrialCluster
+name_en: Jinjiang Footwear Cluster
+name_zh: 晋江鞋业集群
+designation: private_chain_leader   # 民营链主 + 品牌集群 + 逆向工程（安踏/特步/361）
+
+location:
+  province: Fujian
+  city: Quanzhou (泉州市)
+  county: Jinjiang (晋江市, 县级市)
+  town: Chendai (陈埭镇)
+  note: "陈埭镇面积不足 40 km² 却分布 3000+ 鞋企, 年产运动鞋超 10 亿双"
+
+primary_industry: Footwear (sports shoes)   # ind-footwear
+related_industries:
+  - sports apparel (运动服装)
+  - footwear materials (鞋材)
+  - textiles (纺织)
+
+major_products:
+  - sports shoes (运动鞋)
+  - casual & running shoes
+  - footwear materials & soles
+
+key_manufacturers:
+  - { name: Anta Sports (安踏), note: "2022 收入 536.51 亿, 中国运动鞋服市场第一" }
+  - { name: Xtep (特步), note: "晋江起家" }
+  - { name: 361 Degrees (361°), note: "晋江起家" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "陈埭镇(面积不足 40 km²)分布 3000 多家鞋企, 年产运动鞋超 10 亿双, 晋江因此成为'中国鞋都'."
+    source: src-xinhua-jinjiang
+  - fact: "2022 晋江鞋服产业产值首次突破 3000 亿元, 纺织行业产值超千亿元."
+    source: src-xinhua-jinjiang
+  - fact: "2022 安踏收入 536.51 亿元, 在中国运动鞋服市场年度企业收入排名第一."
+    source: src-xinhua-jinjiang
+  - fact: "涌现安踏、特步、361° 等行业龙头企业, 供应链绝大多数在本地(晋江半径 50 公里内可快速找到研发设计配套)."
+    source: src-xinhua-jinjiang
+
+confidence: High

@@ -1,0 +1,27 @@
+id: ind-textiles
+type: Industry
+name_en: Textiles & Garments
+name_zh: 纺织服装
+super_sector: F — Consumer Goods
+gb_code: C17
+major_clusters:
+- cls-keqiao-textile
+- cls-hangzhou-bay-textile
+- cls-swt-textile
+major_products:
+- prd-textile-fabric
+- prd-home-textile
+- prd-socks
+major_cities:
+- Shaoxing
+- Hangzhou
+- Nantong
+- Zhuji
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 柯桥为全球最大纺织品集散中心(全球约 1/4 面料)，环杭州湾集群 2023 产值 10135 亿元占全国近 1/5；诸暨大唐年产袜超 250 亿双占全国 70%.
+  source: cls-keqiao-textile, cls-hangzhou-bay-textile, cls-zhuji-socks
+- fact: 2024年中国纺织服装出口额超3000亿美元。
+  source: 中新网(2025)
+confidence: High

@@ -1,0 +1,28 @@
+id: prd-security-camera
+type: Product
+name_en: Security Cameras & Video Surveillance
+name_zh: 安防摄像头/视频监控
+industry: Video Surveillance / IoT
+hs_codes:
+- 8525
+major_clusters:
+- cls-hangzhou-digital-security
+major_cities:
+- Hangzhou
+- Shenzhen
+components:
+- image sensor (图像传感器)
+- lens (镜头)
+- SoC chip (芯片)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 海康威视、大华股份两大龙头合计市场份额约 65%，诞生于杭州滨江核心区；2024 上半年海康营收 412 亿元(+9.68%)，向智能物联 AIoT 转型.
+  source: cls-hangzhou-digital-security
+- fact: 2025年全球视频监控市场规模837.1亿美元，预计2034年达2616.5亿美元(CAGR 13.5%)。
+  source: Fortune Business Insights(2025)
+- fact: 受美国加征25%关税影响，中国对美商业级监控摄像头出口量同比-34%，但东南亚市场订单+51%。
+  source: 中国安全防范产品行业协会(2024)
+confidence: High

@@ -1,0 +1,28 @@
+id: prd-wind-turbine
+type: Product
+name_en: Wind Turbines
+name_zh: 风电机组
+industry: Wind Power Equipment
+hs_codes:
+- 8502
+major_clusters:
+- cls-yancheng-wind-power
+major_cities:
+- Yancheng
+- Wuxi
+components:
+- blade (叶片)
+- gearbox (齿轮箱)
+- nacelle (机舱)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 截至 2023 年 10 月，盐城新能源发电装机 1361.9 万千瓦，风电装机占江苏 41.5%、列江苏第一；2020 年海上风电累计装机 352 万千瓦，占全省 61%、全国 39%、全球约 10%.
+  source: cls-yancheng-wind-power
+- fact: 金风科技盐城大丰试验风电场总装机 800MW，安装 98 台智能海上风电机组(GW191-6MW/GWH230-8.5MW/GWH252-13.6MW).
+  source: cls-yancheng-wind-power
+- fact: 2024年中国5家整机制造企业向23个国家出口风电机组，金风科技出口2478.4MW(+近五成)。
+  source: 财新/21世纪经济报道(2025)
+confidence: High

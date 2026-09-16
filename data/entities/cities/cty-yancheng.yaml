@@ -1,0 +1,28 @@
+id: cty-yancheng
+type: City
+name_en: Yancheng
+name_zh: 盐城
+province: Jiangsu
+major_clusters:
+- cls-yancheng-pv
+- cls-yancheng-wind-power
+major_industries:
+- ind-solar-pv
+- ind-wind-power
+major_products:
+- prd-solar-panel
+- prd-wind-turbine
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 截至 2023 年 10 月底盐城新能源发电装机 1361.9 万千瓦, 总装机/风电/光伏分别占江苏 22%/41.5%/10.7%, 均列江苏第一.
+  source: cls-yancheng-wind-power
+- fact: 天合光能在盐城设生产制造基地, 2024 年 5 月扩建年产 2GW 高效组件项目竣工环保验收.
+  source: cls-yancheng-pv
+- fact: 2024 GDP RMB 777.92 billion (+5.5%); industrial economy crossed the RMB 1-trillion mark in 2023 .
+  source: 江苏盐城港控股集团, "2024年盐城经济观察" (2025).
+- fact: '"5+2" strategic-emerging industries + 23 key industrial chains (new-energy, PV, wind, etc.) .'
+  source: 江苏盐城港控股集团, "2024年盐城经济观察" (2025).
+- fact: Grain output >14 billion jin for 10 straight years — a coastal-manufacturing city that is also a major food producer .
+  source: 江苏盐城港控股集团, "2024年盐城经济观察" (2025).
+confidence: High

@@ -1,0 +1,28 @@
+id: cty-weifang
+type: City
+name_en: Weifang
+name_zh: 潍坊
+province: Shandong
+major_clusters:
+- cls-weifang-power-equipment
+major_industries:
+- ind-power-equipment
+major_products: []
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2024 年 8 月潍坊市委书记任动力装备产业链'链长', 全市 12 条产业链'链长'制全面起势; 潍柴集团为链主.
+  source: cls-weifang-power-equipment
+- fact: 潍坊滨海经开区依托省级海洋动力装备产业园, 形成 100 亿元产业规模.
+  source: cls-weifang-power-equipment
+- fact: 'Above-scale industrial output and revenue: both > RMB 1.2 trillion — manufacturing ≈ 1/10 of Shandong, 1% of China .'
+  source: 界面新闻, "万亿潍坊的产业脊梁" (2024).
+- fact: 'GDP: RMB 820.32 billion (2024), +5.9% .'
+  source: 界面新闻, "万亿潍坊的产业脊梁" (2024).
+- fact: '"9+3+N" system: 12 key chains; the Weifang powertrain cluster ≈ 1/3 of national .'
+  source: 界面新闻, "万亿潍坊的产业脊梁" (2024).
+- fact: 'Wei-Lin-Ri smart-agri-machinery cluster: RMB 165 billion (2023), 1/4 of national agri-machinery .'
+  source: 界面新闻, "万亿潍坊的产业脊梁" (2024).
+- fact: 15 firms above RMB 10 billion; 27 national single champions .
+  source: 界面新闻, "万亿潍坊的产业脊梁" (2024).
+confidence: High

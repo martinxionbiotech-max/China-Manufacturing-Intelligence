@@ -1,0 +1,39 @@
+# Cluster Entity — Changzhou Carbon Fiber & Composites (Jiangsu)
+# 常州碳纤维及复合材料集群
+
+id: cls-changzhou-carbon-fiber
+type: IndustrialCluster
+name_en: Changzhou Carbon Fiber & Composites Cluster
+name_zh: 常州碳纤维及复合材料集群
+designation: research_materials   # 科研院所 + 国家战略 + 卡脖子材料
+
+location:
+  province: Jiangsu
+  city: Changzhou (常州市)
+  note: "新北区碳纤维及复合材料集群，长三角碳纤维技术创新中心所在地"
+
+primary_industry: Carbon fiber & composites (碳纤维及复合材料)   # ind-advanced-materials
+related_industries:
+  - aerospace materials (航空航天材料)
+  - wind power materials (风电材料)
+  - hydrogen energy materials (氢能材料)
+
+major_products:
+  - carbon fiber (碳纤维)
+  - composite materials (复合材料)
+
+key_manufacturers:
+  - { name: "中简科技 (Sinofibers, 300777)", note: "高性能碳纤维" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "常州市新北区碳纤维及复合材料产业集群入围 2024 年度江苏省省级中小企业特色产业集群名单."
+    source: src-csft-carbon
+  - fact: "碳纤维已列入《重点新材料首批次应用示范指导目录（2024年版）》，是保障大飞机、航空航天等领域供应链安全的核心材料."
+    source: src-sinofibers
+  - fact: "常州已形成产值规模超 1200 亿元的新型碳材料集群，碳纤维及复合材料产业形成'原丝生产—复材成型—装备制造—终端产品'完整产业链，产值占全省三分之一以上."
+    source: src-kjc-changzhou
+
+confidence: High

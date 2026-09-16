@@ -1,0 +1,28 @@
+id: prd-power-equipment
+type: Product
+name_en: Power Transmission & Distribution Equipment
+name_zh: 输变电装备
+industry: Power Equipment
+hs_codes:
+- 8504
+major_clusters:
+- cls-baoding-power-equipment
+major_cities:
+- Baoding
+- Weifang
+components:
+- transformer (变压器)
+- switchgear (开关柜)
+- insulator (绝缘子)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 保定高新区集群汇聚企业超 6300 家，2024 产值 1660 亿元，中国北方最大电力及新能源高端装备制造基地；'一核六区三基地'布局、'风光氢储输'产业脉络.
+  source: cls-baoding-power-equipment
+- fact: 到 2025 年保定集群年产值将达 2500 亿元，百亿级企业 8 家.
+  source: cls-baoding-power-equipment
+- fact: 2025年中国变压器出口额646亿元(+36%)创历史新高，单台平均出口价20.5万元(+约1/3)。
+  source: 海关总署(2026)
+confidence: High

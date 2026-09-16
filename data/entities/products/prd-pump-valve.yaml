@@ -1,0 +1,29 @@
+id: prd-pump-valve
+type: Product
+name_en: Pumps & Valves
+name_zh: 泵阀
+industry: Pumps & Valves
+hs_codes:
+- 8413
+- 8481
+major_clusters:
+- cls-taizhou-pumps
+major_cities:
+- Taizhou (Wenling)
+- Wenzhou
+components:
+- impeller (叶轮)
+- motor (电机)
+- seal (密封件)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 玉环入选第三批浙江省级高端装备——精密泵阀'新星'产业群；温岭泵与电机为全国重要基地.
+  source: cls-taizhou-pumps
+- fact: 浙江万得凯流体设备为给排水无铅角阀厂商（玉环精密泵阀代表）.
+  source: cls-taizhou-pumps
+- fact: 2024年中国泵产品市场规模约2492亿元(含出口)，出口市场规模约526亿元。
+  source: 格物致胜(2025)
+confidence: High

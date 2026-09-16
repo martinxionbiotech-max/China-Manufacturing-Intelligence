@@ -1,0 +1,22 @@
+id: cty-chengdu
+type: City
+name_en: Chengdu
+name_zh: 成都
+province: Sichuan
+major_clusters:
+- cls-cy-electronics
+major_industries:
+- ind-electronics
+major_products:
+- prd-pcb
+- prd-smartphone
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 成都电子信息产业 2023 年规模达 1.3 万亿元; 2024 年前 8 个月 7926 亿元、同比增长 5.6%.
+  source: cls-cy-electronics
+- fact: Crossed RMB 1 trillion in 2020, then RMB 1.3 trillion in 2023 — a ~20-year "slow-burn" build that stands out among leading electronics agglomerations .
+  source: 新华网/经济日报, "万亿元产业链这样炼成——成都电子信息产业集聚发展调查" (2024).
+- fact: The chain runs on display (BOE), chips, and terminal assembly as the inland ICT spine, with a robotics cluster (78 chain firms incl. national/provincial specialists) emerging in the Chenghua Economic Zone .
+  source: 新华网/经济日报, "万亿元产业链这样炼成——成都电子信息产业集聚发展调查" (2024).
+confidence: High

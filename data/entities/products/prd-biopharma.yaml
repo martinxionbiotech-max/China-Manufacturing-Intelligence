@@ -1,0 +1,30 @@
+id: prd-biopharma
+type: Product
+name_en: Biopharmaceuticals & Innovative Drugs
+name_zh: 生物医药/创新药
+industry: Biopharmaceuticals
+hs_codes:
+- 3002
+- 3004
+major_clusters:
+- cls-zhangjiang-biomed
+- cls-suzhou-biomed
+major_cities:
+- Shanghai
+- Suzhou
+components:
+- API (原料药)
+- cell line (细胞系)
+- bioreactor (生物反应器)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 张江累计获批一类新药超 20 个、占全国近 1/5；17 件创新医疗器械获批占全国 10%；2024 上海 License-out 交易 38 起占全国 35%、金额 307 亿美元占全国 47%.
+  source: cls-zhangjiang-biomed
+- fact: 苏州工业园区吸引生物医药及大健康企业超 2000 家、产值 1655 亿元，综合竞争力全国第二、产业/人才/合作竞争力 3 个单项全国第一.
+  source: cls-suzhou-biomed
+- fact: 2024年1-12月规模以上医药制造业营收25298.5亿元；生物药为增长最快领域、占市场约28%。
+  source: 国家统计局/中商产业研究院(2025)
+confidence: High

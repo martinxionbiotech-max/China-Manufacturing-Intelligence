@@ -1,0 +1,29 @@
+id: prd-machine-tool
+type: Product
+name_en: Machine Tools (CNC)
+name_zh: 机床/数控机床
+industry: Machine Tools / Industrial Mother Machines
+hs_codes:
+- 8458
+- 8459
+major_clusters:
+- cls-ezd-machine-tools
+major_cities:
+- Taizhou
+- Ningbo
+components:
+- CNC controller (数控系统)
+- spindle (主轴)
+- ball screw (滚珠丝杠)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2024 浙东工业母机集群入选国家先进制造业集群；台州近 2000 家工业母机相关企业，规上营收超 700 亿元.
+  source: cls-ezd-machine-tools
+- fact: 浙东工业母机集群集聚 2000 多家规上企业，2023 产值近 2800 亿元、占全国近 1/5.
+  source: cls-ezd-machine-tools
+- fact: 2024年金属加工机床生产额2050亿元(+5.1%)，数控化率升至51%。
+  source: 国际金属加工(2025)
+confidence: High

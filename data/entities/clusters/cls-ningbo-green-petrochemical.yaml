@@ -1,0 +1,40 @@
+# Cluster Entity — Ningbo Green Petrochemical (Zhejiang)
+# 宁波绿色石化集群
+
+id: cls-ningbo-green-petrochemical
+type: IndustrialCluster
+name_en: Ningbo Green Petrochemical Cluster
+name_zh: 宁波绿色石化集群
+designation: central_soe_anchor   # 央企链主(镇海炼化) + 世界级一体化基地 + 绿色转型
+
+location:
+  province: Zhejiang
+  city: Ningbo (宁波市)
+  note: "镇海炼化所在，世界级绿色石化基地"
+
+primary_industry: Green petrochemical (绿色石化)   # ind-petrochemical
+related_industries:
+  - oil refining (炼油)
+  - chemicals & new materials (化工新材料)
+  - digital transformation (数字化转型)
+
+major_products:
+  - refined oil & chemicals (成品油/化工品)
+  - polymer materials (高分子材料)
+  - petrochemical intermediates (石化中间体)
+
+key_manufacturers:
+  - { name: "镇海炼化 (Sinopec Zhenhai Refining & Chemical)", note: "链主，首批领航级智能工厂" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "镇海炼化打造'世界级、高科技、一体化'绿色石化基地."
+    source: src-xinhua-zhenhai
+  - fact: "镇海炼化入选我国首批 15 家'领航级智能工厂'培育名单，是其中唯一入选的炼化企业."
+    source: src-21jingji-zhenhai
+  - fact: "宁波石化经开区力争至 2025 年工业总产值超 4000 亿元，打造世界级绿色石化产业基地."
+    source: src-zcom-zhenhai
+
+confidence: High

@@ -1,0 +1,40 @@
+# Cluster Entity — Hangzhou Digital Security (Zhejiang)
+# 杭州数字安防产业集群
+
+id: cls-hangzhou-digital-security
+type: IndustrialCluster
+name_en: Hangzhou Digital Security Cluster
+name_zh: 杭州数字安防产业集群
+designation: dual_champion   # 双龙头(海康/大华) + 滨江核心区 + 智能物联转型
+
+location:
+  province: Zhejiang
+  city: Hangzhou (杭州市)
+  note: "滨江核心区，海康威视/大华股份总部，合计市场份额 65%"
+
+primary_industry: Digital security / video surveillance (数字安防)   # ind-digital-security
+related_industries:
+  - video surveillance (视频监控)
+  - AIoT / smart IoT (智能物联)
+  - big data & AI (大数据/人工智能)
+
+major_products:
+  - video surveillance systems (视频监控系统)
+  - AIoT solutions (智能物联解决方案)
+
+key_manufacturers:
+  - { name: "海康威视 (Hikvision)", note: "2024H1 营收 412 亿" }
+  - { name: "大华股份 (Dahua)", note: "2024H1 营收 148.67 亿" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "海康威视、大华股份两大龙头合计市场份额高达 65%，诞生于杭州滨江核心区."
+    source: src-sina-hzsecurity
+  - fact: "2024 年上半年海康威视营收 412 亿元、同比增长 9.68%，向智能物联 AIoT 转型."
+    source: src-ofweek-hzsecurity
+  - fact: "2024 年上半年大华股份营收 148.67 亿元、同比增长 1.59%."
+    source: src-sina-hzsecurity
+
+confidence: High

@@ -1,0 +1,25 @@
+id: cty-haining
+type: City
+name_en: Haining
+name_zh: 海宁
+province: Zhejiang
+major_clusters:
+- cls-haining-leather
+major_industries:
+- ind-leather
+major_products:
+- prd-leather
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 海宁皮革城携手近 50 家优质企业亮相 2024 CHIC 春季展; 作为秋冬时尚高端供应链基地.
+  source: cls-haining-leather
+- fact: 'Above-scale industrial value-added: RMB 51.5 billion (2024), +8.7% .'
+  source: 海宁市制造业高质量发展"十四五"规划 (2021).
+- fact: '"142" cluster system: 1 thousand-yuan fashion cluster + 4 RMB 50B clusters (pan-semiconductor, high-end equipment, PV new-energy, new-materials) + 2 RMB 10B clusters .'
+  source: 海宁市制造业高质量发展"十四五"规划 (2021).
+- fact: 'PV: Jinko and Chint as dual anchors, a "PV + storage" model in Zhejiang''s "415X" core zone .'
+  source: 海宁市制造业高质量发展"十四五"规划 (2021).
+- fact: 'Pan-semiconductor: > RMB 25 billion output (2023) — a national semiconductor-equipment materials base .'
+  source: 海宁市制造业高质量发展"十四五"规划 (2021).
+confidence: High

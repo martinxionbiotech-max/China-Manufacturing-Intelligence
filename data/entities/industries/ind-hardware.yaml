@@ -1,0 +1,23 @@
+id: ind-hardware
+type: Industry
+name_en: Hardware & Tools
+name_zh: 五金工具
+super_sector: F — Consumer Goods
+gb_code: C332
+major_clusters:
+- cls-yongkang-hardware
+- cls-yangjiang-knives
+major_products:
+- prd-hardware-tools
+- prd-knives-scissors
+major_cities:
+- Yongkang
+- Yangjiang
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 永康拥有全国最大、世界第三大五金市场(2022 成交额 455.32 亿元)，全球每 10 套电动工具 5 套来自永康；阳江每 10 把中国刀具 7 把产自阳江.
+  source: cls-yongkang-hardware, cls-yangjiang-knives
+- fact: 2024年全球五金工具市场规模350亿美元(2023年320亿)，2020-2024 CAGR约6.5-7%；中国为最大生产国、出口占45-50%。
+  source: 大数跨境《2025五金工具出海研究报告》(2025)
+confidence: High

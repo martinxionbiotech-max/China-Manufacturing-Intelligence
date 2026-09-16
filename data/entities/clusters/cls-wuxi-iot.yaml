@@ -1,0 +1,40 @@
+# Cluster Entity — Wuxi Internet of Things (Jiangsu)
+# 无锡物联网集群
+
+id: cls-wuxi-iot
+type: IndustrialCluster
+name_en: Wuxi Internet of Things (IoT) Cluster
+name_zh: 无锡物联网集群
+designation: state_led   # 国家战略(首批国家级集群) + 全产业链
+
+location:
+  province: Jiangsu
+  city: Wuxi (无锡市)
+  note: "全国唯一物联网领域国家级先进制造业集群"
+
+primary_industry: Internet of Things (IoT)   # ind-iot
+related_industries:
+  - smart sensors (智能传感器)
+  - V2X / connected vehicles (车联网)
+  - industrial internet (工业互联网)
+
+major_products:
+  - smart sensors
+  - IoT connectivity & platforms
+  - industrial internet solutions
+
+key_manufacturers:
+  - { name: "无锡市物联网创新促进中心", note: "集群促进机构" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "无锡物联网产业集群 2021 年入选首批国家先进制造业集群, 是全国唯一物联网领域国家级先进制造业集群."
+    source: src-xinhua-iot
+  - fact: "截至去年, 无锡 585 家物联网规上列统企业实现营业收入 3184 亿元, 形成覆盖信息感知/传输组网/计算存储/应用处理的完整产业链."
+    source: src-xinhua-iot
+  - fact: "智能传感器、车联网、工业互联网'一感两网'特色日益鲜明."
+    source: src-xinhua-iot
+
+confidence: High

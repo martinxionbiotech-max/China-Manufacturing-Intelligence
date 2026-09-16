@@ -1,0 +1,40 @@
+# Cluster Entity — Yancheng Photovoltaic (Jiangsu)
+# 盐城光伏产业集群
+
+id: cls-yancheng-pv
+type: IndustrialCluster
+name_en: Yancheng Photovoltaic Cluster
+name_zh: 盐城光伏产业集群
+designation: chain_anchor   # 链主(天合光能) + 光伏全产业链 + 绿色工厂
+
+location:
+  province: Jiangsu
+  city: Yancheng (盐城市)
+  note: "天合光能盐城基地，国家级智能光伏试点示范"
+
+primary_industry: Photovoltaic / solar (光伏)   # ind-pv
+related_industries:
+  - solar modules (光伏组件)
+  - solar cells (电池片)
+  - energy storage (储能)
+
+major_products:
+  - solar modules (光伏组件)
+  - solar cells (电池片)
+  - energy storage systems (储能系统)
+
+key_manufacturers:
+  - { name: "天合光能 (Trina Solar)", note: "链主，盐城基地 + 天合储能" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "天合光能在盐城设立生产制造基地，盐城天合国能光伏 2024 年 5 月通过扩建年产 2GW 高效太阳能组件项目竣工环保验收."
+    source: src-trina-pv
+  - fact: "盐城基地获国家级智能制造优秀场景、国家高新技术企业、国家级第四批智能光伏试点示范企业."
+    source: src-trina-green
+  - fact: "2024 年盐城新能源产业规上企业开票销售 1383.38 亿元，其中晶硅光伏产业链规上企业 106 家；光伏集群获评国家先进制造业集群."
+    source: src-people-yancheng
+
+confidence: High

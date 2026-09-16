@@ -1,0 +1,40 @@
+# Cluster Entity — Yancheng Offshore Wind Power (Jiangsu)
+# 盐城海上风电装备集群
+
+id: cls-yancheng-wind-power
+type: IndustrialCluster
+name_en: Yancheng Offshore Wind Power Cluster
+name_zh: 盐城海上风电装备集群
+designation: offshore_leader   # 海上风电第一城 + 整机总装 + 高比例消纳
+
+location:
+  province: Jiangsu
+  city: Yancheng (盐城市)
+  note: "'海上新能源第一城'，海上风电装机曾占全国 39%、约全球 10%"
+
+primary_industry: Wind power (风电)   # ind-wind-power
+related_industries:
+  - offshore wind turbines (海上风电机组)
+  - wind turbine assembly (风机总装)
+  - new energy (新能源)
+
+major_products:
+  - offshore wind turbines (海上风电机组)
+  - wind turbine assemblies (风机总装)
+
+key_manufacturers:
+  - { name: "金风科技 (Goldwind) 大丰基地", note: "总装车间 + 800MW 试验风电场" }
+  - { name: "远景能源 (Envision) 等", note: "整机企业聚集" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "截至 2023 年 10 月底，盐城新能源发电装机 1361.9 万千瓦，总装机、风电装机、光伏装机规模分别占江苏 22%、41.5%、10.7%，均列江苏第一."
+    source: src-xinhua-yancheng
+  - fact: "截止 2020 年，盐城海上风电累计装机 352 万千瓦，占全省 61%、占全国 39%、约占全球 10%."
+    source: src-jiemian-yancheng
+  - fact: "金风科技盐城大丰试验风电场总装机 800MW，安装 98 台智能海上风电机组，含 GW191-6MW、GWH230-8.5MW、GWH252-13.6MW 机型."
+    source: src-goldwind-yancheng
+
+confidence: High

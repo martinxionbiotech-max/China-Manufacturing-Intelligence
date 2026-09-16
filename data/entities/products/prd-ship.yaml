@@ -1,0 +1,29 @@
+id: prd-ship
+type: Product
+name_en: Ships & Marine Engineering Equipment
+name_zh: 船舶及海工装备
+industry: Shipbuilding
+hs_codes:
+- 8901
+major_clusters:
+- cls-qingdao-shipbuilding
+major_cities:
+- Qingdao
+- Yantai
+- Weihai
+components:
+- hull steel (船体钢)
+- engine (船用主机)
+- marine equipment (海工配套)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2024 青烟威船舶与海工装备集群入选国家先进制造业集群，由青岛/烟台/威海共建；拥有北海造船、中集来福士等总装及配套规上企业约 140 家，主建船型本地配套率超 40%.
+  source: cls-qingdao-shipbuilding
+- fact: 2024年全球海工装备成交215艘/座、272.2亿美元(+85.1%)创十年新高。
+  source: 中国船舶工业协会(2025)
+- fact: 2025年中国新承接海工装备113艘/座、金额105亿美元，以金额计占世界份额44.6%、连续8年领跑全球。
+  source: 中国船舶工业协会(2026)
+confidence: High

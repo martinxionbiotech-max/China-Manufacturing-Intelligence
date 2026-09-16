@@ -1,0 +1,27 @@
+id: prd-home-textile
+type: Product
+name_en: Home Textiles (Bedding & Linens)
+name_zh: 家纺
+industry: Textiles
+hs_codes:
+- 6302
+major_clusters:
+- cls-swt-textile
+major_cities:
+- Nantong
+components:
+- fabric (面料)
+- filling (填充)
+- quilting (绗缝)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2024 南通家纺产业规模突破 2400 亿元，高端纺织是南通六大千亿级产业集群之一.
+  source: cls-swt-textile
+- fact: 南通家纺依托'产业带+直播'优势，供应链向'小单快反'模式转型.
+  source: cls-swt-textile
+- fact: 2024年规上家纺企业营业收入1910.92亿元、利润总额101.1亿元。
+  source: 智研咨询/中国家纺协会(2025)
+confidence: High

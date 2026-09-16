@@ -1,0 +1,40 @@
+# Cluster Entity — Shenzhen-Guangzhou Medical Devices (Guangdong)
+# 深圳医疗器械产业集群
+
+id: cls-sg-medical-devices
+type: IndustrialCluster
+name_en: Shenzhen-Guangzhou Medical Devices Cluster
+name_zh: 深圳医疗器械产业集群
+designation: private_champion   # 民营链主(迈瑞) + 高端医疗器械 + 数智化
+
+location:
+  province: Guangdong
+  city: Shenzhen (深圳市) / Guangzhou
+  note: "深圳国际医疗器械城，迈瑞医疗总部"
+
+primary_industry: Medical devices (医疗器械)   # ind-medical-devices
+related_industries:
+  - patient monitoring (病人监护)
+  - ultrasound imaging (超声影像)
+  - in-vitro diagnostics (体外诊断)
+
+major_products:
+  - patient monitors (监护仪)
+  - ultrasound systems (超声系统)
+  - in-vitro diagnostics (体外诊断)
+
+key_manufacturers:
+  - { name: "迈瑞医疗 (Mindray, 300760)", note: "链主，监护类产品连续 15 年第一" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "迈瑞医疗监护类产品连续 15 年蝉联第一，X射线/超声/呼吸/麻醉/检验等多产品线多个维度第一."
+    source: src-sina-mindray
+  - fact: "深圳国际医疗器械城总规划面积近 20 平方公里（核心区 6.5 平方公里），聚焦高端医疗器械核心技术."
+    source: src-lhq-medical
+  - fact: "深圳市已将高端医疗器械列为战略性新兴产业."
+    source: src-qianzhan-medical
+
+confidence: High

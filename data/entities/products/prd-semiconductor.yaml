@@ -1,0 +1,29 @@
+id: prd-semiconductor
+type: Product
+name_en: Semiconductors (ICs)
+name_zh: 集成电路/芯片
+industry: Semiconductors / Integrated Circuits
+hs_codes:
+- 8542
+major_clusters:
+- cls-shanghai-ic
+major_cities:
+- Shanghai
+- Shenzhen
+- Wuxi
+components:
+- wafer (晶圆)
+- mask (光罩)
+- packaging substrate (封装基板)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2021 张江集成电路产业销售收入 1702.56 亿元、占上海全市超六成；全球芯片设计 10 强 7 家在张江设区域总部/研发中心；中芯国际/华虹/中微/紫光展锐/格科微/英伟达集聚张江.
+  source: cls-shanghai-ic
+- fact: 上海集成电路设计产业园目标 2025 年以 1000 亿带动浦东 IC 全产业链 4000 亿；中芯国际 2024 营收 80 亿美元(中国大陆最大晶圆代工).
+  source: cls-shanghai-ic
+- fact: 2023年中国集成电路产量3514.4亿块(+8.41%)、销售收入12580.2亿元(+3.15%)。
+  source: 国家统计局(2025)
+confidence: High

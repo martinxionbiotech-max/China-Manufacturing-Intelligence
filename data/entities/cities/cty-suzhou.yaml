@@ -1,0 +1,33 @@
+id: cty-suzhou
+type: City
+name_en: Suzhou
+name_zh: 苏州
+province: Jiangsu
+major_clusters:
+- cls-suzhou-biomed
+- cls-suzhou-nano
+- cls-swt-textile
+major_industries:
+- ind-biopharma
+- ind-textiles
+major_products:
+- prd-biopharma
+- prd-home-textile
+- prd-socks
+- prd-textile-fabric
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 苏州工业园区已吸引生物医药及大健康相关企业超 2000 家, 产值达 1655 亿元.
+  source: cls-suzhou-biomed
+- fact: 2022 苏州纳米产业集群总体规模 1460 亿元, 全球五大纳米产业集聚区之一.
+  source: cls-suzhou-nano
+- fact: '2024 above-scale industrial output: RMB 4.7 trillion (a new level); value-added +9.2% .'
+  source: 苏州日报, "稳增长激活力强创新惠民生——解读2024年苏州经济数据" (2025).
+- fact: 'Suzhou Industrial Park GDP: RMB 400.24 billion (2024) .'
+  source: 苏州日报, "稳增长激活力强创新惠民生——解读2024年苏州经济数据" (2025).
+- fact: '"1030" system: 10 key clusters + 30 key chains; targeting a 4th trillion-yuan cluster (new energy → RMB 1 trillion by 2026), after electronics, high-end equipment, and advanced materials .'
+  source: 苏州日报, "稳增长激活力强创新惠民生——解读2024年苏州经济数据" (2025).
+confidence: High
+ports:
+- prt-suzhou

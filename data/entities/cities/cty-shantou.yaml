@@ -1,0 +1,27 @@
+id: cty-shantou
+type: City
+name_en: Shantou
+name_zh: 汕头
+province: Guangdong
+major_clusters:
+- cls-chenghai-toys
+major_industries:
+- ind-toys
+major_products:
+- prd-toys
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 澄海区 5 万多家玩具企业、20 多万玩具从业者, 平均每 3 人就有 1 人从事玩具业; 拥有全球塑料玩具 33% 产能.
+  source: cls-chenghai-toys
+- fact: Industrial investment +19% (2024) — the city's fastest manufacturing investment growth .
+  source: 汕头市第十五届人民代表大会第七次会议 (2025).
+- fact: 'Textiles: Chaonan district RMB 32.89 billion output (2024) .'
+  source: 汕头市第十五届人民代表大会第七次会议 (2025).
+- fact: 'New materials: 302 above-scale firms, RMB 48.83 billion output (2024), 17.4% of city industrial value .'
+  source: 汕头市第十五届人民代表大会第七次会议 (2025).
+- fact: 'Offshore wind equipment park: RMB 4.08 billion investment, RMB 14.2 billion annual output at full capacity .'
+  source: 汕头市第十五届人民代表大会第七次会议 (2025).
+- fact: 'International bandwidth: 6 submarine cables, >50% of national export bandwidth — the only city with both an international cable landing station and a regional communications gateway .'
+  source: 汕头市第十五届人民代表大会第七次会议 (2025).
+confidence: High

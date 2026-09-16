@@ -1,0 +1,14 @@
+id: prt-weihai
+type: Port
+name_en: Weihai Port
+name_zh: 威海港
+city: Weihai
+province: Shandong
+serves:
+- cls-qingdao-shipbuilding
+evidence_level: High
+confidence: High
+last_verified: '2026-09-15'
+verified_facts:
+- fact: 2024年1-11月威海港完成货物吞吐量4603.87万吨，集装箱吞吐量141.26万标箱(同比+4.75%)。
+  source: 威海市交通运输局(2024-12)

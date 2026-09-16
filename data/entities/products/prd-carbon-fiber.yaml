@@ -1,0 +1,27 @@
+id: prd-carbon-fiber
+type: Product
+name_en: Carbon Fiber & Composites
+name_zh: 碳纤维及复合材料
+industry: Advanced Materials
+hs_codes:
+- 6815
+major_clusters:
+- cls-changzhou-carbon-fiber
+major_cities:
+- Changzhou
+- Weihai
+components:
+- PAN precursor (PAN 原丝)
+- resin (树脂)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 常州新北区碳纤维及复合材料产业集群入围 2024 江苏省省级中小企业特色产业集群名单.
+  source: cls-changzhou-carbon-fiber
+- fact: 碳纤维已列入《重点新材料首批次应用示范指导目录(2024)》，是保障大飞机/航空航天供应链安全的核心材料.
+  source: cls-changzhou-carbon-fiber
+- fact: 2023年全球碳纤维增强聚合物基复合材料(CFRP)销量需求约18.1万吨，预计2025年翻番至28.5万吨。
+  source: '《Composites Part B: Engineering》(2023)'
+confidence: High

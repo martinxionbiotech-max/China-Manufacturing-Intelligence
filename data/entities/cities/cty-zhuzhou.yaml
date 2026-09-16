@@ -1,0 +1,28 @@
+id: cty-zhuzhou
+type: City
+name_en: Zhuzhou
+name_zh: 株洲
+province: Hunan
+major_clusters:
+- cls-zhuzhou-aero-engine
+- cls-zhuzhou-rail-transit
+major_industries:
+- ind-rail-transit
+major_products:
+- prd-rail-equipment
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2023 株洲轨道交通集群规模超 1600 亿元, 占全国 30%+, 全球最大轨道交通装备制造基地.
+  source: cls-zhuzhou-rail-transit
+- fact: 株洲是全国唯一的中小航空发动机研制基地, 创造新中国航空工业多个第一.
+  source: cls-zhuzhou-aero-engine
+- fact: '2024 industry = 39.9% and manufacturing = 37.4% of GDP — both #1 in Hunan .'
+  source: 21经济网, "株洲'破'与'立'：一座工业老城的制造新变" (2025).
+- fact: 3 national advanced-manufacturing clusters (rail transit, small aero-engines, UHV power-equipment) + 3 national SME characteristic clusters (ceramics, cemented carbide, power semiconductors) .
+  source: 21经济网, "株洲'破'与'立'：一座工业老城的制造新变" (2025).
+- fact: 'Rail cluster: 425 firms (273 above-scale), anchored by CRRC Zhuzhou Electric Locomotive and CRRC Zhuzhou Motor .'
+  source: 21经济网, "株洲'破'与'立'：一座工业老城的制造新变" (2025).
+- fact: 'National advanced-manufacturing top-100 city: from outside top-50 (2020) to #37 (2024) .'
+  source: 21经济网, "株洲'破'与'立'：一座工业老城的制造新变" (2025).
+confidence: High

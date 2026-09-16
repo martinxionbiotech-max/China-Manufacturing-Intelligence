@@ -1,0 +1,13 @@
+id: prt-tianjin
+type: Port
+name_en: Tianjin Port
+name_zh: 天津港
+city: Tianjin
+province: Tianjin
+serves: []
+evidence_level: High
+confidence: High
+last_verified: '2026-09-15'
+verified_facts:
+- fact: 2024年天津港集团完成货物吞吐量4.93亿吨(同比+3%)、集装箱吞吐量2328万标准箱(同比+5%)，双双创下历史最好水平。
+  source: 天津港集团/人民网天津(2025-01)

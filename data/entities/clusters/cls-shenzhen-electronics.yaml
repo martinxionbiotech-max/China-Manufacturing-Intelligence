@@ -1,0 +1,91 @@
+# Cluster Entity — Shenzhen New-Generation Information Communication Cluster
+# 深圳新一代信息通信集群
+
+id: cls-shenzhen-electronics
+type: IndustrialCluster
+name_en: Shenzhen New-Generation Information Communication Cluster
+name_zh: 深圳市新一代信息通信集群
+designation: national_cluster   # MIIT National Advanced Manufacturing Cluster (2022)
+
+location:
+  province: Guangdong
+  city: Shenzhen
+  districts:
+    - { name: Futian, role: electronics_trading, anchor: Huaqiangbei }
+    - { name: Bao'an, role: manufacturing_base, anchors: [Shajing, Fuyong] }
+    - { name: Longgang, role: manufacturing_base, anchors: [Bantian, Pinghu] }
+    - { name: Nanshan, role: rd_and_innovation, anchor: Shenzhen High-tech Zone }
+
+primary_industry: Electronics & ICT Manufacturing   # ind-electronics
+related_industries:
+  - Semiconductors / Integrated Circuits
+  - IoT & Smart Devices
+  - Consumer Electronics
+  - Optoelectronics & Displays
+  - NEV & ICV   # BYD / new energy vehicles
+
+major_products:
+  - smartphones
+  - 5G base stations & network equipment
+  - PCBs
+  - semiconductors / IC
+  - displays (LCD/OLED)
+  - wearable devices
+  - drones
+  - smart terminals / IoT devices
+  - power batteries (BYD / EV)
+
+key_manufacturers:      # verified public companies (FACT: headquartered/operate in SZ)
+  - { name: Huawei, name_zh: 华为, role: telecom_equipment }
+  - { name: ZTE, name_zh: 中兴通讯, role: telecom_equipment }
+  - { name: Tencent, name_zh: 腾讯, role: internet_software }
+  - { name: DJI, name_zh: 大疆, role: drones }
+  - { name: Foxconn (Hon Hai), name_zh: 富士康, role: contract_manufacturer }
+  - { name: BYD Electronics, name_zh: 比亚迪电子, role: electronics_manufacturer }
+  - { name: Luxshare Precision, name_zh: 立讯精密, role: components_assembly }
+  - { name: Avary Holding, name_zh: 鹏鼎控股, role: PCB }
+  - { name: HiSilicon, name_zh: 海思半导体, role: chip_design }
+  - { name: Goodix Technology, name_zh: 汇顶科技, role: chip_design }
+
+ports:
+  - { name: Shenzhen (Yantian), name_zh: 深圳盐田港, throughput_2024: ">15.03M TEU" }
+  - { name: Shenzhen (Shekou), name_zh: 深圳蛇口港 }
+  - { name: Shenzhen (Chiwan), name_zh: 深圳赤湾港 }
+  # Shenzhen port total: >30M TEU (2024), +13.7% YoY
+
+export_markets:   # 2024 top trade partners (Shenzhen customs)
+  - { market: ASEAN, value_rmb_bn: 751.55, yoy: "+22.3%" }
+  - { market: Hong Kong, value_rmb_bn: 701.48, yoy: "+10.7%" }
+  - { market: United States, value_rmb_bn: 463.52, yoy: "+11.5%" }
+  # top-3 = 42.5% of Shenzhen total trade
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "2022 electronics manufacturing output was RMB 2.48 trillion, about 1/6 of China's national total, ranked #1 among mainland cities for years."
+    source: src-people-sz-20220407
+  - fact: "2024: Shenzhen industrial output above designated size reached RMB 5.4 trillion; total industrial added value RMB 1.24 trillion; #1 nationally in both for 3 consecutive years."
+    source: src-sz-gov-2024-annual
+  - fact: "2024: computer/communication/electronic-equipment manufacturing added value grew 11.0% YoY."
+    source: src-sz-gov-2024-annual
+  - fact: "More than 4,100 electronics manufacturers above designated size; 5 enterprises >RMB 100B; 27 >RMB 10B; ~400 >RMB 500M; 21 in China's top-100 electronics list."
+    source: src-people-sz-20220407
+  - fact: "Network communication + smart terminal segments ~RMB 1 trillion; UHD display + semiconductor/IC segments >RMB 100 billion."
+    source: src-people-sz-20220407
+  - fact: "~1 in 7 smartphones globally is 'made in Shenzhen'; Shenzhen produces ~1/2 of global communication base stations."
+    source: src-c114-20240123
+  - fact: "Huaqiangbei (Futian District) named 'China's No.1 Electronics Street' in 2008; world's largest electronics trading hub."
+    source: src-stcn-20230727
+  - fact: "2024: Shenzhen total trade RMB 4.5 trillion (+16.4%), exports RMB 2.81 trillion (+14.6%) — 32 consecutive years #1 among mainland cities; returned to 'No.1 foreign-trade city'."
+    source: src-sz-customs-2024
+  - fact: "2024: electromechanical product exports RMB 2 trillion (+12.1%), 71% of total; traditional electronics (phones/PCs/home appliances) RMB 377.43B (+6.8%); 'new three' (lithium batteries/EV/PV) RMB 99.69B (+11.5%); drones RMB 14.57B (+19.6%, national #1)."
+    source: src-sz-customs-2024
+  - fact: "2024: Shenzhen port container throughput exceeded 30M TEU (+13.7%); Yantian port alone >15.03M TEU."
+    source: src-sz-jtys-20241128, src-people-hwb-20250122
+  - fact: "Designated a MIIT National Advanced Manufacturing Cluster in 2022."
+    source: src-miit-2022
+  - fact: "2024: >24,700 national high-tech enterprises in Shenzhen."
+    source: src-sz-gov-2024-annual
+
+confidence: High

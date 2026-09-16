@@ -1,0 +1,23 @@
+id: ind-rare-earth
+type: Industry
+name_en: Rare Earth
+name_zh: 稀土
+super_sector: D — New Materials & Chemicals
+gb_code: B0932
+major_clusters:
+- cls-baotou-rare-earth
+- cls-ganzhou-rare-earth
+major_products:
+- prd-rare-earth
+- prd-ndfeb-magnet
+major_cities:
+- Baotou
+- Ganzhou
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 包头白云鄂博为全球储量最大稀土矿，2024 稀土产值预计破 1000 亿元；北方稀土为全球规模最大稀土龙头.
+  source: cls-baotou-rare-earth
+- fact: 2024年全球稀土矿产品产量约39万吨(+3.7%)，中国约27万吨占69%居首；中国稀土储量占全球49%。
+  source: 华经产业研究院(2025)
+confidence: High

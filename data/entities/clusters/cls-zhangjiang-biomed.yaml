@@ -1,0 +1,39 @@
+# Cluster Entity — Shanghai Zhangjiang Biopharma
+# 上海张江生物医药集群
+
+id: cls-zhangjiang-biomed
+type: IndustrialCluster
+name_en: Shanghai Zhangjiang Biopharma Cluster
+name_zh: 上海张江生物医药集群
+designation: research_anchor   # 科研院所 + 药谷 + License-out 出海
+
+location:
+  province: Shanghai
+  city: Shanghai (浦东新区)
+  note: "张江'药谷'，国际 TOP20 药企 19 家在沪设总部/研发中心"
+
+primary_industry: Biopharmaceuticals (生物医药)   # ind-biopharma
+related_industries:
+  - innovative drugs (创新药)
+  - medical devices (医疗器械)
+  - CRO/CDMO (研发外包)
+
+major_products:
+  - innovative drugs (创新药)
+  - medical devices (医疗器械)
+
+key_manufacturers:
+  - { name: "张江科学城", note: "累计获批一类新药超 20 个，占全国近 1/5" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "张江累计获批一类新药超过 20 个，占全国比重近 1/5；17 件创新医疗器械产品获批上市，占全国 10%；在研创新品种超 800 个."
+    source: src-people-zhangjiang
+  - fact: "2024 年上海 License-out 交易数量 38 起、占全国 35%；交易金额 307 亿美元、占全国 47%."
+    source: src-shgov-zhangjiang
+  - fact: "国际 TOP20 药企、医疗器械企业各有 19 家在上海设立总部或研发中心."
+    source: src-shgov-zhangjiang
+
+confidence: High

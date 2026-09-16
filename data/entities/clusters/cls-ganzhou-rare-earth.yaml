@@ -1,0 +1,40 @@
+# Cluster Entity — Ganzhou Rare Earth (Jiangxi)
+# 赣州稀土产业集群
+
+id: cls-ganzhou-rare-earth
+type: IndustrialCluster
+name_en: Ganzhou Rare Earth Cluster
+name_zh: 赣州稀土产业集群
+designation: resource_endowment   # 资源禀赋(离子型稀土) + 央企整合(中国稀土集团) + 下游延伸
+
+location:
+  province: Jiangxi
+  city: Ganzhou (赣州市)
+  note: "中重离子型稀土资源核心区，中国稀土集团总部"
+
+primary_industry: Rare earth (稀土)   # ind-rare-earth
+related_industries:
+  - rare earth mining & smelting (稀土采选冶)
+  - rare earth permanent magnets (稀土永磁)
+  - rare earth new materials (稀土新材料)
+
+major_products:
+  - ion-adsorption rare earth (离子型稀土)
+  - rare earth oxides (稀土氧化物)
+  - rare earth magnets & new materials (稀土永磁/新材料)
+
+key_manufacturers:
+  - { name: "中国稀土集团 (China Rare Earth Group)", note: "总部赣州，掌握全国 60%+ 离子型稀土配额" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "赣州掌握全国 60% 以上的离子型稀土配额生产量和稀土氧化物供应量."
+    source: src-zhihu-rareearth
+  - fact: "赣州目标打造具有国际影响力的稀土新材料及应用集群，培育'1+5+N'产业集群（1 个超 5000 亿 + 5 个超 2000 亿 + N 个超 500 亿）."
+    source: src-people-ganzhou
+  - fact: "中国稀土集团现代产业链强链固链重点项目在赣县区启动."
+    source: src-ganxian
+
+confidence: High

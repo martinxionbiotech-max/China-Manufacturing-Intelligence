@@ -1,0 +1,39 @@
+# Cluster Entity — Hangzhou Bay Modern Textile & Garment (Zhejiang)
+# 环杭州湾现代纺织服装集群
+
+id: cls-hangzhou-bay-textile
+type: IndustrialCluster
+name_en: Hangzhou Bay Modern Textile & Garment Cluster
+name_zh: 环杭州湾现代纺织服装集群
+designation: full_chain   # 全产业链闭环 + 面料上游(柯桥印染) + 集散中心
+
+location:
+  province: Zhejiang
+  city: Shaoxing (绍兴市) / Hangzhou / Ningbo / Jiaxing
+  note: "以绍兴柯桥为核心，全国最大纺织印染聚集区"
+
+primary_industry: Textile & garment (纺织服装)   # ind-textile
+related_industries:
+  - printing & dyeing (印染)
+  - fabric (面料)
+  - apparel (服装)
+
+major_products:
+  - fabric & printed textiles (面料/印染)
+  - apparel (服装)
+
+key_manufacturers:
+  - { name: "中国轻纺城", note: "全球最大纺织品集散中心" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "2023 年环杭州湾现代纺织服装集群主导产业产值达 10135 亿元，占全国近 1/5，规模位居全国首位."
+    source: src-stcn-hzb
+  - fact: "2024 年末环杭州湾现代纺织服装集群入选国家先进制造业集群."
+    source: src-sina-hzb
+  - fact: "2024 年柯桥区 910 家规上纺织印染企业实现产值 1406 亿元，其中印染行业产值 632 亿元、同比增长 12.3%."
+    source: src-stcn-hzb
+
+confidence: High

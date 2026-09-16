@@ -1,0 +1,52 @@
+# Cluster Entity — Keqiao Textile Cluster (Shaoxing)
+# 绍兴柯桥纺织集群（中国轻纺城）
+
+id: cls-keqiao-textile
+type: IndustrialCluster   # 制造+贸易复合型
+name_en: Keqiao Textile Cluster (China Textile City)
+name_zh: 柯桥纺织产业集群（中国轻纺城）
+designation: market_plus_industry   # "国际纺都" / 全球最大纺织品集散中心
+
+location:
+  province: Zhejiang
+  city: Shaoxing
+  district: Keqiao
+  note: "长三角金南翼; 距杭州萧山机场20km/宁波港150km"
+
+primary_industry: Textiles   # ind-textile
+related_industries:
+  - dyeing & printing (印染, 全国近40%产能)
+  - chemical fiber / polyester
+  - apparel & home textiles
+  - functional/technical textiles
+
+major_products:
+  - woven/knitted fabrics
+  - dyed & printed fabrics
+  - functional textiles (outdoor, flame-retardant, recycled)
+  - home textiles
+  - apparel fabrics
+
+key_market_entities:
+  - { name: China Textile City, name_zh: 中国轻纺城, role: core_market, note: "1988年建, 全球最大纺织品集散中心" }
+  - { name: Lanyin Fashion Town, name_zh: 蓝印时尚小镇, role: dyeing_cluster, note: "全国最大绿色印染基地, 浙江60%/全国40%产能" }
+  - { name: Jianhu Laboratory, name_zh: 鉴湖实验室, role: innovation_center, note: "浙江省现代纺织技术创新中心, 攻关160+项目" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "World's largest textile distribution center; ~1/4 of global fabrics traded here; sold to 192-206 countries."
+    source: src-xinhua-20250106, src-rmrb-20250430
+  - fact: "2024 market turnover RMB 400.99B (first time >400B, +11.09%); 2025 turnover RMB 441.39B (+10.07%)."
+    source: src-xinhua-20250106, src-zjic-20260325
+  - fact: "8,000+ textile enterprises, ~140,000 workers; above-scale textile output value RMB 151.28B."
+    source: src-zjic-20260325, src-xinhua-20250514
+  - fact: "Dyeing & printing capacity ~40% of China's national total; nearly all fabric types covered."
+    source: src-rmrb-20250430, src-zjic-20260325
+  - fact: "Market founded 1988 (first indoor textile market); 1992 renamed China Textile City (first 'China'-named market); grew from 'water cloth market'."
+    source: src-gmw-20230209
+  - fact: "Dyeing consolidation: 212 firms cut to 109, relocated to Lanyin Fashion Town; peak dyeing 18B+ meters/year."
+    source: src-gmw-20230209, src-cfej-20240108
+
+confidence: High

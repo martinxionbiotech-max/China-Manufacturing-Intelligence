@@ -1,0 +1,26 @@
+id: cty-ganzhou
+type: City
+name_en: Ganzhou
+name_zh: 赣州
+province: Jiangxi
+major_clusters:
+- cls-ganzhou-rare-earth
+major_industries:
+- ind-rare-earth
+major_products:
+- prd-ndfeb-magnet
+- prd-rare-earth
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 赣州掌握全国 60% 以上的离子型稀土配额生产量和稀土氧化物供应量.
+  source: cls-ganzhou-rare-earth
+- fact: Rare-earth new-materials & applications cluster — Jiangxi's 3rd national advanced manufacturing cluster .
+  source: 江西培育壮大先进制造业集群 (2024).
+- fact: Nonferrous-metals cluster output > RMB 200 billion .
+  source: 江西培育壮大先进制造业集群 (2024).
+- fact: 'New-energy & NEV chain target: RMB 250 billion by 2026 (lithium battery RMB 200B) .'
+  source: 江西培育壮大先进制造业集群 (2024).
+- fact: 'Xinfeng county electronics: RMB 28.34 billion (2025), 75% of its above-scale industrial value .'
+  source: 江西培育壮大先进制造业集群 (2024).
+confidence: High

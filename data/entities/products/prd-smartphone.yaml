@@ -1,0 +1,30 @@
+id: prd-smartphone
+type: Product
+name_en: Smartphones
+name_zh: 智能手机
+industry: Consumer Electronics / Smart Mobile Terminals
+hs_codes:
+- 8517
+major_clusters:
+- cls-dongguan-smart-terminal
+- cls-shenzhen-electronics
+major_cities:
+- Dongguan
+- Shenzhen
+- Zhengzhou
+components:
+- display (显示模组)
+- camera module (摄像模组)
+- lithium battery cell (锂电芯)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 东莞智能终端集群：2022 年产智能手机 1.96 亿部(全国 1/6)；2024 年出货约全球 24%(全球 1/5)，全球 1/8 手机来自长安镇；华为终端/OPPO/vivo 品牌总部或基地在莞.
+  source: cls-dongguan-smart-terminal
+- fact: 深圳电子集群：全球约 1/7 智能手机'深圳造'.
+  source: cls-shenzhen-electronics
+- fact: 2024年全球智能手机出货量12.23亿部(+7%)，中国大陆市场2.85亿部。
+  source: IDC/Counterpoint(2025)
+confidence: High

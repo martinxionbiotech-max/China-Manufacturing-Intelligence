@@ -1,0 +1,17 @@
+id: prt-shenzhen
+type: Port
+name_en: Shenzhen Port
+name_zh: 深圳港
+city: Shenzhen
+province: Guangdong
+serves:
+- cls-shenzhen-electronics
+- cls-sg-medical-devices
+evidence_level: High
+confidence: High
+last_verified: '2026-09-15'
+verified_facts:
+- fact: 2024年深圳港集装箱吞吐量继2022年后再次突破3000万标箱，全港保持高位运行。
+  source: 深圳政府在线/深圳特区报(2024-11)
+- fact: 2024年深圳港集团所属深圳港区集装箱吞吐量1736.5万标箱(同比+7%)创新高；盐田港区全年集装箱吞吐量首次突破1500万标箱。
+  source: 深圳市国资委/国务院国资委(2025-01)

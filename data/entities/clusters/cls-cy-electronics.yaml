@@ -1,0 +1,41 @@
+# Cluster Entity — Chengdu-Chongqing Electronic Information (Sichuan/Chongqing)
+# 成渝电子信息产业集群
+
+id: cls-cy-electronics
+type: IndustrialCluster
+name_en: Chengdu-Chongqing Electronic Information Cluster
+name_zh: 成渝电子信息产业集群
+designation: dual_city   # 双城经济圈 + 万亿集群 + 国家战略
+
+location:
+  province: Sichuan / Chongqing
+  city: Chengdu (成都市) / Chongqing (重庆市)
+  note: "成渝双城经济圈，电子信息产值占全国 1/10 以上"
+
+primary_industry: Electronic information (电子信息)   # ind-electronics
+related_industries:
+  - integrated circuits (集成电路)
+  - display panels (显示面板)
+  - smart terminals (智能终端)
+
+major_products:
+  - electronic components & ICs (电子元器件/集成电路)
+  - display panels (显示面板)
+  - smart terminals (智能终端)
+
+key_manufacturers:
+  - { name: "成都电子信息产业", note: "2023 年规模 1.3 万亿" }
+  - { name: "重庆电子信息产业", note: "笔电/手机制造基地" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "成都电子信息产业 2023 年规模达 1.3 万亿元；2024 年前 8 个月 7926 亿元、同比增长 5.6%."
+    source: src-scol-cy
+  - fact: "成渝地区共建电子信息等四大万亿级产业集群，汽车产量、电子信息产值占全国的 1/10 以上."
+    source: src-xinhua-cy
+  - fact: "2024 年成渝地区双城经济圈工业增加值 2.42 万亿元、比上年增长 6.3%."
+    source: src-12371-cy
+
+confidence: High

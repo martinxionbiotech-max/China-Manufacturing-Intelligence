@@ -1,0 +1,47 @@
+# Cluster Entity — Wenzhou Low-Voltage Electrical (Liushi / Yueqing)
+# 温州低压电器集群（柳市·乐清）
+
+id: cls-wenzhou-electrical
+type: IndustrialCluster
+name_en: Wenzhou Low-Voltage Electrical Cluster (Liushi, Yueqing)
+name_zh: 温州低压电器集群（柳市·乐清）
+designation: private_chain_leader   # 民营链主 + 草根逆向工程 + 极密配套（与顺德同源）
+
+location:
+  province: Zhejiang
+  city: Wenzhou
+  county: Yueqing (乐清市)
+  town: Liushi (柳市镇)
+  note: "柳市镇 = '中国电器之都'; 国家级先进制造业集群(工信部45个之一)"
+
+primary_industry: Low-voltage electrical appliances   # ind-low-voltage-electrical
+related_industries:
+  - low-voltage circuit breakers & contactors
+  - photovoltaic (Chint 转型光伏)
+  - smart grid / energy internet equipment
+
+major_products:
+  - low-voltage circuit breakers
+  - contactors & relays
+  - distribution/switchgear (200+系列 6000+种类 25000+型号)
+  - PV modules & inverters (Chint 板块)
+
+key_manufacturers:
+  - { name: Chint Group (正泰集团), note: "1984 由南存辉创立于乐清, 低压电器+光伏, 2024 营收 US$22.1B" }
+  - { name: Delixi (德力西), note: "低压电器龙头, 乐清起家" }
+  - { name: "人民电器/天正等知名企业集团", note: "覆盖输电变配电全品类" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "乐清电气集群入选工信部先进制造业集群(2022 年 20 个之一, 浙江独揽 5 席)."
+    source: src-jdzj-liushi
+  - fact: "乐清拥有我国最大的自主生长的低压电器产业集群, 是国内电气全产业链发育最完整的区域, 拿下'中国电器之都''国家新型工业化示范基地'等国字号名片."
+    source: src-jdzj-liushi
+  - fact: "产品覆盖输电变配电等 200 多个系列、6000 多个种类、25000 多种型号, 占据全国市场份额 65% 以上."
+    source: src-jdzj-liushi
+  - fact: "Chint Group (正泰集团) founded 1984 by Nan Cunhui (南存辉), HQ Yueqing; 2024 revenue US$22.1 billion."
+    source: src-wiki-chint
+
+confidence: High

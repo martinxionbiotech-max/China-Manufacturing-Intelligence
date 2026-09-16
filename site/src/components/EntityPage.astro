@@ -1,0 +1,101 @@
+---
+import type { Entity, Kind } from '../lib/entities';
+import {
+  KIND_LABEL,
+  KIND_ROUTE,
+  entityUrl,
+  crossLinks,
+  getEntityIndex,
+  fmtDate,
+} from '../lib/entities';
+import { articleJsonLd, breadcrumbJsonLd } from '../lib/schema';
+import { render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CrossLinks from '../components/CrossLinks.astro';
+
+interface Props {
+  kind: Kind;
+  entry: any;
+}
+
+const { kind, entry } = Astro.props;
+const d = entry.data;
+const entity: Entity = {
+  id: d.entity_id,
+  kind,
+  slug: d.slug,
+  title: d.title,
+  description: d.description,
+  entry,
+};
+
+const index = await getEntityIndex();
+const links = crossLinks(index, entity);
+const { Content } = await render(entry);
+const site = Astro.site ?? new URL('https://chinamanufacturingintel.example/');
+
+const published = fmtDate(d.date);
+const modified = fmtDate(d.last_verified) || published;
+
+const kindLabel = KIND_LABEL[kind];
+const listPath = KIND_ROUTE[kind];
+const listLabel = `${KIND_LABEL[kind]}s`;
+
+// meta info lines
+const meta: { label: string; value: string }[] = [];
+if (kind === 'cluster' || kind === 'city') {
+  if (d.province) meta.push({ label: 'Province', value: d.province });
+}
+if (kind === 'cluster' && d.city) meta.push({ label: 'City', value: d.city });
+if (kind === 'industry' && d.super_sector) meta.push({ label: 'Super-sector', value: d.super_sector });
+if (kind === 'product' && d.industry) meta.push({ label: 'Industry', value: d.industry });
+if (kind === 'product' && Array.isArray(d.hs_codes) && d.hs_codes.length) {
+  meta.push({ label: 'HS codes', value: d.hs_codes.join(', ') });
+}
+
+const crumbs = [
+  { name: 'Home', url: '/' },
+  { name: listLabel, url: listPath },
+  { name: entity.title, url: entityUrl(entity) },
+];
+---
+
+<BaseLayout
+  title={entity.title}
+  description={entity.description}
+  canonicalPath={entityUrl(entity)}
+  jsonLd={[articleJsonLd(site, entity), breadcrumbJsonLd(site, crumbs)]}
+>
+  <article class="entity">
+    <span class="entity__kind">{kindLabel}</span>
+    <h1>{entity.title}</h1>
+    <p class="entity__desc">{entity.description}</p>
+    {
+      meta.length > 0 && (
+        <p class="entity__meta">
+          {meta.map((m) => (
+            <>
+              <strong>{m.label}:</strong> {m.value}
+              {' · '}
+            </>
+          ))}
+          {
+            (published || modified) && (
+              <>
+                <strong>Last verified:</strong> {modified ?? published}
+              </>
+            )
+          }
+        </p>
+      )
+    }
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+
+  <CrossLinks kind="city" entities={links.city} emptyText="No linked cities." />
+  <CrossLinks kind="cluster" entities={links.cluster} emptyText="No linked clusters." />
+  <CrossLinks kind="industry" entities={links.industry} emptyText="No linked industries." />
+  <CrossLinks kind="product" entities={links.product} emptyText="No linked products." />
+</BaseLayout>

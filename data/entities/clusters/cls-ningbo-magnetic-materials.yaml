@@ -1,0 +1,43 @@
+# Cluster Entity — Ningbo Magnetic Materials (Zhejiang)
+# 宁波磁性材料集群
+
+id: cls-ningbo-magnetic-materials
+type: IndustrialCluster
+name_en: Ningbo Magnetic Materials Cluster
+name_zh: 宁波磁性材料集群
+designation: research_manufacturing   # 稀土永磁 NdFeB + 无中生有 + 出口导向
+
+location:
+  province: Zhejiang
+  city: Ningbo (宁波市)
+  note: "浙江东北部, 长三角南翼经济中心; 国家级先进制造业集群(45个之一)"
+
+primary_industry: Magnetic materials (rare-earth NdFeB)   # ind-advanced-materials
+related_industries:
+  - NdFeB permanent magnets (钕铁硼永磁)
+  - motor magnets (电机磁钢)
+  - EV/wind/industrial motor magnets
+
+major_products:
+  - sintered NdFeB magnets
+  - bonded NdFeB magnets
+  - motor magnets (EV, wind, industrial motors)
+
+key_manufacturers:
+  - { name: 宁波韵升 (Yunsheng, 600366.SH), note: "2025 营收 54.64 亿(+8.39%), 净利 3.31 亿(+247.95%), 钕铁硼成品 14197 吨" }
+  - { name: 招宝磁业, note: "5000 吨钕铁硼项目(2023 在建)" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "宁波集聚全国约 22% 的稀土永磁材料企业, 磁性材料产量占全国总产量 40% 以上."
+    source: src-people-nb-magnet
+  - fact: "宁波磁性材料产业集群入选国家先进制造业集群(工信部 45 个之一)."
+    source: src-people-nb-magnet
+  - fact: "宁波无稀土原材料, 靠产业基础实现磁性材料产业'无中生有'; 2023 启动'宁波·磁创之都'产业名片建设."
+    source: src-people-nb-magnet
+  - fact: "宁波韵升 2025 营收 54.64 亿(+8.39%), 净利 3.31 亿(+247.95%), 钕铁硼成品销售 14197 吨(+10.29%), 新能源汽车应用收入 25.52 亿."
+    source: src-stcn-yunsheng
+
+confidence: High

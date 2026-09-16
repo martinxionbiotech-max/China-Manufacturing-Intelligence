@@ -1,0 +1,30 @@
+id: prd-industrial-robot
+type: Product
+name_en: Industrial Robots
+name_zh: 工业机器人
+industry: Robotics & Automation
+hs_codes:
+- 8428
+- 8479
+major_clusters:
+- cls-shenyang-robotics
+major_cities:
+- Shenyang
+- Shanghai
+- Shenzhen
+components:
+- servo motor (伺服电机)
+- reducer (减速器)
+- controller (控制器)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 中科院沈阳自动化研究所近 50 年机器人研究历史，诞生我国第一台工业机器人样机；新松(SIASUN)成立于 2000 年，国家机器人产业化基地.
+  source: cls-shenyang-robotics
+- fact: 新松入选工信部《工业机器人行业规范条件(2024版)》企业名单，开启'机器人+AI'融合创新(具身智能研究院揭牌).
+  source: cls-shenyang-robotics
+- fact: 机器人行业营收从2020年1061亿元增至2024年2378.9亿元(翻番)，出口从3.9亿美元增至11.5亿美元。
+  source: 工信部装备工业发展中心(2025)
+confidence: High

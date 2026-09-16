@@ -1,0 +1,41 @@
+# Cluster Entity — Haining Leather (Zhejiang)
+# 海宁皮革时尚产业集群
+
+id: cls-haining-leather
+type: IndustrialCluster
+name_en: Haining Leather Fashion Cluster
+name_zh: 海宁皮革时尚产业集群
+designation: market_fashion   # 皮革城 + 时尚产业 + 高端供应链
+
+location:
+  province: Zhejiang
+  city: Haining (海宁市)
+  note: "海宁中国皮革城，秋冬时尚高端供应链基地"
+
+primary_industry: Leather & fashion (皮革时尚)   # ind-leather
+related_industries:
+  - leather garments (皮衣)
+  - fur (皮草)
+  - fashion design (时尚设计)
+
+major_products:
+  - leather garments (皮衣)
+  - fur & leather fashion (皮草/皮革时装)
+
+key_manufacturers:
+  - { name: "海宁中国皮革城", note: "上市公司，时尚产业高端供应链基地" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "海宁皮革城携手近 50 家优质企业亮相 2024 CHIC 春季展，3200 平米展区展示秋冬时装."
+    source: src-chinadaily-haining
+  - fact: "海宁作为时尚产业高端供应链基地，对秋冬时尚具统治力."
+    source: src-chinadaily-haining
+  - fact: "海宁中国皮革城股份有限公司 2024 年度营业收入 2.377 亿元."
+    source: src-szse-haining
+  - fact: "海宁因一块皮革撬动千亿产业集群，被誉为'中国皮革之都'."
+    source: src-chinanews-haining
+
+confidence: High

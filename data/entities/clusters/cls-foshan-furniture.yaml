@@ -1,0 +1,44 @@
+# Cluster Entity — Foshan Furniture (Lecong / Longjiang)
+# 佛山家具集群（乐从·龙江）
+
+id: cls-foshan-furniture
+type: IndustrialCluster
+name_en: Foshan Furniture Cluster (Lecong, Longjiang)
+name_zh: 佛山家具集群（乐从·龙江）
+designation: market_trade_manufacturing   # 制造 + 家具商贸城（乐从）
+
+location:
+  province: Guangdong
+  city: Foshan (佛山市)
+  district: Shunde (顺德区)
+  towns: "Lecong (乐从镇), Longjiang (龙江镇)"
+  note: "乐从家具城经营面积 200+ 万 m², 3000+ 经销商户"
+
+primary_industry: Furniture & home   # ind-furniture
+related_industries:
+  - upholstered furniture (沙发)
+  - office furniture
+  - mattresses
+  - furniture hardware & materials
+
+major_products:
+  - sofas & upholstered furniture
+  - office furniture
+  - mattresses
+  - home furniture
+
+key_manufacturers:
+  - { name: "分散的家具制造企业群", note: "顺德家具企业超 3 万家(制造 9000+ 商贸 2 万+)" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "顺德全区家具相关企业超 3 万家, 其中制造业 9000 余家, 2 万多家家具商贸企业; 规模以上工业企业 270 余家."
+    source: src-stcn-furniture
+  - fact: "乐从家具城经营面积达 200 多万平方米, 容纳海内外 3000 多家经销商户, 兼顾批发零售."
+    source: src-stcn-furniture
+  - fact: "顺德单个家具企业产值最高约 10 亿元; 家具产业整体分散、劳动密集, 智能化工厂较少."
+    source: src-stcn-furniture
+
+confidence: High

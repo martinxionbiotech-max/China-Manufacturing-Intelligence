@@ -1,0 +1,30 @@
+id: prd-pcb
+type: Product
+name_en: Printed Circuit Boards (PCB)
+name_zh: 印制电路板
+industry: Electronics & ICT Manufacturing
+hs_codes:
+- 8534
+major_clusters:
+- cls-shenzhen-electronics
+- cls-dongguan-smart-terminal
+major_cities:
+- Shenzhen
+- Dongguan
+- Suzhou
+components:
+- copper-clad laminate (覆铜板)
+- copper foil (铜箔)
+- PCB ink (油墨)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 深圳电子集群 major_products 含 PCBs；鹏鼎控股(Avary Holding)为深圳 PCB 上市龙头.
+  source: cls-shenzhen-electronics
+- fact: 东莞智能终端集群 major_products 含 PCBs/覆铜板；生益科技(Shengyi Technology)为 PCB 材料(覆铜板)厂商.
+  source: cls-dongguan-smart-terminal
+- fact: 2025年1-6月PCB出口864.58亿元(+28.6%)，其中四层以上多层板528.47亿元(+44.3%)。
+  source: 海关总署/国泰君安(2025)
+confidence: High

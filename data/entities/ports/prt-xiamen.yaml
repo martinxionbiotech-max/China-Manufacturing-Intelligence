@@ -1,0 +1,13 @@
+id: prt-xiamen
+type: Port
+name_en: Xiamen Port
+name_zh: 厦门港
+city: Xiamen
+province: Fujian
+serves: []
+evidence_level: High
+confidence: High
+last_verified: '2026-09-15'
+verified_facts:
+- fact: 2024年厦门港完成货物吞吐量2.11亿吨、集装箱吞吐量1225.47万标箱；2025年集装箱吞吐量1250.77万标箱(同比+2.06%)。
+  source: 厦门港务发展年报/人民网福建(2026)

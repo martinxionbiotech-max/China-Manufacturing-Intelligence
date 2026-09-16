@@ -1,0 +1,29 @@
+id: prd-excavator
+type: Product
+name_en: Excavators & Construction Machinery
+name_zh: 挖掘机及工程机械
+industry: Construction Machinery
+hs_codes:
+- 8429
+major_clusters:
+- cls-changsha-construction-machinery
+- cls-xuzhou-construction-machinery
+major_cities:
+- Changsha
+- Xuzhou
+components:
+- hydraulic system (液压系统)
+- diesel engine (发动机)
+- bucket (铲斗)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 长沙集群 2024 产值超 2500 亿元(全国 30%+)，世界第三大工程机械聚集地；三一/中联/山河智能等 5 家全球前 50 强.
+  source: cls-changsha-construction-machinery
+- fact: 徐州 2025 年挖掘机械产值 400 亿元，起重机械 180 亿元、铲运 160 亿元、桩工 90 亿元均全国第一；徐工 2024 营收 916.6 亿元.
+  source: cls-xuzhou-construction-machinery
+- fact: 2025年小/中/大挖分别出口49286/41207/27713台，同比+8%/+13%/+49%。
+  source: 中国机电产品进出口商会(2025)
+confidence: High

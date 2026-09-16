@@ -1,0 +1,43 @@
+# Cluster Entity — Yongkang Hardware (Zhejiang)
+# 永康五金集群（金华·永康市）
+
+id: cls-yongkang-hardware
+type: IndustrialCluster
+name_en: Yongkang Hardware Cluster
+name_zh: 永康五金集群
+designation: private_chain_leader   # 民营草根 + 五金商贸 + 极致品类密度（与温州/义乌同源浙中）
+
+location:
+  province: Zhejiang
+  city: Jinhua (金华市)
+  county: Yongkang (永康市, 县级市)
+  note: "浙江中部; 中国五金之都/世界五金之都; 全国最大、世界第三大五金市场"
+
+primary_industry: Hardware & tools   # ind-hardware
+related_industries:
+  - power tools (电动工具)
+  - door hardware (门业)
+  - thermos/vacuum cups (保温杯)
+
+major_products:
+  - power tools & hand tools
+  - doors & door hardware
+  - vacuum flasks / thermos cups
+
+key_manufacturers:
+  - { name: "王力/博大/三锋/星月/步阳/群升/哈尔斯等", note: "永康代表性企业" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "金华市五金(电动工具)产业总产值超 500 亿元; 永康五金产业占其工业产值 90%."
+    source: src-gsf-hardware
+  - fact: "永康拥有全国最大、世界第三大五金市场——中国科技五金城, 2022 年市场成交额 455.32 亿元."
+    source: src-gsf-hardware
+  - fact: "中国每 10 扇门 7 扇来自永康; 全球每 10 套电动工具 5 套、每 10 个保温杯 6 个来自永康."
+    source: src-gsf-hardware
+  - fact: "永康被誉为'中国五金之都''世界五金之都', 代表企业王力/博大/三锋/星月/步阳/群升/哈尔斯."
+    source: src-gsf-hardware
+
+confidence: High

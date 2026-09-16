@@ -1,0 +1,40 @@
+# Cluster Entity — Baotou Rare Earth (Inner Mongolia)
+# 包头稀土产业集群
+
+id: cls-baotou-rare-earth
+type: IndustrialCluster
+name_en: Baotou Rare Earth Cluster
+name_zh: 包头稀土产业集群
+designation: resource_endowment   # 资源禀赋(白云鄂博轻稀土) + 链主(北方稀土) + 世界稀土之都
+
+location:
+  province: Inner Mongolia
+  city: Baotou (包头市)
+  note: "白云鄂博矿全球储量最大稀土矿山，'世界稀土之都'"
+
+primary_industry: Rare earth (稀土)   # ind-rare-earth
+related_industries:
+  - rare earth mining & smelting (稀土采选冶)
+  - rare earth functional materials (稀土功能材料)
+  - wind power equipment (风电装备)
+
+major_products:
+  - light rare earth (轻稀土)
+  - rare earth raw materials (稀土原料)
+  - rare earth functional materials (稀土功能材料)
+
+key_manufacturers:
+  - { name: "北方稀土 (China Northern Rare Earth, 600111)", note: "全球规模最大稀土龙头" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "包头市白云鄂博矿山是全球储量最大的稀土矿山；2024 年稀土产业产值预计突破 1000 亿元."
+    source: src-nmgqq-baotou
+  - fact: "北方稀土是全球规模最大、产值最高、效益最好的稀土行业龙头企业，依托白云鄂博矿建立起全球规模最大的稀土原料生产基地和功能材料制造基地."
+    source: src-sseinfo-baotou
+  - fact: "包头 2024 年五大战略新兴产业（含稀土）产值计划达 1100 亿元以上."
+    source: src-jiemian-baotou
+
+confidence: High

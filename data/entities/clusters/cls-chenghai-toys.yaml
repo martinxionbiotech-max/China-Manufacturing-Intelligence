@@ -1,0 +1,39 @@
+# Cluster Entity — Shantou Chenghai Toys (Guangdong)
+# 汕头澄海玩具集群
+
+id: cls-chenghai-toys
+type: IndustrialCluster
+name_en: Shantou Chenghai Toys Cluster
+name_zh: 汕头澄海玩具集群
+designation: grassroots_ip   # 草根集群 + IP授权 + 全球1/3产能
+
+location:
+  province: Guangdong
+  city: Shantou (汕头市) / Chenghai (澄海区)
+  note: "5 万多家玩具企业，全球塑料玩具 33% 产能"
+
+primary_industry: Toys (玩具)   # ind-toys
+related_industries:
+  - plastic toys (塑料玩具)
+  - IP-licensed toys (IP授权玩具)
+  - AI toys (AI玩具)
+
+major_products:
+  - plastic toys (塑料玩具)
+  - IP-licensed toys (IP授权玩具)
+
+key_manufacturers:
+  - { name: "澄海玩具集群", note: "5 万+ 企业，20 多万从业者" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "澄海区 5 万多家玩具企业、20 多万玩具从业者，平均每 3 人就有 1 人是玩具从业者."
+    source: src-ce-chenghai
+  - fact: "澄海拥有全球塑料玩具 33% 的产能，玩具品牌拥有量、IP 授权量、专利授权量均为全国第一."
+    source: src-ce-chenghai
+  - fact: "每年更新 30 万款、平均每天推出超 1000 款新品，玩具发往近 140 个国家和地区."
+    source: src-cyol-chenghai
+
+confidence: High

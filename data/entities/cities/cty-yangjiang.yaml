@@ -1,0 +1,24 @@
+id: cty-yangjiang
+type: City
+name_en: Yangjiang
+name_zh: 阳江
+province: Guangdong
+major_clusters:
+- cls-yangjiang-knives
+major_industries:
+- ind-hardware
+major_products:
+- prd-hardware-tools
+- prd-knives-scissors
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 阳江有五金刀剪生产企业 2000 多家, 相关经营主体超 8500 家, 产品超 5000 种, 远销 130 多国; 每 10 把中国刀具 7 把产自阳江.
+  source: cls-yangjiang-knives
+- fact: 'Industrial investment +63.5% (2024), #1 in Guangdong; manufacturing investment +32.3% .'
+  source: 阳江市人民政府, "2024年政府工作报告" (2024).
+- fact: '"4+4" pillar industries under the "industrial revitalization" program .'
+  source: 阳江市人民政府, "2024年政府工作报告" (2024).
+- fact: Expanding into high-end aluminum/titanium/copper/magnesium alloys and new energy storage .
+  source: 阳江市人民政府, "2024年政府工作报告" (2024).
+confidence: High

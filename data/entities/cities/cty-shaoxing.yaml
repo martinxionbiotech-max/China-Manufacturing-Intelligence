@@ -1,0 +1,29 @@
+id: cty-shaoxing
+type: City
+name_en: Shaoxing
+name_zh: 绍兴
+province: Zhejiang
+major_clusters:
+- cls-hangzhou-bay-textile
+- cls-keqiao-textile
+- cls-zhuji-socks
+major_industries:
+- ind-textiles
+major_products:
+- prd-home-textile
+- prd-socks
+- prd-textile-fabric
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 柯桥为全球最大纺织品集散中心, 约 1/4 全球面料在此交易.
+  source: cls-keqiao-textile
+- fact: 诸暨大唐袜业年产袜子超 250 亿双, 产值超 700 亿元, 产量约占全国 70%、全球三分之一.
+  source: cls-zhuji-socks
+- fact: '2024 modern-textile cluster output: RMB 259.89 billion (+9.5%) — plus a fluorine fine-chemical cluster, both national-level (ranked #2 in Zhejiang by cluster count) .'
+  source: 潮新闻, "绍兴两个产业集群跻身国家级" (2024).
+- fact: 1,929 above-scale textile firms; 17 with RMB 1B+ output; 219,000 workers .
+  source: 潮新闻, "绍兴两个产业集群跻身国家级" (2024).
+- fact: Big-textile (textile + chemical-fiber + garment) = ~50% of Shaoxing manufacturing value-added and ~58% of its manufacturing employment .
+  source: 潮新闻, "绍兴两个产业集群跻身国家级" (2024).
+confidence: High

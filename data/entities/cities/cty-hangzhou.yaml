@@ -1,0 +1,32 @@
+id: cty-hangzhou
+type: City
+name_en: Hangzhou
+name_zh: 杭州
+province: Zhejiang
+major_clusters:
+- cls-hangzhou-bay-textile
+- cls-hangzhou-digital-security
+major_industries:
+- ind-textiles
+- ind-video-surveillance
+major_products:
+- prd-home-textile
+- prd-security-camera
+- prd-socks
+- prd-textile-fabric
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 海康威视、大华股份两大龙头合计市场份额高达 65%, 诞生于杭州滨江核心区.
+  source: cls-hangzhou-digital-security
+- fact: 环杭州湾现代纺织服装集群主导产业产值 10135 亿元, 占全国近 1/5.
+  source: cls-hangzhou-bay-textile
+- fact: 'Above-scale industrial value-added: RMB 290.3B (2015) → RMB 440.9B (2024), now #5 among sub-provincial cities (surpassing Wuhan by RMB 30B) .'
+  source: 潮新闻, "杭州猛攻硬制造" (2025).
+- fact: '#1 on all three 2025 private-enterprise 500 lists; manufacturers are 60% of its listees, with 5 thousand-yuan-level industrial "aircraft carriers" (Rongsheng, Geely, Hengyi, Wanxiang, Fuye) .'
+  source: 潮新闻, "杭州猛攻硬制造" (2025).
+- fact: Digital-economy core manufacturing value-added +10.5% (Jan–Nov 2024) .
+  source: 潮新闻, "杭州猛攻硬制造" (2025).
+- fact: '"296X" cluster system: 2 (AI + visual intelligence) + 9 (robotics, IC, biopharma, network comms, smart-connected autos, new-energy equipment, new materials, high-end equipment, textiles) .'
+  source: 潮新闻, "杭州猛攻硬制造" (2025).
+confidence: High

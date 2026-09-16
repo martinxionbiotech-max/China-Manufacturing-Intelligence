@@ -1,0 +1,40 @@
+# Cluster Entity — Yangjiang Knives & Scissors (Guangdong)
+# 阳江刀剪集群
+
+id: cls-yangjiang-knives
+type: IndustrialCluster
+name_en: Yangjiang Knives & Scissors Cluster
+name_zh: 阳江刀剪集群
+designation: grassroots_standard   # 草根制造 + 标准话语权 + 7成国产
+
+location:
+  province: Guangdong
+  city: Yangjiang (阳江市)
+  note: "中国每生产 10 把刀具，7 把产自阳江"
+
+primary_industry: Knives & scissors (刀剪)   # ind-knives
+related_industries:
+  - kitchen knives (厨房刀具)
+  - scissors (剪刀)
+  - hardware (五金)
+
+major_products:
+  - kitchen knives (厨刀)
+  - scissors (剪刀)
+
+key_manufacturers:
+  - { name: "十八子", note: "国内知名品牌" }
+  - { name: "金辉刀剪 / 美珑美利", note: "龙头企业" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "阳江有五金刀剪生产企业 2000 多家、相关经营主体超 8500 家，产品种类超 5000 种，远销 130 多个国家和地区."
+    source: src-rmrb-yangjiang
+  - fact: "中国每生产 10 把刀具，7 把产自阳江，年近百亿元产值."
+    source: src-21jingji-yangjiang
+  - fact: "阳江主导或参与制修订国际标准 1 项、国家标准 3 项、行业标准 8 项、地方标准 5 项、联盟标准 4 项."
+    source: src-yangxi-yangjiang
+
+confidence: High

@@ -1,0 +1,26 @@
+id: cty-changzhou
+type: City
+name_en: Changzhou
+name_zh: 常州
+province: Jiangsu
+major_clusters:
+- cls-changzhou-carbon-fiber
+major_industries:
+- ind-advanced-materials
+major_products:
+- prd-carbon-fiber
+- prd-ndfeb-magnet
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 常州新北区碳纤维及复合材料产业集群入围 2024 年度江苏省省级中小企业特色产业集群名单.
+  source: cls-changzhou-carbon-fiber
+- fact: 'New-energy industry scale: RMB 1.0479 trillion (2025) — a new city card .'
+  source: 新华网, "从工业明星城迈向国际化智造名城" (2024).
+- fact: New-energy vehicle output > 800,000 units; transformer output = 13% of national .
+  source: 新华网, "从工业明星城迈向国际化智造名城" (2024).
+- fact: 'Power-battery industrial chain completeness: 97% (materials → cells → systems → testing) .'
+  source: 新华网, "从工业明星城迈向国际化智造名城" (2024).
+- fact: 'National single champions: 18 → 45; national "little-giants": 12 → 315 over the "14th Five-Year" period .'
+  source: 新华网, "从工业明星城迈向国际化智造名城" (2024).
+confidence: High

@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_NAME } from '../lib/schema';
+---
+
+<BaseLayout
+  title="About"
+  description="What China Manufacturing Intelligence is, and what it is not."
+  canonicalPath="/about/"
+>
+  <section class="hero">
+    <h1>About {SITE_NAME}</h1>
+    <p>
+      {SITE_NAME} is an independent, English-language editorial knowledge base for
+      China\u2019s manufacturing geography.
+    </p>
+  </section>
+
+  <section class="prose-page">
+    <h2>What this is</h2>
+    <p>
+      We document <strong>where things are actually made in China</strong>: the industrial
+      clusters, anchor cities, specialized production towns, industries, and product
+      categories that together form the world\u2019s largest manufacturing system.
+    </p>
+    <p>
+      The product is not individual articles — it is a <strong>manufacturing knowledge
+      graph</strong>. Every cluster, city, industry, and product page is a node, linked to the
+      entities it depends on and supplies.
+    </p>
+
+    <h2>What this is not</h2>
+    <ul>
+      <li>Not a sourcing blog or a \u201Ctop 10 factories\u201D list.</li>
+      <li>Not a supplier directory — we do not rank or recommend individual manufacturers.</li>
+      <li>Not promotional content for any company, region, or government body.</li>
+    </ul>
+
+    <h2>Editorial standards</h2>
+    <p>
+      Every factual claim is sourced and labeled. We never write from memory when
+      verification is possible, never invent manufacturers, locations, production
+      numbers, or certifications, and never convert a \u201Csupplier\u201D into a
+      \u201Cmanufacturer\u201D without evidence. See the
+      <a href="/methodology/">methodology</a> for the full evidence hierarchy.
+    </p>
+  </section>
+</BaseLayout>

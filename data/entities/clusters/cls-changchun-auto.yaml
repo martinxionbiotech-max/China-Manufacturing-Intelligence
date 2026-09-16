@@ -1,0 +1,41 @@
+# Cluster Entity — Changchun Automobile (Jilin)
+# 长春汽车产业集群
+
+id: cls-changchun-auto
+type: IndustrialCluster
+name_en: Changchun Automobile Cluster
+name_zh: 长春汽车产业集群
+designation: central_soe_anchor   # 央企链主(一汽) + 整车引领 + 近地化供应链
+
+location:
+  province: Jilin
+  city: Changchun (长春市)
+  note: "新中国汽车工业摇篮，1956 年第一辆解放卡车下线"
+
+primary_industry: Automobiles (整车制造)   # ind-auto
+related_industries:
+  - new energy vehicles (新能源汽车)
+  - auto parts (汽车零部件)
+  - intelligent connected vehicles (智能网联汽车)
+
+major_products:
+  - passenger cars & commercial vehicles
+  - NEV / EV
+  - auto parts & core components
+
+key_manufacturers:
+  - { name: "一汽集团 (FAW)", note: "链主企业，红旗/奔腾/解放" }
+  - { name: "奥迪一汽新能源 (Audi-FAW NEV)", note: "PPE 项目" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "长春是中国汽车工业摇篮，1956 年第一辆解放卡车驶下生产线，如今新能源汽车赛道突围、后市场服务生态延伸."
+    source: src-jlgov-auto
+  - fact: "奥迪 PPE 项目约 50% 的供应商布局在工厂 30 公里范围内，当地政府为供应商规划专属工业园区，构建近地化供应链."
+    source: src-caida-auto
+  - fact: "一汽弗迪规划产能 45GWh、预计总投资 135 亿元的核心配套项目，支撑一汽红旗品牌 All in 新能源战略及奔腾/解放新能源发展."
+    source: src-cri-auto
+
+confidence: High

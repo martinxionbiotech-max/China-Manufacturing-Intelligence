@@ -1,0 +1,39 @@
+# Cluster Entity — Suzhou-Wuxi-Nantong Textile (Jiangsu)
+# 苏锡通纺织集群（南通家纺为核心）
+
+id: cls-swt-textile
+type: IndustrialCluster
+name_en: Suzhou-Wuxi-Nantong Textile Cluster
+name_zh: 苏锡通纺织集群
+designation: market_anchor   # 家纺细分(叠石桥) + 市场 + 直播电商转型
+
+location:
+  province: Jiangsu
+  city: Nantong (南通市) / Suzhou / Wuxi
+  note: "南通家纺为核心，叠石桥国际家纺城"
+
+primary_industry: Textiles (纺织)   # ind-textile
+related_industries:
+  - home textiles (家纺)
+  - yarn & fabric (纱线/面料)
+  - live-stream e-commerce (直播电商)
+
+major_products:
+  - home textiles (家纺/床上用品)
+  - yarn & fabric (纱线面料)
+
+key_manufacturers:
+  - { name: "叠石桥国际家纺城", note: "全球家纺集散中心" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "2024 年南通家纺产业规模突破 2400 亿元，高端纺织是南通六大千亿级产业集群之一."
+    source: src-ifeng-nantong
+  - fact: "南通纺织目标到 2024 年全市规上纺织企业总产值 2200 亿元，形成'三主三副'纺织产业格局."
+    source: src-parkworld-nantong
+  - fact: "南通家纺以海门叠石桥市场和通州志浩市场为依托，2024 年叠石桥国际家纺城成交额突破 1500 亿元."
+    source: src-jschina-nantong
+
+confidence: High

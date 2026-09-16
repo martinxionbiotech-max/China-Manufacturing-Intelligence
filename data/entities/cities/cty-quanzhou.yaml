@@ -1,0 +1,32 @@
+id: cty-quanzhou
+type: City
+name_en: Quanzhou
+name_zh: 泉州
+province: Fujian
+major_clusters:
+- cls-jinjiang-footwear
+- cls-quanzhou-sports
+major_industries:
+- ind-footwear
+- ind-toys
+major_products:
+- prd-footwear
+- prd-toys
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 陈埭镇(不足 40 km²)分布 3000 多家鞋企, 年产运动鞋超 10 亿双, 晋江为'中国鞋都'.
+  source: cls-jinjiang-footwear
+- fact: 2024 泉州现代体育产品集群入选国家先进制造业集群, 运动鞋产量占全国 40%、全球 20%.
+  source: cls-quanzhou-sports
+- fact: 70,000+ industrial enterprises, 7,000+ above-scale — the "Jinjiang experience" (晋江经验) of private-economy industrial clusters .
+  source: 泉州市人民政府/泉州晚报, "龙头带动、融通发展！泉州万亿级产业链生态圈" (2024).
+- fact: 5 clusters each above RMB 300 billion output (textile & apparel, footwear, etc.) .
+  source: 泉州市人民政府/泉州晚报, "龙头带动、融通发展！泉州万亿级产业链生态圈" (2024).
+- fact: Machinery & equipment > RMB 260 billion; its "four wheels, one belt" (四轮一带) products = 50%+ of national exports .
+  source: 泉州市人民政府/泉州晚报, "龙头带动、融通发展！泉州万亿级产业链生态圈" (2024).
+- fact: 355 city-level leading enterprises contribute ~20% of GDP .
+  source: 泉州市人民政府/泉州晚报, "龙头带动、融通发展！泉州万亿级产业链生态圈" (2024).
+confidence: High
+ports:
+- prt-quanzhou

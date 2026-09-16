@@ -1,0 +1,25 @@
+id: cty-luoyang
+type: City
+name_en: Luoyang
+name_zh: 洛阳
+province: Henan
+major_clusters:
+- cls-luoyang-agri-machinery
+major_industries:
+- ind-agri-machinery
+major_products:
+- prd-agri-machinery
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2024 洛阳现代农机装备集群入选国家先进制造业集群, 实现河南省国家级集群'零的突破'; 以中国一拖为龙头.
+  source: cls-luoyang-agri-machinery
+- fact: 'GDP: RMB 581.86 billion (2024), +4.9%; industrial value-added +6.6% .'
+  source: 河南洛阳老工业基地变身新智造高地 (2024).
+- fact: 39 industrial classes; 7 national single champions, 56 national "little-giants" .
+  source: 河南洛阳老工业基地变身新智造高地 (2024).
+- fact: 'High-tech industry share: >55% of industrial output (first time) .'
+  source: 河南洛阳老工业基地变身新智造高地 (2024).
+- fact: 'Luoyang Bearing (洛轴): high-end bearings = 70% of its output .'
+  source: 河南洛阳老工业基地变身新智造高地 (2024).
+confidence: High

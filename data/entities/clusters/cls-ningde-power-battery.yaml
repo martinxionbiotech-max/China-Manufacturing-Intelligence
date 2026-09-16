@@ -1,0 +1,66 @@
+# Cluster Entity — Ningde Power Battery Cluster
+# 宁德动力电池集群
+
+id: cls-ningde-power-battery
+type: IndustrialCluster
+name_en: Ningde Power Battery Cluster
+name_zh: 宁德市动力电池国家先进制造业集群
+designation: national_cluster   # MIIT National Advanced Manufacturing Cluster (power batteries)
+
+location:
+  province: Fujian
+  city: Ningde
+  sub_areas:
+    - { name: Jiaocheng District, name_zh: 蕉城区, role: hq_and_core, anchor: "CATL HQ + Dongqiao Economic & Tech Dev Zone" }
+    - { name: Dongqiao Economic & Tech Dev Zone, name_zh: 东侨经济技术开发区, role: core_manufacturing }
+    - { name: Fuding City, name_zh: 福鼎市, role: megabase, anchor: "Fuding CATL base (120 GWh)" }
+    - { name: Xiapu County, name_zh: 霞浦县, role: energy_storage }
+
+primary_industry: Power & Energy-Storage Batteries   # ind-power-battery
+related_industries:
+  - Consumer Lithium Batteries (ATL)
+  - New Energy Vehicles (SAIC Ningde)
+  - Stainless Steel (Qingtuo)
+  - Copper Materials
+
+major_products:
+  - EV power batteries (LFP / NCM / sodium-ion)
+  - energy storage batteries & systems
+  - consumer lithium cells
+  - cathode materials / precursors
+  - battery equipment
+
+key_manufacturers:      # verified public companies
+  - { name: CATL, name_zh: 宁德时代, role: power_storage_batteries, note: "HQ Ningde; founded 2011" }
+  - { name: ATL (Amperex Technology), name_zh: 新能源科技, role: consumer_batteries, note: "moved Dongguan->Ningde 2008" }
+  - { name: SAIC Ningde Base, name_zh: 上汽宁德基地, role: nev_assembly }
+  - { name: Brunp, name_zh: 邦普循环, role: cathode_materials_recycling }
+  - { name: Sikeqi, name_zh: 思客琦, role: battery_equipment }
+  - { name: Qingtuo Group, name_zh: 青拓集团, role: stainless_steel, note: "adjacent industry" }
+
+ports:
+  - { name: Fuzhou Port / Ningde (Sandu'ao), name_zh: 宁德三都澳港, role: regional_port }
+  # Note: Ningde is a coastal city; deep-water export largely via Fuzhou/Xiamen ports.
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "CATL 2024: global power-battery usage share 37.9% (#1 for 8 straight years); energy-storage battery shipments 36.5% global (#1 for 4 straight years)."
+    source: src-catl-ar2024
+  - fact: "CATL 2025: global power-battery share 39.2% (#1 for 9 straight years); energy-storage shipments 30.4% global (#1 for 5 straight years)."
+    source: src-catl-ar2025
+  - fact: "CATL 2025 revenue RMB 423.7B (+17%), net profit RMB 72.2B (+42%); lithium battery sales 661 GWh (+39%)."
+    source: src-catl-ar2025
+  - fact: "CATL 2025 global production capacity 772 GWh, with 321 GWh under construction."
+    source: src-catl-ar2025
+  - fact: "Ningde city: 330 GWh lithium capacity installed/under construction, plus 170 GWh planned; 90+ upstream/downstream companies clustered."
+    source: src-fujian-gov-20260116
+  - fact: "2025: Ningde lithium battery + stainless steel cluster output exceeded RMB 300B and RMB 240B respectively."
+    source: src-fujian-gov-20260116
+  - fact: "Ningde power battery cluster is Fujian's ONLY national advanced manufacturing cluster; city named 'China's New Energy Battery Capital'."
+    source: src-fjdaily-20221219
+  - fact: "Fuding CATL base is CATL's largest single project globally — 120 GWh planned, output >RMB 100B."
+    source: src-xinhua-fuding
+
+confidence: High

@@ -1,0 +1,29 @@
+id: prd-agri-machinery
+type: Product
+name_en: Agricultural Machinery
+name_zh: 农业机械
+industry: Agricultural Machinery
+hs_codes:
+- 8432
+- 8433
+major_clusters:
+- cls-luoyang-agri-machinery
+major_cities:
+- Luoyang
+- Weifang
+components:
+- engine (发动机)
+- transmission (传动)
+- harvester header (收割割台)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2024 洛阳现代农机装备集群入选国家先进制造业集群，实现河南省国家级先进制造业集群零的突破；以中国一拖为龙头、关联企业 300 余家、产值 600 亿元.
+  source: cls-luoyang-agri-machinery
+- fact: 中国一拖大轮拖生产线、8568 多功能联合收获机为国家农机装备创新中心研制.
+  source: cls-luoyang-agri-machinery
+- fact: 2025年1-11月规模以上农机企业出口交货值479亿元，前10大出口目的地累计出口额40.6亿美元(+19.7%)。
+  source: 中国农机工业网(2025)
+confidence: High

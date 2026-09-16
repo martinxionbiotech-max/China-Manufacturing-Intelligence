@@ -1,0 +1,20 @@
+id: prt-guangzhou
+type: Port
+name_en: Guangzhou Port
+name_zh: 广州港
+city: Guangzhou
+province: Guangdong
+serves:
+- cls-sg-medical-devices
+- cls-foshan-ceramics
+- cls-foshan-furniture
+- cls-fd-pan-home
+- cls-shunde-home-appliances
+evidence_level: High
+confidence: High
+last_verified: '2026-09-15'
+verified_facts:
+- fact: 2024年广州港完成集装箱吞吐量2518.2万标箱(同比+5.3%)，货物吞吐量5.68亿吨(同比+2.8%)，港口能级实现历史新跨越。
+  source: 广州港股份公告/证券时报(2025-01)
+- fact: 广州港货物吞吐量由2020年6.36亿吨增长至2023年6.75亿吨，世界排名第5。
+  source: 广州市人民政府(2025)

@@ -1,0 +1,25 @@
+id: cty-changchun
+type: City
+name_en: Changchun
+name_zh: 长春
+province: Jilin
+major_clusters:
+- cls-changchun-auto
+major_industries:
+- ind-automotive
+major_products:
+- prd-nev
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 长春是中国汽车工业摇篮, 1956 年第一辆解放卡车下线; 奥迪 PPE 项目约 50% 供应商布局在工厂 30 公里内.
+  source: cls-changchun-auto
+- fact: '1,034 auto-parts enterprises form the chain''s "skeleton": 395 above-scale, 200 with RMB 100M+ revenue, 31 at RMB 1B+, 3 at RMB 5B+, 1 at RMB 10B+ .'
+  source: '"汽势如虹驰骋产业赛道——长春汽车产业集群发展综述" (2024).'
+- fact: 6 whole-vehicle plants, 7 auto brands; nearly half of the world's top-100 auto-parts firms have a Changchun presence .
+  source: '"汽势如虹驰骋产业赛道——长春汽车产业集群发展综述" (2024).'
+- fact: 11 national key auto labs (simulation/control), 6 national enterprise tech centers, 21 universities with auto majors .
+  source: '"汽势如虹驰骋产业赛道——长春汽车产业集群发展综述" (2024).'
+- fact: First-batch national "vehicle-road-cloud integration" ICV pilot city (July 2024) .
+  source: '"汽势如虹驰骋产业赛道——长春汽车产业集群发展综述" (2024).'
+confidence: High

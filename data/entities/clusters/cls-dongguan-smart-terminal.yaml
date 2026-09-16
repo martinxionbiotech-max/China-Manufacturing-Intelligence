@@ -1,0 +1,70 @@
+# Cluster Entity — Dongguan Smart Mobile Terminal Cluster
+# 东莞智能移动终端集群
+
+id: cls-dongguan-smart-terminal
+type: IndustrialCluster
+name_en: Dongguan Smart Mobile Terminal Cluster
+name_zh: 东莞市智能移动终端产业集群
+designation: national_cluster   # MIIT National Advanced Manufacturing Cluster (2019)
+
+location:
+  province: Guangdong
+  city: Dongguan
+  sub_areas:
+    - { name: Songshan Lake High-tech Zone, name_zh: 松山湖高新区, role: rd_and_hq, anchor: "Huawei Ox Horn Campus" }
+    - { name: Chang'an Town, name_zh: 长安镇, role: manufacturing_base, anchors: [OPPO, vivo, BBK] }
+    - { name: Binhai Bay New District, name_zh: 滨海湾新区, role: manufacturing_and_hq, anchor: "vivo global HQ" }
+    - { name: Tangxia Town, name_zh: 塘厦镇, role: lin-shen_manufacturing_base }
+
+primary_industry: Consumer Electronics / Smart Mobile Terminals
+related_industries:
+  - Electronics & ICT Manufacturing
+  - Semiconductors / IC (3rd-gen GaN/SiC)
+  - Lithium Batteries (consumer cells)
+  - Advanced Materials (OLED / flexible display)
+
+major_products:
+  - smartphones
+  - smart wearables (smart watches)
+  - lithium battery cells
+  - PCBs / copper-clad laminates
+  - camera modules / optical components
+  - 3rd-gen semiconductor materials (GaN/SiC)
+
+key_manufacturers:      # verified public companies
+  - { name: Huawei Terminal, name_zh: 华为终端, role: smartphones_brand }
+  - { name: OPPO, name_zh: 欧珀移动通信, role: smartphones_brand }
+  - { name: vivo, name_zh: 维沃移动通信, role: smartphones_brand }
+  - { name: ATL (Amperex Technology), name_zh: 新能源科技, role: battery_cells }
+  - { name: Luxshare Precision, name_zh: 立讯精密, role: components_assembly }
+  - { name: Shengyi Technology, name_zh: 生益科技, role: pcb_materials }
+  - { name: Hua Bei Electronics, name_zh: 华贝电子, role: contract_manufacturer }
+  - { name: BBK Electronics (predecessor), name_zh: 步步高电子, role: consumer_electronics, note: "split 2023 into OPPO/vivo" }
+
+ports:
+  - { name: Shenzhen (Yantian), name_zh: 深圳盐田港, role: primary_container_export }
+  - { name: Shenzhen (Shekou), name_zh: 深圳蛇口港, role: container_export }
+  - { name: Dongguan (Humen), name_zh: 东莞虎门港, role: regional_river_port }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "Designated a MIIT National Advanced Manufacturing Cluster in 2019; ranked #4 on the 2023 China Top-100 Industrial Clusters list."
+    source: src-dg-gov-20240105
+  - fact: "2022: Dongguan electronics designated-scale output RMB 947.02B; added value RMB 167.34B."
+    source: src-dg-gov-20240105
+  - fact: "2023: electronics manufacturing output exceeded RMB 1.1 trillion, ~1/4 of Guangdong's total."
+    source: src-dg-gov-invest
+  - fact: "2022: smartphone production 196 million units — 1 in 6 smartphones made in China came from Dongguan."
+    source: src-dg-gov-20240105
+  - fact: "2024: Dongguan smartphone shipments ~24% of global total (1 in 5 worldwide); 1 in 8 global phones from Chang'an Town."
+    source: src-ourchinastory
+  - fact: "2023: Huawei/OPPO/vivo combined output value grew 13.3%, reversing three years of decline."
+    source: src-gzdaily-20240410
+  - fact: "Dongguan has ~220,000 industrial enterprises, ~14,000 above designated scale."
+    source: src-dg-gov-invest
+  - fact: "Chang'an Town 2025 GDP RMB 110B (2nd consecutive '100-billion town'); electronics output RMB 200B+, >3/4 of town's industrial output."
+    source: src-ourchinastory
+
+confidence: High

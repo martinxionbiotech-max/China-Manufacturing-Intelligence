@@ -1,0 +1,27 @@
+id: prd-knives-scissors
+type: Product
+name_en: Knives & Scissors
+name_zh: 刀剪
+industry: Hardware & Cutlery
+hs_codes:
+- 8211
+- 8213
+major_clusters:
+- cls-yangjiang-knives
+major_cities:
+- Yangjiang
+components:
+- stainless steel (不锈钢)
+- handle (手柄)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 阳江有五金刀剪生产企业 2000 多家、经营主体超 8500 家，产品超 5000 种，远销 130+ 国家；中国每 10 把刀具 7 把产自阳江，年近百亿元产值.
+  source: cls-yangjiang-knives
+- fact: 阳江主导/参与制修订国际标准 1 项、国标 3 项、行标 8 项、地标 5 项、联盟标准 4 项.
+  source: cls-yangjiang-knives
+- fact: 阳江刀剪产量占全国75%、出口量占全国85%，产业规模超550亿元，产品远销130多个国家和地区。
+  source: 人民日报(2025)
+confidence: High

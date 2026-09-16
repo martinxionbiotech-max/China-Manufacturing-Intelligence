@@ -1,0 +1,27 @@
+id: prd-leather
+type: Product
+name_en: Leather & Fur Goods
+name_zh: 皮革制品
+industry: Leather & Fashion
+hs_codes:
+- 4203
+major_clusters:
+- cls-haining-leather
+major_cities:
+- Haining
+components:
+- leather (皮料)
+- lining (里料)
+- hardware (五金)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 海宁皮革城携手近 50 家优质企业亮相 2024 CHIC 春季展，3200 m² 展区；海宁作为时尚产业高端供应链基地，对秋冬时尚具统治力.
+  source: cls-haining-leather
+- fact: 海宁中国皮革城股份有限公司 2024 年营业收入 2.377 亿元.
+  source: cls-haining-leather
+- fact: 2024年规模以上皮革、毛皮、羽毛及制品和制鞋业营收11339.9亿元(-0.4%)、利润614.4亿元(+3.3%)。
+  source: 国家统计局(2025)
+confidence: High

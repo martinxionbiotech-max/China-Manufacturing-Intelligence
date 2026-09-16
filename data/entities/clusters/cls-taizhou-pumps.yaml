@@ -1,0 +1,41 @@
+# Cluster Entity — Taizhou Pumps & Valves (Zhejiang)
+# 台州泵阀集群
+
+id: cls-taizhou-pumps
+type: IndustrialCluster
+name_en: Taizhou Pumps & Valves Cluster
+name_zh: 台州泵阀集群
+designation: cluster_density   # 品类密度 + 泵与电机 + 精密泵阀
+
+location:
+  province: Zhejiang
+  city: Taizhou (台州市) / Wenling (温岭) / Yuhuan (玉环)
+  note: "温岭泵与电机产业，玉环精密泵阀'新星'产业群"
+
+primary_industry: Pumps & valves (泵阀)   # ind-pumps
+related_industries:
+  - water pumps (水泵)
+  - motors (电机)
+  - precision valves (精密阀门)
+
+major_products:
+  - water pumps (水泵)
+  - motors (电机)
+  - valves (阀门)
+
+key_manufacturers:
+  - { name: "温岭泵与电机产业", note: "全国泵与电机重要基地" }
+  - { name: "浙江万得凯流体设备", note: "给排水无铅角阀" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "玉环成功入选第三批浙江省级高端装备——精密泵阀'新星'产业群."
+    source: src-zjol-taizhou
+  - fact: "台州（温岭）泵与电机产业为全国重要基地，举办中国（台州）工业博览会暨电机与水泵展览会."
+    source: src-jdzj-taizhou
+  - fact: "温岭泵与电机为当地第一大支柱产业，小型水泵产量占全国 70% 以上，2022 年集群实现产值 650 多亿元（规上 325 亿元），近三年年均增速 16.3%."
+    source: src-zjol-wenling
+
+confidence: High

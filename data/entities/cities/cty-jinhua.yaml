@@ -1,0 +1,27 @@
+id: cty-jinhua
+type: City
+name_en: Jinhua
+name_zh: 金华
+province: Zhejiang
+major_clusters:
+- cls-yiwu-small-commodities
+- cls-yongkang-hardware
+major_industries:
+- ind-hardware
+major_products:
+- prd-hardware-tools
+- prd-knives-scissors
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 金华市五金(电动工具)产业总产值超 500 亿元; 永康五金产业占其工业产值 90%.
+  source: cls-yongkang-hardware
+- fact: 义乌为全球最大小商品批发市场, 金华(义乌)县为县级市隶属金华.
+  source: cls-yiwu-small-commodities
+- fact: 'Power tools: 448 above-scale firms, RMB 47.76 billion output (2023, +5.9%) — 200+ whole-machine products, 2,000+ parts, 70%+ local parts rate .'
+  source: 潮新闻, "金华下一个千亿级产业集群" (2024).
+- fact: Ten key industrial chains with 62 "chain-master" firms (NEVs, smart PV, robotics, etc.) .
+  source: 潮新闻, "金华下一个千亿级产业集群" (2024).
+- fact: Above-scale industrial value RMB 509.27 billion, with core-optoelectronics and NEV parts = 40.8% .
+  source: 潮新闻, "金华下一个千亿级产业集群" (2024).
+confidence: High

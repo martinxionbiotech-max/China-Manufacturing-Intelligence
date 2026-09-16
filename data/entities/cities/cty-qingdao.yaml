@@ -1,0 +1,32 @@
+id: cty-qingdao
+type: City
+name_en: Qingdao
+name_zh: 青岛
+province: Shandong
+major_clusters:
+- cls-qingdao-appliances
+- cls-qingdao-shipbuilding
+major_industries:
+- ind-home-appliances
+- ind-shipbuilding
+major_products:
+- prd-home-appliance
+- prd-ship
+- prd-small-appliance
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 青岛智能家电集群是国家先进制造业集群, 以海尔、海信为代表, 海尔 2024 营收破 4000 亿元.
+  source: cls-qingdao-appliances
+- fact: 2024 年 12 月青烟威船舶与海洋工程装备集群入选国家先进制造业集群.
+  source: cls-qingdao-shipbuilding
+- fact: 4 of Shandong's 6 national advanced-manufacturing clusters are in Qingdao .
+  source: 山东省工业和信息化厅/海报新闻, "山东国家先进制造业集群增至6个 青岛占4个" (2024).
+- fact: 'Ship & marine-equipment cluster: 200+ above-scale total-assembly/parts firms (Beihai, CNOOC Qingdao, CIMC Raffles) + 600+ upstream/downstream enterprises across R&D, materials, building, parts,
+    service .'
+  source: 山东省工业和信息化厅/海报新闻, "山东国家先进制造业集群增至6个 青岛占4个" (2024).
+- fact: 'Smart-appliance cluster target: RMB 300 billion output by 2025 .'
+  source: 山东省工业和信息化厅/海报新闻, "山东国家先进制造业集群增至6个 青岛占4个" (2024).
+confidence: High
+ports:
+- prt-qingdao

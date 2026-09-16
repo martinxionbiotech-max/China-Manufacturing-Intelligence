@@ -1,0 +1,29 @@
+id: prd-small-appliance
+type: Product
+name_en: Small Home Appliances
+name_zh: 小家电
+industry: Home Appliances
+hs_codes:
+- 8516
+major_clusters:
+- cls-cixi-small-appliances
+major_cities:
+- Cixi
+- Foshan
+- Ningbo
+components:
+- heating element (发热体)
+- motor (电机)
+- control board (控制板)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 慈溪现代家具与智能家电集群核心区 2025 营收 1083.8 亿元，'慈溪智能家电'入围中国消费名品名单.
+  source: cls-cixi-small-appliances
+- fact: 2026 年前两月慈溪家用电器出口 50.2 亿元(+6.6%)；悦达电子空气炸锅日均 2 万台下线.
+  source: cls-cixi-small-appliances
+- fact: 2024年小家电进出口总额570.22亿美元(+10.8%)，出口551.36亿美元、贸易顺差532.49亿美元。
+  source: 海关总署(2025)
+confidence: High

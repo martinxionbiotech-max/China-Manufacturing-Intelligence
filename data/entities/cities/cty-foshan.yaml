@@ -1,0 +1,35 @@
+id: cty-foshan
+type: City
+name_en: Foshan
+name_zh: 佛山
+province: Guangdong
+major_clusters:
+- cls-fd-pan-home
+- cls-foshan-ceramics
+- cls-foshan-furniture
+- cls-shunde-home-appliances
+major_industries:
+- ind-building-materials
+- ind-furniture
+- ind-home-appliances
+major_products:
+- prd-ceramic-tile
+- prd-furniture
+- prd-home-appliance
+- prd-small-appliance
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 2023 佛山陶瓷工业总产值 1019.7 亿元, 瓷砖产量 7.45 亿 m².
+  source: cls-foshan-ceramics
+- fact: 顺德全区家具相关企业超 3 万家, 其中制造业 9000 余家, 2 万多家家具商贸企业.
+  source: cls-foshan-furniture
+- fact: 顺德家电产值约全国 15%, 微波炉/电热水器全球 40%+.
+  source: cls-shunde-home-appliances
+- fact: 'Above-scale industrial output value: > RMB 3 trillion (2023) — Guangdong''s #3 economy, China''s #4 industrial city .'
+  source: 粤港澳大湾区门户网, "佛山规上工业总产值突破3万亿元" (2024).
+- fact: '"2+2+4" cluster system — two strategic pillars, two strategic-emerging, four characteristic .'
+  source: 粤港澳大湾区门户网, "佛山规上工业总产值突破3万亿元" (2024).
+- fact: 'Exports to Hong Kong: RMB 27.94 billion (2024), 7.21% of the city total .'
+  source: 粤港澳大湾区门户网, "佛山规上工业总产值突破3万亿元" (2024).
+confidence: High

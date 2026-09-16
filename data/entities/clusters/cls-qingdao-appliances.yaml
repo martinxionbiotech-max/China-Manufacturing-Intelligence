@@ -1,0 +1,41 @@
+# Cluster Entity — Qingdao Smart Home Appliances (Shandong)
+# 青岛智能家电集群
+
+id: cls-qingdao-appliances
+type: IndustrialCluster
+name_en: Qingdao Smart Home Appliances Cluster
+name_zh: 青岛智能家电集群
+designation: dual_champion   # 双龙头(海尔/海信) + 链主绑定城市 + 高端智造
+
+location:
+  province: Shandong
+  city: Qingdao (青岛市)
+  note: "国家先进制造业集群，海尔/海信总部"
+
+primary_industry: Home appliances (家电)   # ind-home-appliances
+related_industries:
+  - smart home (智能家居)
+  - display / TV (显示/电视)
+  - air conditioning & refrigeration (空调/制冷)
+
+major_products:
+  - refrigerators & freezers (冰箱/冷柜)
+  - TVs & displays (电视/显示)
+  - smart home appliances (智能家电)
+
+key_manufacturers:
+  - { name: "海尔集团 (Haier)", note: "2024 年首家年营收破 4000 亿企业" }
+  - { name: "海信集团 (Hisense)", note: "中国企业500强第135位" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "青岛智能家电集群是国家先进制造业集群，以海尔、海信为代表."
+    source: src-ce-qingdao
+  - fact: "2024 年 9 月中国企业 500 强榜单中，上榜 8 家家电企业青岛占 2 位（海尔第 74、海信第 135），分列家电企业第二、第四位."
+    source: src-iqilu-qingdao
+  - fact: "2024 年海尔成为青岛首家年营收突破 4000 亿元的企业."
+    source: src-dzwww-qingdao
+
+confidence: High

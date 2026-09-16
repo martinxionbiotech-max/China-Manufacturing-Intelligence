@@ -1,0 +1,30 @@
+id: cty-wuxi
+type: City
+name_en: Wuxi
+name_zh: 无锡
+province: Jiangsu
+major_clusters:
+- cls-swt-textile
+- cls-wuxi-iot
+major_industries:
+- ind-textiles
+major_products:
+- prd-home-textile
+- prd-socks
+- prd-textile-fabric
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 无锡物联网产业集群 2021 年入选首批国家先进制造业集群, 全国唯一物联网领域国家级集群; 585 家规上企业营收 3184 亿元.
+  source: cls-wuxi-iot
+- fact: 无锡处于南通-苏州-无锡家纺产业带.
+  source: cls-swt-textile
+- fact: 'GDP: RMB 1.63 trillion (2024) .'
+  source: 中共江苏省委新闻网, "2024年无锡地区生产总值1.63万亿元" (2025).
+- fact: 7 clusters above RMB 200 billion revenue; new-materials and high-end equipment above RMB 300 billion under the "465" system .
+  source: 中共江苏省委新闻网, "2024年无锡地区生产总值1.63万亿元" (2025).
+- fact: 463 national "little-giant" specialized SMEs — 2nd in Jiangsu, 8th nationally .
+  source: 中共江苏省委新闻网, "2024年无锡地区生产总值1.63万亿元" (2025).
+- fact: 'New national clusters (2024): the Yangtze Delta (incl. Jiangxi) large-aircraft cluster and the Sunan special-steel-materials cluster .'
+  source: 中共江苏省委新闻网, "2024年无锡地区生产总值1.63万亿元" (2025).
+confidence: High

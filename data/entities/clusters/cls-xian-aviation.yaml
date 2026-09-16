@@ -1,0 +1,41 @@
+# Cluster Entity — Xi'an Aviation (Shaanxi)
+# 西安航空产业集群
+
+id: cls-xian-aviation
+type: IndustrialCluster
+name_en: Xi'an Aviation Cluster
+name_zh: 西安航空产业集群
+designation: state_soe_anchor   # 国家战略 + 科研院所 + 军民融合(航空工业)
+
+location:
+  province: Shaanxi
+  city: Xi'an (西安市)
+  note: "阎良'中国航空城'，全国唯一完整航空产业链，运20 等 30 多种型号诞生地"
+
+primary_industry: Aviation (航空)   # ind-aviation
+related_industries:
+  - large aircraft (大飞机)
+  - aero engines (航空发动机)
+  - low-altitude economy (低空经济)
+
+major_products:
+  - aircraft & airframes (飞机/机体)
+  - aero components (航空部件)
+  - aviation R&D (航空研发)
+
+key_manufacturers:
+  - { name: "西安阎良航空基地", note: "中国航空资源最密集，全国唯一完整航空产业链" }
+  - { name: "中国飞机强度研究所", note: "气候环境实验室，填补国内空白" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "西安是大飞机的摇篮，运20 等 30 多种型号飞机从西安飞上蓝天."
+    source: src-stdaily-xian
+  - fact: "西安集聚了国内航空 1/4 的科研生产力量；阎良航空基地是全国唯一完整航空产业链所在地；2023 年航空产业产值 358 亿元，到'十四五'末全市航空航天产业规模将达 2800 亿元."
+    source: src-scol-xian
+  - fact: "西安阎良 2024 年航空产业总产值超 400 亿元."
+    source: src-sina-xian
+
+confidence: High

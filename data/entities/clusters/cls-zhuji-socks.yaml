@@ -1,0 +1,38 @@
+# Cluster Entity — Zhuji Socks (Zhejiang)
+# 诸暨大唐袜业集群
+
+id: cls-zhuji-socks
+type: IndustrialCluster
+name_en: Zhuji Datang Socks Cluster
+name_zh: 诸暨大唐袜业集群
+designation: town_cluster   # 镇域集群 + 数字车间 + 全球1/3
+
+location:
+  province: Zhejiang
+  city: Zhuji (诸暨市) / Datang (大唐)
+  note: "年产袜子超 250 亿双，占全国 70%、全球 1/3"
+
+primary_industry: Socks / hosiery (袜业)   # ind-socks
+related_industries:
+  - socks manufacturing (袜制造)
+  - digital workshops (数字化车间)
+  - hosiery machinery (袜机)
+
+major_products:
+  - socks (袜子)
+
+key_manufacturers:
+  - { name: "大唐袜业", note: "全球最大袜品产业集群地" }
+
+evidence_level: High
+last_verified: 2026-09-15
+
+verified_facts:
+  - fact: "诸暨大唐袜业年产袜子超 250 亿双、产值规模超 700 亿元，产量约占全国 70%、全球三分之一."
+    source: src-ce-zhuji
+  - fact: "大唐袜业已形成 194 个袜业数字车间、2 万多台袜业智能设备，全球最大规模的袜业数字化生产基地."
+    source: src-ce-zhuji
+  - fact: "第十八届中国·大唐国际袜业博览会 2024 年 9 月在诸暨举办，诸暨是全球最大的袜品产业集群地."
+    source: src-datang-zhuji
+
+confidence: High

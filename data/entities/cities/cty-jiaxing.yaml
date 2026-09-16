@@ -1,0 +1,27 @@
+id: cty-jiaxing
+type: City
+name_en: Jiaxing
+name_zh: 嘉兴
+province: Zhejiang
+major_clusters:
+- cls-hangzhou-bay-textile
+major_industries:
+- ind-textiles
+major_products:
+- prd-home-textile
+- prd-socks
+- prd-textile-fabric
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 环杭州湾现代纺织服装集群主导产业产值 10135 亿元, 占全国近 1/5, 规模全国首位.
+  source: cls-hangzhou-bay-textile
+- fact: 'Above-scale industrial output value: RMB 1.51 trillion (2024), #3 in Zhejiang .'
+  source: 智研咨询, "2025年嘉兴市新质生产力发展研判" (2025).
+- fact: 'Industrial value-added RMB 338.8 billion (+6.5%); strategic-emerging industries = 44.4% of above-scale value, #2 in the province .'
+  source: 智研咨询, "2025年嘉兴市新质生产力发展研判" (2025).
+- fact: 'Chemical new-materials park: RMB 56.54B (2020) → RMB 87B (2024), +13.5%/yr — 21 Fortune-500 or industry leaders (Shell, BASF) resident .'
+  source: 智研咨询, "2025年嘉兴市新质生产力发展研判" (2025).
+- fact: 'Hydrogen: 42 firms, full-chain layout .'
+  source: 智研咨询, "2025年嘉兴市新质生产力发展研判" (2025).
+confidence: High

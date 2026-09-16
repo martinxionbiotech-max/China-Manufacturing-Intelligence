@@ -1,0 +1,29 @@
+id: prd-ndfeb-magnet
+type: Product
+name_en: NdFeB Permanent Magnets
+name_zh: 钕铁硼永磁体
+industry: Magnetic Materials / Rare Earth
+hs_codes:
+- 8505
+major_clusters:
+- cls-ningbo-magnetic-materials
+- cls-baotou-rare-earth
+major_cities:
+- Ningbo
+- Baotou
+- Ganzhou
+components:
+- rare-earth oxide (稀土氧化物)
+- sintered magnet (烧结磁体)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 宁波集聚全国约 22% 稀土永磁企业，磁性材料产量占全国 40%+；宁波韵升 2025 钕铁硼成品销售 14197 吨，新能源汽车应用收入 25.52 亿元.
+  source: cls-ningbo-magnetic-materials
+- fact: 包头白云鄂博为全球储量最大稀土矿；北方稀土为全球规模最大稀土龙头，依托白云鄂博建全球最大稀土原料+功能材料基地；2024 包头稀土产值预计破 1000 亿元.
+  source: cls-baotou-rare-earth
+- fact: 2025年全球钕铁硼磁体市场突破215亿美元(+18.6%)，中国产量28.5万吨、占全球71.2%。
+  source: GEPResearch(2026)
+confidence: High

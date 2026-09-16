@@ -1,0 +1,27 @@
+id: cty-wenzhou
+type: City
+name_en: Wenzhou
+name_zh: 温州
+province: Zhejiang
+major_clusters:
+- cls-wenzhou-electrical
+major_industries:
+- ind-electrical
+- ind-power-equipment
+major_products:
+- prd-low-voltage-electrical
+- prd-power-equipment
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 乐清电气集群入选工信部先进制造业集群(2022), 产品占全国 65%+; 正泰集团 2024 营收 221 亿美元.
+  source: cls-wenzhou-electrical
+- fact: Industrial output value > RMB 1.5 trillion (2025); the city entered China's "trillion-yuan GDP club" as its 28th member .
+  source: 新华网浙江, "双万城市进阶观察丨浙江温州" (2025).
+- fact: 'R&D intensity: 2.76% of GDP (2024) — the highest in Zhejiang province .'
+  source: 新华网浙江, "双万城市进阶观察丨浙江温州" (2025).
+- fact: 'Private enterprises: 90.8% of above-scale industrial value-added — 1.564 million registered private firms and individual businesses as of Nov 2025 .'
+  source: 新华网浙江, "双万城市进阶观察丨浙江温州" (2025).
+- fact: 4,772 high-tech enterprises; industrial value-added topped RMB 300 billion .
+  source: 新华网浙江, "双万城市进阶观察丨浙江温州" (2025).
+confidence: High

@@ -1,0 +1,21 @@
+id: ind-medical-devices
+type: Industry
+name_en: Medical Devices
+name_zh: 医疗器械
+super_sector: E — Biomedical
+gb_code: C358
+major_clusters:
+- cls-sg-medical-devices
+major_products:
+- prd-medical-device
+major_cities:
+- Shenzhen
+- Suzhou
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 迈瑞医疗监护类产品连续 15 年蝉联第一；深圳国际医疗器械城总规划近 20 km².
+  source: cls-sg-medical-devices
+- fact: 2024年医疗器械生产企业营收预计1.35万亿元、稳居全球第二；医疗设备出口235亿美元(+7.7%)。
+  source: 《中国医疗器械行业数据报告(2025)》
+confidence: High

@@ -1,0 +1,56 @@
+# Cluster Entity — Yiwu Small Commodities Market Cluster
+# 义乌小商品市场集群
+
+id: cls-yiwu-small-commodities
+type: TradeCluster   # 贸易/流通型集群，非制造型
+name_en: Yiwu Small Commodities Market
+name_zh: 义乌小商品市场（世界超市）
+designation: trade_hub   # 联合国/世界银行/摩根士丹利认证"全球最大小商品批发市场"
+
+location:
+  province: Zhejiang
+  city: Jinhua (义乌为县级市，隶属金华)
+  county_level_city: Yiwu
+  note: "不临海不临边，浙江中部盆地，县级市"
+
+primary_industry: Small commodities wholesale & trade   # ind-small-commodities
+related_industries:
+  - cross-border e-commerce
+  - logistics & freight
+  - seamless knitting, apparel, jewelry, daily necessities (本地催生)
+
+major_products:
+  - toys
+  - jewelry & accessories
+  - household goods
+  - stationery
+  - festive/seasonal items
+  - small appliances, pet supplies, smart home (新兴品类)
+
+key_market_entities:
+  - { name: Yiwu International Trade City, name_zh: 义乌国际商贸城, role: core_market, note: "640-800万m2, 7.5万商位, 210万+商品" }
+  - { name: Global Digital Trade Center, name_zh: 全球数贸中心, role: sixth_gen_market, note: "2025年10月开业, 第六代市场" }
+  - { name: China Commodities City Group (商城集团), role: market_operator, note: "运营主体, Chinagoods平台/义支付" }
+
+trade_channels:
+  - { name: "Market procurement trade (1039模式)", note: "2014首张报关单落地义乌, 已复制39个市场" }
+  - { name: "Yixin'ou China-Europe Railway Express (义新欧中欧班列)", note: "2014首发义乌-马德里, 十年6700+列/67万标箱" }
+
+evidence_level: High
+last_verified: 2026-09-14
+
+verified_facts:
+  - fact: "World's largest small-commodities wholesale market (UN/World Bank/Morgan Stanley recognition); 210万+ product types sold to 230+ countries."
+    source: src-xinhua-20260510, src-china-com-20260531
+  - fact: "Market business area 640万+ m2 (2024H1) growing to 800万+ m2; 7.5万+ booths; 126万+ registered market entities (top county-level city nationally)."
+    source: src-xinhua-20260510, src-sjtu-crdc
+  - fact: "2024 market transaction value RMB 279.8B (+20.02%); 2025 foreign trade export ranked #1 among China's county-level regions."
+    source: src-yidaiyilu, src-xinhua-20260510
+  - fact: "Origin 1982 with 'four permits' notice + 'chicken feather for sugar' trading tradition; 6 relocations, 12 expansions, 5 generation transitions."
+    source: src-sjtu-crdc, src-xinhua-20260510
+  - fact: "Market procurement trade mode (1039) piloted 2011, first customs declaration Nov 2014 in Yiwu; now replicated in 39 markets nationally."
+    source: src-china-com-20260531, src-people-20221025
+  - fact: "Yixin'ou China-Europe Railway Express: 10 years (2014-2024), 6,700+ trains, 670,000+ TEU, reaching 50+ countries/160+ cities."
+    source: src-xinhua-20241118
+
+confidence: High

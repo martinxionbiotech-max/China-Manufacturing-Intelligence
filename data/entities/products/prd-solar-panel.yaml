@@ -1,0 +1,30 @@
+id: prd-solar-panel
+type: Product
+name_en: Solar Panels (PV Modules)
+name_zh: 光伏组件
+industry: Solar / Photovoltaic
+hs_codes:
+- 8541
+major_clusters:
+- cls-yancheng-pv
+major_cities:
+- Yancheng
+- Changzhou
+- Wuxi
+- Hefei
+components:
+- PV cell (电池片)
+- wafer (硅片)
+- glass (玻璃)
+export_markets:
+- global
+evidence_level: High
+last_verified: 2026-09-15
+verified_facts:
+- fact: 天合光能(Trina Solar)在盐城设立生产制造基地，2024 年 5 月扩建年产 2GW 高效太阳能组件项目竣工环保验收.
+  source: cls-yancheng-pv
+- fact: 盐城天合基地获国家级智能制造优秀场景、国家高新技术企业、国家级智能光伏试点示范企业.
+  source: cls-yancheng-pv
+- fact: 2024年中国累计出口约235.93GW光伏组件(+13%)；2025年组件出口额237亿美元(-15.3%)、出口量249.8GW(+5.7%)。
+  source: InfoLink/中国机电产品进出口商会(2026)
+confidence: High
