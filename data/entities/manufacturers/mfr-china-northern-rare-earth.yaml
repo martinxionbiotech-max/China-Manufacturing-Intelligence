@@ -1,0 +1,16 @@
+# Manufacturer — 北方稀土 (China Northern Rare Earth, 600111)
+id: mfr-china-northern-rare-earth
+type: Manufacturer
+name_en: 北方稀土 (China Northern Rare Earth, 600111)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Inner Mongolia
+  city: Baotou
+clusters:
+- cls-baotou-rare-earth
+industry: Rare Earth
+factory_evidence:
+- cluster:cls-baotou-rare-earth
+confidence: High
+verification_date: '2026-09-14'

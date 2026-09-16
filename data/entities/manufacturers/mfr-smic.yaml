@@ -1,0 +1,16 @@
+# Manufacturer — SMIC (中芯国际)
+id: mfr-smic
+type: Manufacturer
+name_en: SMIC (中芯国际)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Shanghai (municipality)
+  city: ''
+clusters:
+- cls-shanghai-ic
+industry: Semiconductors (foundry)
+factory_evidence:
+- cluster:cls-shanghai-ic
+confidence: High
+verification_date: '2026-09-14'

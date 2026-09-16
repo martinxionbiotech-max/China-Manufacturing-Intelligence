@@ -1,0 +1,18 @@
+# Manufacturer — ATL (Amperex Technology)
+id: mfr-atl
+type: Manufacturer
+name_en: ATL (Amperex Technology)
+name_zh: 新能源科技
+entity_role: manufacturer
+location:
+  province: Fujian
+  city: Dongguan
+clusters:
+- cls-dongguan-smart-terminal
+- cls-ningde-power-battery
+industry: ''
+factory_evidence:
+- cluster:cls-dongguan-smart-terminal
+- cluster:cls-ningde-power-battery
+confidence: High
+verification_date: '2026-09-14'

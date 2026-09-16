@@ -1,0 +1,16 @@
+# Manufacturer — 海信集团 (Hisense)
+id: mfr-hisense
+type: Manufacturer
+name_en: 海信集团 (Hisense)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Shandong
+  city: Qingdao
+clusters:
+- cls-qingdao-appliances
+industry: Home Appliances
+factory_evidence:
+- cluster:cls-qingdao-appliances
+confidence: High
+verification_date: '2026-09-14'

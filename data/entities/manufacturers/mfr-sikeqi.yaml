@@ -1,0 +1,16 @@
+# Manufacturer — Sikeqi
+id: mfr-sikeqi
+type: Manufacturer
+name_en: Sikeqi
+name_zh: 思客琦
+entity_role: manufacturer
+location:
+  province: Fujian
+  city: Ningde
+clusters:
+- cls-ningde-power-battery
+industry: ''
+factory_evidence:
+- cluster:cls-ningde-power-battery
+confidence: High
+verification_date: '2026-09-14'

@@ -1,0 +1,16 @@
+# Manufacturer — SAIC Motor (上汽集团)
+id: mfr-saic-motor
+type: Manufacturer
+name_en: SAIC Motor (上汽集团)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Shanghai (municipality)
+  city: ''
+clusters:
+- cls-shanghai-nev
+industry: Automotive
+factory_evidence:
+- cluster:cls-shanghai-nev
+confidence: High
+verification_date: '2026-09-14'

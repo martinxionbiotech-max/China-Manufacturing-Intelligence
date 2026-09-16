@@ -1,0 +1,16 @@
+# Manufacturer — iFLYTEK (科大讯飞)
+id: mfr-iflytek
+type: Manufacturer
+name_en: iFLYTEK (科大讯飞)
+name_zh: ''
+entity_role: brand
+location:
+  province: Anhui
+  city: Hefei
+clusters:
+- cls-hefei-intelligent-voice
+industry: AI / Voice
+factory_evidence:
+- cluster:cls-hefei-intelligent-voice
+confidence: High
+verification_date: '2026-09-14'

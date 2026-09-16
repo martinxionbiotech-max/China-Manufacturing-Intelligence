@@ -1,0 +1,16 @@
+# Manufacturer — 中国稀土集团 (China Rare Earth Group)
+id: mfr-china-rare-earth-group
+type: Manufacturer
+name_en: 中国稀土集团 (China Rare Earth Group)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Jiangxi
+  city: Ganzhou
+clusters:
+- cls-ganzhou-rare-earth
+industry: Rare Earth
+factory_evidence:
+- cluster:cls-ganzhou-rare-earth
+confidence: High
+verification_date: '2026-09-14'

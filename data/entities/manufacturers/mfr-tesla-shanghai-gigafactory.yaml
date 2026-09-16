@@ -1,0 +1,16 @@
+# Manufacturer — Tesla Shanghai Gigafactory
+id: mfr-tesla-shanghai-gigafactory
+type: Manufacturer
+name_en: Tesla Shanghai Gigafactory
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Shanghai (municipality)
+  city: ''
+clusters:
+- cls-shanghai-nev
+industry: NEV
+factory_evidence:
+- cluster:cls-shanghai-nev
+confidence: High
+verification_date: '2026-09-14'

@@ -1,0 +1,16 @@
+# Manufacturer — YOFC (长飞光纤)
+id: mfr-yofc
+type: Manufacturer
+name_en: YOFC (长飞光纤)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Hubei
+  city: Wuhan
+clusters:
+- cls-wuhan-optics-valley
+industry: Optical Fiber
+factory_evidence:
+- cluster:cls-wuhan-optics-valley
+confidence: High
+verification_date: '2026-09-14'

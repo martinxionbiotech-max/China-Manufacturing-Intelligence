@@ -1,0 +1,16 @@
+# Manufacturer — YMTC (长江存储)
+id: mfr-ymtc
+type: Manufacturer
+name_en: YMTC (长江存储)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Hubei
+  city: Wuhan
+clusters:
+- cls-wuhan-optics-valley
+industry: Memory IC
+factory_evidence:
+- cluster:cls-wuhan-optics-valley
+confidence: High
+verification_date: '2026-09-14'

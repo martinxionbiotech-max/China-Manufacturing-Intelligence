@@ -1,0 +1,16 @@
+# Manufacturer — 徐工机械 (XCMG)
+id: mfr-xcmg
+type: Manufacturer
+name_en: 徐工机械 (XCMG)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Jiangsu
+  city: Xuzhou
+clusters:
+- cls-xuzhou-construction-machinery
+industry: Construction Machinery
+factory_evidence:
+- cluster:cls-xuzhou-construction-machinery
+confidence: High
+verification_date: '2026-09-14'

@@ -1,0 +1,16 @@
+# Manufacturer — 大唐袜业
+id: mfr-datang-socks
+type: Manufacturer
+name_en: 大唐袜业
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Zhuji
+clusters:
+- cls-zhuji-socks
+industry: Socks / Hosiery
+factory_evidence:
+- cluster:cls-zhuji-socks
+confidence: High
+verification_date: '2026-09-14'

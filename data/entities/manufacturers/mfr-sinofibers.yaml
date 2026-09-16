@@ -1,0 +1,16 @@
+# Manufacturer — 中简科技 (Sinofibers, 300777)
+id: mfr-sinofibers
+type: Manufacturer
+name_en: 中简科技 (Sinofibers, 300777)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Jiangsu
+  city: Changzhou
+clusters:
+- cls-changzhou-carbon-fiber
+industry: Carbon Fiber
+factory_evidence:
+- cluster:cls-changzhou-carbon-fiber
+confidence: High
+verification_date: '2026-09-14'

@@ -1,0 +1,16 @@
+# Manufacturer — OPPO
+id: mfr-oppo
+type: Manufacturer
+name_en: OPPO
+name_zh: 欧珀移动通信
+entity_role: brand
+location:
+  province: Guangdong
+  city: Dongguan
+clusters:
+- cls-dongguan-smart-terminal
+industry: ''
+factory_evidence:
+- cluster:cls-dongguan-smart-terminal
+confidence: High
+verification_date: '2026-09-14'

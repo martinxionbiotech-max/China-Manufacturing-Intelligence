@@ -1,0 +1,13 @@
+# Industrial Park — 张江科学城
+id: prk-zhangjiang-science-city
+type: IndustrialPark
+name_en: 张江科学城
+name_zh: ''
+location:
+  province: Shanghai
+  city: Shanghai
+clusters:
+- cls-zhangjiang-biomed
+note: 累计获批一类新药超 20 个，占全国近 1/5
+confidence: Medium
+verification_date: '2026-09-14'

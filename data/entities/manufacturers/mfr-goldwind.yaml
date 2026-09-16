@@ -1,0 +1,16 @@
+# Manufacturer — 金风科技 (Goldwind) 大丰基地
+id: mfr-goldwind
+type: Manufacturer
+name_en: 金风科技 (Goldwind) 大丰基地
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Jiangsu
+  city: Yancheng
+clusters:
+- cls-yancheng-wind-power
+industry: Wind Power
+factory_evidence:
+- cluster:cls-yancheng-wind-power
+confidence: High
+verification_date: '2026-09-14'

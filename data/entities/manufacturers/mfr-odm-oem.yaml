@@ -1,0 +1,16 @@
+# Manufacturer — 悦达电子等分散的 ODM/OEM 企业群
+id: mfr-odm-oem
+type: Manufacturer
+name_en: 悦达电子等分散的 ODM/OEM 企业群
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Ningbo
+clusters:
+- cls-cixi-small-appliances
+industry: ''
+factory_evidence:
+- cluster:cls-cixi-small-appliances
+confidence: High
+verification_date: '2026-09-14'

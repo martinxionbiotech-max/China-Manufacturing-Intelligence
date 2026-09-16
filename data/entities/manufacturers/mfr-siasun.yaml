@@ -1,0 +1,16 @@
+# Manufacturer — 新松机器人 (SIASUN, 300024)
+id: mfr-siasun
+type: Manufacturer
+name_en: 新松机器人 (SIASUN, 300024)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Liaoning
+  city: Shenyang
+clusters:
+- cls-shenyang-robotics
+industry: Robotics
+factory_evidence:
+- cluster:cls-shenyang-robotics
+confidence: High
+verification_date: '2026-09-14'

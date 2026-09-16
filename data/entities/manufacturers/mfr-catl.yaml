@@ -1,0 +1,16 @@
+# Manufacturer — CATL
+id: mfr-catl
+type: Manufacturer
+name_en: CATL
+name_zh: 宁德时代
+entity_role: manufacturer
+location:
+  province: Fujian
+  city: Ningde
+clusters:
+- cls-ningde-power-battery
+industry: ''
+factory_evidence:
+- cluster:cls-ningde-power-battery
+confidence: High
+verification_date: '2026-09-14'

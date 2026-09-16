@@ -1,0 +1,16 @@
+# Manufacturer — 361 Degrees (361°)
+id: mfr-361-degrees
+type: Manufacturer
+name_en: 361 Degrees (361°)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Fujian
+  city: Quanzhou
+clusters:
+- cls-jinjiang-footwear
+industry: Sportswear / Footwear
+factory_evidence:
+- cluster:cls-jinjiang-footwear
+confidence: High
+verification_date: '2026-09-14'

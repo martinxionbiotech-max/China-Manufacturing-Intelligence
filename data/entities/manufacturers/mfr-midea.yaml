@@ -1,0 +1,16 @@
+# Manufacturer — Midea
+id: mfr-midea
+type: Manufacturer
+name_en: Midea
+name_zh: 美的集团
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Foshan
+clusters:
+- cls-shunde-home-appliances
+industry: Home Appliances
+factory_evidence:
+- cluster:cls-shunde-home-appliances
+confidence: High
+verification_date: '2026-09-14'

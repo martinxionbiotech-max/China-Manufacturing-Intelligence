@@ -1,0 +1,16 @@
+# Manufacturer — 海康威视 (Hikvision)
+id: mfr-hikvision
+type: Manufacturer
+name_en: 海康威视 (Hikvision)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Hangzhou
+clusters:
+- cls-hangzhou-digital-security
+industry: Security Equipment
+factory_evidence:
+- cluster:cls-hangzhou-digital-security
+confidence: High
+verification_date: '2026-09-14'

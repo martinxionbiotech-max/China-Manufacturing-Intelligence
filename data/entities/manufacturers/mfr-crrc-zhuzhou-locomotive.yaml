@@ -1,0 +1,16 @@
+# Manufacturer — CRRC Zhuzhou Locomotive (ZELC)
+id: mfr-crrc-zhuzhou-locomotive
+type: Manufacturer
+name_en: CRRC Zhuzhou Locomotive (ZELC)
+name_zh: 中车株机
+entity_role: manufacturer
+location:
+  province: Hunan
+  city: Zhuzhou
+clusters:
+- cls-zhuzhou-rail-transit
+industry: ''
+factory_evidence:
+- cluster:cls-zhuzhou-rail-transit
+confidence: High
+verification_date: '2026-09-14'

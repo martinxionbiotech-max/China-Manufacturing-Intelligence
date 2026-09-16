@@ -1,0 +1,16 @@
+# Manufacturer — Foxconn (Hon Hai)
+id: mfr-foxconn
+type: Manufacturer
+name_en: Foxconn (Hon Hai)
+name_zh: 富士康
+entity_role: contract_mfr
+location:
+  province: Guangdong
+  city: Shenzhen
+clusters:
+- cls-shenzhen-electronics
+industry: ''
+factory_evidence:
+- cluster:cls-shenzhen-electronics
+confidence: High
+verification_date: '2026-09-14'

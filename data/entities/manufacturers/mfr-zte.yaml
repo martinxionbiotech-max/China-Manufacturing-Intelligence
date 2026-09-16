@@ -1,0 +1,16 @@
+# Manufacturer — ZTE
+id: mfr-zte
+type: Manufacturer
+name_en: ZTE
+name_zh: 中兴通讯
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Shenzhen
+clusters:
+- cls-shenzhen-electronics
+industry: ''
+factory_evidence:
+- cluster:cls-shenzhen-electronics
+confidence: High
+verification_date: '2026-09-14'

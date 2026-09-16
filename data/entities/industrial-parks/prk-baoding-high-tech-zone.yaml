@@ -1,0 +1,13 @@
+# Industrial Park — 保定高新区
+id: prk-baoding-high-tech-zone
+type: IndustrialPark
+name_en: 保定高新区
+name_zh: ''
+location:
+  province: Hebei
+  city: Baoding
+clusters:
+- cls-baoding-power-equipment
+note: 核心承载区，企业超 6300 家
+confidence: Medium
+verification_date: '2026-09-14'

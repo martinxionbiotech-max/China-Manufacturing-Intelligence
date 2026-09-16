@@ -1,0 +1,18 @@
+# Manufacturer — Luxshare Precision
+id: mfr-luxshare-precision
+type: Manufacturer
+name_en: Luxshare Precision
+name_zh: 立讯精密
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Dongguan
+clusters:
+- cls-dongguan-smart-terminal
+- cls-shenzhen-electronics
+industry: ''
+factory_evidence:
+- cluster:cls-dongguan-smart-terminal
+- cluster:cls-shenzhen-electronics
+confidence: High
+verification_date: '2026-09-14'

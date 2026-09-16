@@ -1,0 +1,16 @@
+# Manufacturer — Brunp
+id: mfr-brunp
+type: Manufacturer
+name_en: Brunp
+name_zh: 邦普循环
+entity_role: manufacturer
+location:
+  province: Fujian
+  city: Ningde
+clusters:
+- cls-ningde-power-battery
+industry: ''
+factory_evidence:
+- cluster:cls-ningde-power-battery
+confidence: High
+verification_date: '2026-09-14'

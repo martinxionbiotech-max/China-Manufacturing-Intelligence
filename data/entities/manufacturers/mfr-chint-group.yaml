@@ -1,0 +1,16 @@
+# Manufacturer — Chint Group (正泰集团)
+id: mfr-chint-group
+type: Manufacturer
+name_en: Chint Group (正泰集团)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Wenzhou
+clusters:
+- cls-wenzhou-electrical
+industry: Electrical Equipment
+factory_evidence:
+- cluster:cls-wenzhou-electrical
+confidence: High
+verification_date: '2026-09-14'

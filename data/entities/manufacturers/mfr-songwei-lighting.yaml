@@ -1,0 +1,16 @@
+# Manufacturer — Songwei Lighting
+id: mfr-songwei-lighting
+type: Manufacturer
+name_en: Songwei Lighting
+name_zh: 松伟照明
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Zhongshan
+clusters:
+- cls-guzhen-lighting
+industry: ''
+factory_evidence:
+- cluster:cls-guzhen-lighting
+confidence: High
+verification_date: '2026-09-14'

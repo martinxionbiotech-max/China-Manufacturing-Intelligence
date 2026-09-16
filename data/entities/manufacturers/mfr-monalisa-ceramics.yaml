@@ -1,0 +1,16 @@
+# Manufacturer — Monalisa
+id: mfr-monalisa-ceramics
+type: Manufacturer
+name_en: Monalisa
+name_zh: 蒙娜丽莎
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Foshan
+clusters:
+- cls-foshan-ceramics
+industry: Ceramics
+factory_evidence:
+- cluster:cls-foshan-ceramics
+confidence: High
+verification_date: '2026-09-14'

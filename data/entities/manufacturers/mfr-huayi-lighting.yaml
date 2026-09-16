@@ -1,0 +1,16 @@
+# Manufacturer — Huayi Lighting
+id: mfr-huayi-lighting
+type: Manufacturer
+name_en: Huayi Lighting
+name_zh: 华艺灯饰
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Zhongshan
+clusters:
+- cls-guzhen-lighting
+industry: ''
+factory_evidence:
+- cluster:cls-guzhen-lighting
+confidence: High
+verification_date: '2026-09-14'

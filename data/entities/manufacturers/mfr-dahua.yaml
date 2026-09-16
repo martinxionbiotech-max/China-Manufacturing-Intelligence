@@ -1,0 +1,16 @@
+# Manufacturer — 大华股份 (Dahua)
+id: mfr-dahua
+type: Manufacturer
+name_en: 大华股份 (Dahua)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Hangzhou
+clusters:
+- cls-hangzhou-digital-security
+industry: Security Equipment
+factory_evidence:
+- cluster:cls-hangzhou-digital-security
+confidence: High
+verification_date: '2026-09-14'

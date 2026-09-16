@@ -1,0 +1,16 @@
+# Manufacturer — 迈瑞医疗 (Mindray, 300760)
+id: mfr-mindray
+type: Manufacturer
+name_en: 迈瑞医疗 (Mindray, 300760)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Shenzhen
+clusters:
+- cls-sg-medical-devices
+industry: Medical Devices
+factory_evidence:
+- cluster:cls-sg-medical-devices
+confidence: High
+verification_date: '2026-09-14'

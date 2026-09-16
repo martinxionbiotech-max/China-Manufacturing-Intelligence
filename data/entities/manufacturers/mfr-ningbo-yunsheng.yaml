@@ -1,0 +1,16 @@
+# Manufacturer — 宁波韵升 (Yunsheng
+id: mfr-ningbo-yunsheng
+type: Manufacturer
+name_en: 宁波韵升 (Yunsheng
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Ningbo
+clusters:
+- cls-ningbo-magnetic-materials
+industry: Magnetic Materials
+factory_evidence:
+- cluster:cls-ningbo-magnetic-materials
+confidence: High
+verification_date: '2026-09-14'

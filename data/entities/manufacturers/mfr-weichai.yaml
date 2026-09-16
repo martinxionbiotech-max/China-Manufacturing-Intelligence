@@ -1,0 +1,16 @@
+# Manufacturer — 潍柴集团 (Weichai)
+id: mfr-weichai
+type: Manufacturer
+name_en: 潍柴集团 (Weichai)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Shandong
+  city: Weifang
+clusters:
+- cls-weifang-power-equipment
+industry: Power / Diesel Engines
+factory_evidence:
+- cluster:cls-weifang-power-equipment
+confidence: High
+verification_date: '2026-09-14'

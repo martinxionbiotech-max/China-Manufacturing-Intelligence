@@ -1,0 +1,16 @@
+# Manufacturer — Sany Heavy Industry
+id: mfr-sany-heavy-industry
+type: Manufacturer
+name_en: Sany Heavy Industry
+name_zh: 三一重工
+entity_role: manufacturer
+location:
+  province: Hunan
+  city: Changsha
+clusters:
+- cls-changsha-construction-machinery
+industry: ''
+factory_evidence:
+- cluster:cls-changsha-construction-machinery
+confidence: High
+verification_date: '2026-09-14'

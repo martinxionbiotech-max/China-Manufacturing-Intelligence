@@ -1,0 +1,16 @@
+# Manufacturer — 海尔集团 (Haier)
+id: mfr-haier
+type: Manufacturer
+name_en: 海尔集团 (Haier)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Shandong
+  city: Qingdao
+clusters:
+- cls-qingdao-appliances
+industry: Home Appliances
+factory_evidence:
+- cluster:cls-qingdao-appliances
+confidence: High
+verification_date: '2026-09-14'

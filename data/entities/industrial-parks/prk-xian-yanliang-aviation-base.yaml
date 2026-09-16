@@ -1,0 +1,13 @@
+# Industrial Park — 西安阎良航空基地
+id: prk-xian-yanliang-aviation-base
+type: IndustrialPark
+name_en: 西安阎良航空基地
+name_zh: ''
+location:
+  province: Shaanxi
+  city: Xi'an
+clusters:
+- cls-xian-aviation
+note: 中国航空资源最密集，全国唯一完整航空产业链
+confidence: Medium
+verification_date: '2026-09-14'

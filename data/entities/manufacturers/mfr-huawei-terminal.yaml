@@ -1,0 +1,16 @@
+# Manufacturer — Huawei Terminal
+id: mfr-huawei-terminal
+type: Manufacturer
+name_en: Huawei Terminal
+name_zh: 华为终端
+entity_role: brand
+location:
+  province: Guangdong
+  city: Dongguan
+clusters:
+- cls-dongguan-smart-terminal
+industry: ''
+factory_evidence:
+- cluster:cls-dongguan-smart-terminal
+confidence: High
+verification_date: '2026-09-14'

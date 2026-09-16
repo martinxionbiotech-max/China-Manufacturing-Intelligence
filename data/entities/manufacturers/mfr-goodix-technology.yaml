@@ -1,0 +1,16 @@
+# Manufacturer — Goodix Technology
+id: mfr-goodix-technology
+type: Manufacturer
+name_en: Goodix Technology
+name_zh: 汇顶科技
+entity_role: brand
+location:
+  province: Guangdong
+  city: Shenzhen
+clusters:
+- cls-shenzhen-electronics
+industry: ''
+factory_evidence:
+- cluster:cls-shenzhen-electronics
+confidence: High
+verification_date: '2026-09-14'

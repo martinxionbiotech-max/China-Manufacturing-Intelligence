@@ -1,0 +1,16 @@
+# Manufacturer — 天合光能 (Trina Solar)
+id: mfr-trina-solar
+type: Manufacturer
+name_en: 天合光能 (Trina Solar)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Jiangsu
+  city: Yancheng
+clusters:
+- cls-yancheng-pv
+industry: Solar / PV
+factory_evidence:
+- cluster:cls-yancheng-pv
+confidence: High
+verification_date: '2026-09-14'

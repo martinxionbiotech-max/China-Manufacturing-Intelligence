@@ -1,0 +1,16 @@
+# Manufacturer — BBK Electronics (predecessor)
+id: mfr-bbk-electronics
+type: Manufacturer
+name_en: BBK Electronics (predecessor)
+name_zh: 步步高电子
+entity_role: brand
+location:
+  province: Guangdong
+  city: Dongguan
+clusters:
+- cls-dongguan-smart-terminal
+industry: ''
+factory_evidence:
+- cluster:cls-dongguan-smart-terminal
+confidence: High
+verification_date: '2026-09-14'

@@ -1,0 +1,16 @@
+# Manufacturer — FiberHome (烽火通信)
+id: mfr-fiberhome
+type: Manufacturer
+name_en: FiberHome (烽火通信)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Hubei
+  city: Wuhan
+clusters:
+- cls-wuhan-optics-valley
+industry: Optical Communications
+factory_evidence:
+- cluster:cls-wuhan-optics-valley
+confidence: High
+verification_date: '2026-09-14'

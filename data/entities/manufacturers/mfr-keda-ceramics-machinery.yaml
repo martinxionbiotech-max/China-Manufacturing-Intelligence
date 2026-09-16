@@ -1,0 +1,16 @@
+# Manufacturer — Keda
+id: mfr-keda-ceramics-machinery
+type: Manufacturer
+name_en: Keda
+name_zh: 科达
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Foshan
+clusters:
+- cls-foshan-ceramics
+industry: Ceramics Machinery
+factory_evidence:
+- cluster:cls-foshan-ceramics
+confidence: High
+verification_date: '2026-09-14'

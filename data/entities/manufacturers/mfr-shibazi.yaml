@@ -1,0 +1,16 @@
+# Manufacturer — 十八子
+id: mfr-shibazi
+type: Manufacturer
+name_en: 十八子
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Yangjiang
+clusters:
+- cls-yangjiang-knives
+industry: Kitchen Knives
+factory_evidence:
+- cluster:cls-yangjiang-knives
+confidence: High
+verification_date: '2026-09-14'

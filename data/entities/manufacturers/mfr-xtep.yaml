@@ -1,0 +1,18 @@
+# Manufacturer — Xtep (特步)
+id: mfr-xtep
+type: Manufacturer
+name_en: Xtep (特步)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Fujian
+  city: Quanzhou
+clusters:
+- cls-jinjiang-footwear
+- cls-quanzhou-sports
+industry: Sportswear / Footwear
+factory_evidence:
+- cluster:cls-jinjiang-footwear
+- cluster:cls-quanzhou-sports
+confidence: High
+verification_date: '2026-09-14'

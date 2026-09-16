@@ -1,0 +1,16 @@
+# Manufacturer — 一汽集团 (FAW)
+id: mfr-faw-group
+type: Manufacturer
+name_en: 一汽集团 (FAW)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Jilin
+  city: Changchun
+clusters:
+- cls-changchun-auto
+industry: Automotive
+factory_evidence:
+- cluster:cls-changchun-auto
+confidence: High
+verification_date: '2026-09-14'

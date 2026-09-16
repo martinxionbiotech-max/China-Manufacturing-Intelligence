@@ -1,0 +1,16 @@
+# Manufacturer — 中国一拖 (YTO Group)
+id: mfr-yto-group
+type: Manufacturer
+name_en: 中国一拖 (YTO Group)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Henan
+  city: Luoyang
+clusters:
+- cls-luoyang-agri-machinery
+industry: Agricultural Machinery
+factory_evidence:
+- cluster:cls-luoyang-agri-machinery
+confidence: High
+verification_date: '2026-09-14'

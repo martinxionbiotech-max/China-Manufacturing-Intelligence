@@ -1,0 +1,16 @@
+# Manufacturer — Hua Hong (华虹半导体)
+id: mfr-hua-hong
+type: Manufacturer
+name_en: Hua Hong (华虹半导体)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Shanghai (municipality)
+  city: ''
+clusters:
+- cls-shanghai-ic
+industry: Semiconductors (foundry)
+factory_evidence:
+- cluster:cls-shanghai-ic
+confidence: High
+verification_date: '2026-09-14'

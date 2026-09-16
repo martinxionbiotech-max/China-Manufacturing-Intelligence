@@ -1,0 +1,13 @@
+# Industrial Park — 苏州工业园区 (SIP)
+id: prk-suzhou-industrial-park
+type: IndustrialPark
+name_en: 苏州工业园区 (SIP)
+name_zh: ''
+location:
+  province: Jiangsu
+  city: Suzhou
+clusters:
+- cls-suzhou-biomed
+note: 生物医药及大健康企业超 2000 家，产值 1655 亿
+confidence: Medium
+verification_date: '2026-09-14'

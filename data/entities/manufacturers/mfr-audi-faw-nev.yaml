@@ -1,0 +1,16 @@
+# Manufacturer — 奥迪一汽新能源 (Audi-FAW NEV)
+id: mfr-audi-faw-nev
+type: Manufacturer
+name_en: 奥迪一汽新能源 (Audi-FAW NEV)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Jilin
+  city: Changchun
+clusters:
+- cls-changchun-auto
+industry: NEV
+factory_evidence:
+- cluster:cls-changchun-auto
+confidence: High
+verification_date: '2026-09-14'

@@ -1,0 +1,16 @@
+# Manufacturer — 镇海炼化 (Sinopec Zhenhai Refining & Chemical)
+id: mfr-sinopec-zhenhai
+type: Manufacturer
+name_en: 镇海炼化 (Sinopec Zhenhai Refining & Chemical)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Ningbo
+clusters:
+- cls-ningbo-green-petrochemical
+industry: Petrochemicals
+factory_evidence:
+- cluster:cls-ningbo-green-petrochemical
+confidence: High
+verification_date: '2026-09-14'

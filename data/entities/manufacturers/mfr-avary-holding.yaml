@@ -1,0 +1,16 @@
+# Manufacturer — Avary Holding
+id: mfr-avary-holding
+type: Manufacturer
+name_en: Avary Holding
+name_zh: 鹏鼎控股
+entity_role: manufacturer
+location:
+  province: Guangdong
+  city: Shenzhen
+clusters:
+- cls-shenzhen-electronics
+industry: ''
+factory_evidence:
+- cluster:cls-shenzhen-electronics
+confidence: High
+verification_date: '2026-09-14'

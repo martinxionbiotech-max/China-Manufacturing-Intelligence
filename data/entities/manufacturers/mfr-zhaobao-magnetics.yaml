@@ -1,0 +1,16 @@
+# Manufacturer — 招宝磁业
+id: mfr-zhaobao-magnetics
+type: Manufacturer
+name_en: 招宝磁业
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Ningbo
+clusters:
+- cls-ningbo-magnetic-materials
+industry: Magnetic Materials
+factory_evidence:
+- cluster:cls-ningbo-magnetic-materials
+confidence: High
+verification_date: '2026-09-14'

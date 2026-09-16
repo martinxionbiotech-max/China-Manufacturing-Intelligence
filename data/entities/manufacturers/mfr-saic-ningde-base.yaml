@@ -1,0 +1,16 @@
+# Manufacturer — SAIC Ningde Base
+id: mfr-saic-ningde-base
+type: Manufacturer
+name_en: SAIC Ningde Base
+name_zh: 上汽宁德基地
+entity_role: manufacturer
+location:
+  province: Fujian
+  city: Ningde
+clusters:
+- cls-ningde-power-battery
+industry: ''
+factory_evidence:
+- cluster:cls-ningde-power-battery
+confidence: High
+verification_date: '2026-09-14'

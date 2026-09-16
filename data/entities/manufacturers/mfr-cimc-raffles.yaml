@@ -1,0 +1,16 @@
+# Manufacturer — 中集来福士 (CIMC Raffles)
+id: mfr-cimc-raffles
+type: Manufacturer
+name_en: 中集来福士 (CIMC Raffles)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Shandong
+  city: Qingdao
+clusters:
+- cls-qingdao-shipbuilding
+industry: Shipbuilding
+factory_evidence:
+- cluster:cls-qingdao-shipbuilding
+confidence: High
+verification_date: '2026-09-14'

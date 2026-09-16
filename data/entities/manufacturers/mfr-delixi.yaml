@@ -1,0 +1,16 @@
+# Manufacturer — Delixi (德力西)
+id: mfr-delixi
+type: Manufacturer
+name_en: Delixi (德力西)
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Wenzhou
+clusters:
+- cls-wenzhou-electrical
+industry: Electrical Equipment
+factory_evidence:
+- cluster:cls-wenzhou-electrical
+confidence: High
+verification_date: '2026-09-14'

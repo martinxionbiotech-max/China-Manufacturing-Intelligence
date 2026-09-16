@@ -1,0 +1,16 @@
+# Manufacturer — 浙江万得凯流体设备
+id: mfr-wandekai-fluid
+type: Manufacturer
+name_en: 浙江万得凯流体设备
+name_zh: ''
+entity_role: manufacturer
+location:
+  province: Zhejiang
+  city: Taizhou
+clusters:
+- cls-taizhou-pumps
+industry: Pumps & Valves
+factory_evidence:
+- cluster:cls-taizhou-pumps
+confidence: High
+verification_date: '2026-09-14'
