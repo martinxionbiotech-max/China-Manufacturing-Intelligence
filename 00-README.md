@@ -1,6 +1,11 @@
-# China Manufacturing Intelligence — Phase 1 Deliverables
+# China Manufacturing Intelligence — Editorial Main Site
 
-**Status:** PHASE 1 (Foundation / Planning) — NO formal articles written yet.
+**Status:** PHASE 1-2 (Foundation + research scaffolded; content drafted, not yet published).
+
+> **Repo split (2026-09-16):** This repo is the **editorial main site**
+> (Astro `site/` + long-form `content/` + `research/` evidence). The structured
+> knowledge graph (`data/entities/`) and its MkDocs data-hub site now live in a
+> separate repo: `martinxionbiotech-max/data-china-manufacturing-intel`.
 
 **Mission:** Build the world's most useful English-language knowledge base for
 China's manufacturing geography, industrial clusters, products, factories,
