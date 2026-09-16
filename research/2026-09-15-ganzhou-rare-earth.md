@@ -8,14 +8,12 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-xinhua-ganzhou | 能源资源看中部｜创新的底气——江西赣州稀土产业集群发展观察 | 新华网江西 | 1 一手源（央媒） | 2024-06 |
-| src-people-ganzhou | "稀土王国"正涅槃重生 | 人民日报《中国经济周刊》 | 1 一手源（央媒） | 2023-06 |
-| src-ganxian | 中国稀土集团现代产业链强链固链重点项目启动大会 | 赣县区人民政府 | 1 一手源（政府官网） | 2024-02 |
-| src-zhihu-rareearth | 2024年稀土行业研究报告合集 | 知乎（行业研究） | 2 行业源 | 2024 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-xinhua-ganzhou | 能源资源看中部｜创新的底气——江西赣州稀土产业集群发展观察 | 新华网江西 | 1 一手源（央媒） | 2024-06 | http://www.jx.xinhua.org/20240621/b1d14cb8e0394ffab9fb10eddfd025f3/c.html |
+| src-people-ganzhou | "稀土王国"正涅槃重生 | 人民日报《中国经济周刊》 | 1 一手源（央媒） | 2023-06 | http://paper.people.com.cn/zgjjzk/html/2023-06/30/nw.zgjjzk_20230630_2-01.htm |
+| src-ganxian | 中国稀土集团现代产业链强链固链重点项目启动大会 | 赣县区人民政府 | 1 一手源（政府官网） | 2024-02 | http://www.ganxian.gov.cn/gxzf/jryd/202402/15062e53577b4d14bfdfd05296fc58fd.shtml |
+| src-zhihu-rareearth | 2024年稀土行业研究报告合集 | 知乎（行业研究） | 2 行业源 | 2024 | https://zhuanlan.zhihu.com/p/686399620 |
 
 ## FACT（一手源）
 

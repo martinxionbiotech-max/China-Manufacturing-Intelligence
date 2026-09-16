@@ -74,6 +74,6 @@ It holds China's only complete aviation industry chain and a quarter of national
 
 ## Sources
 
-1. 科技日报, "吹响航空产业'集结号'——西安举行大飞机规模化区域动员会," 2024-09 (央媒).
-2. 四川在线, "寻链·新质生产力十城演义丨西安创'新'飞高," 2024-04 (媒体).
-3. 新浪科技, "西安阎良：2024年航空产业总产值超400亿元," 2025-05 (媒体).
+1. 科技日报, "吹响航空产业'集结号'——西安举行大飞机规模化区域动员会," 2024-09 (央媒). https://www.stdaily.com/web/gdxw/2024-09/01/content_222529.html
+2. 四川在线, "寻链·新质生产力十城演义丨西安创'新'飞高," 2024-04 (媒体). https://sichuan.scol.com.cn/ggxw/202404/82516487.html
+3. 新浪科技, "西安阎良：2024年航空产业总产值超400亿元," 2025-05 (媒体). https://tech.sina.cn/2025-05-23/detail-inexnueq6475037.d.html?vt=4

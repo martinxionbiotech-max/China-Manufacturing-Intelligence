@@ -8,19 +8,17 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-xinhua-20220121 | "家电名镇"北滘镇："中国制造"的观察之窗 | 新华网 | 1 primary | 2022-01-21 |
-| src-sina-20260115 | 广货焕新"佛山样本"：家电产业穿越新消费周期 | 新浪财经 | 2 strong | 2026-01-15 |
-| src-stcn | 广货焕新"佛山样本" | 证券时报 | 2 strong | 2026-01 |
-| src-southcn-20190819 | 顺德家电：从一台风扇开始的广东制造业传奇 | 南方网 | 1 primary | 2019-08-19 |
-| src-nfnews-20230818 | 作为制造业强区，顺德有多"卷"？ | 南方+/顺德发布 | 1 primary | 2023-08-18 |
-| src-gdeacc | 全国唯一"中国家电之都"连续五届落户顺德 | 广东家电协会 | 1 primary | 2024 |
-| src-foshanplus | 顺德家电产业年产值突破4000亿，约占全国15% | 佛山+ | 1 primary | 2024 |
-| src-cifnews-20250121 | 国产小家电，在海外"登堂入室" | 雨果跨境 | 2 strong | 2025-01-21 |
-| src-faxiangongchang | China's Home Appliance Industry 2026 | 天下工厂研究 | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-xinhua-20220121 | "家电名镇"北滘镇："中国制造"的观察之窗 | 新华网 | 1 primary | 2022-01-21 | |
+| src-sina-20260115 | 广货焕新"佛山样本"：家电产业穿越新消费周期 | 新浪财经 | 2 strong | 2026-01-15 | |
+| src-stcn | 广货焕新"佛山样本" | 证券时报 | 2 strong | 2026-01 | |
+| src-southcn-20190819 | 顺德家电：从一台风扇开始的广东制造业传奇 | 南方网 | 1 primary | 2019-08-19 | |
+| src-nfnews-20230818 | 作为制造业强区，顺德有多"卷"？ | 南方+/顺德发布 | 1 primary | 2023-08-18 | |
+| src-gdeacc | 全国唯一"中国家电之都"连续五届落户顺德 | 广东家电协会 | 1 primary | 2024 | |
+| src-foshanplus | 顺德家电产业年产值突破4000亿，约占全国15% | 佛山+ | 1 primary | 2024 | https://content.foshanplus.com/newsDetails.html?newsId=901043 |
+| src-cifnews-20250121 | 国产小家电，在海外"登堂入室" | 雨果跨境 | 2 strong | 2025-01-21 | |
+| src-faxiangongchang | China's Home Appliance Industry 2026 | 天下工厂研究 | 3 discovery | 2026 | |
 
 ## FACT (primary-sourced)
 

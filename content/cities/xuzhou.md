@@ -78,6 +78,6 @@ For single-account scale and full-lineage consistency (XCMG), Xuzhou is the corr
 ## Sources
 
 1. 徐州市 "343" 创新产业集群规模达 7800 亿元 (地方产业报道, 2024).
-2. "聚链成群'江苏制造'攀高向强" (江苏制造业集群报道, 2024).
-3. "徐州不纠结，顺其自然冲万亿" (徐州 GDP 报道, 2025).
+2. "聚链成群'江苏制造'攀高向强" (江苏制造业集群报道, 2024). http://js.people.com.cn/n2/2025/0220/c360301-41140834.html
+3. "徐州不纠结，顺其自然冲万亿" (徐州 GDP 报道, 2025). https://www.21jingji.com/article/20260127/herald/b235e535b2fbf756083728f007183290.html
 4. Xuzhou construction machinery cluster (cls-xuzhou-construction-machinery).

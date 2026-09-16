@@ -72,8 +72,8 @@ So Suzhou is the correct anchor for biopharma CDMO and scale-up, and advanced na
 
 ## Sources
 
-1. 苏州日报, "稳增长激活力强创新惠民生——解读2024年苏州经济数据" (2025).
-2. "2024年苏州工业园区实现地区生产总值4002.43亿元" (2025).
+1. 苏州日报, "稳增长激活力强创新惠民生——解读2024年苏州经济数据" (2025). https://www.zgjssw.gov.cn/shixianchuanzhen/suzhou/202502/t20250206_8453813.shtml
+2. "2024年苏州工业园区实现地区生产总值4002.43亿元" (2025). https://www.suzhou.gov.cn/szsrmzf/tjsjjd/202502/2dc027ab598f42af8815e69405bf1710.shtml
 3. 21经济网, "苏州离'工业第一城'还有多远" (2025).
 4. Suzhou biopharma cluster (cls-suzhou-biomed).
 5. Suzhou nano cluster (cls-suzhou-nano).

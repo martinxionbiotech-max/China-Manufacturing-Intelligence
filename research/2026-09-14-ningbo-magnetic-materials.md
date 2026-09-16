@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-people-nb-magnet | 打造"强磁场"宁波锚定"磁创之都"新目标 | 人民网/宁波日报 | 1 一手源 | 2023-12-25 |
-| src-stcn-yunsheng | 宁波韵升 2025 年报 | 证券时报网 | 1 一手源 | 2026-04-16 |
-| src-wiki-ningbo | Ningbo | Wikipedia (EN) | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-people-nb-magnet | 打造"强磁场"宁波锚定"磁创之都"新目标 | 人民网/宁波日报 | 1 一手源 | 2023-12-25 | |
+| src-stcn-yunsheng | 宁波韵升 2025 年报 | 证券时报网 | 1 一手源 | 2026-04-16 | |
+| src-wiki-ningbo | Ningbo | Wikipedia (EN) | 3 discovery | 2026 | https://en.wikipedia.org/wiki/Ningbo |
 
 ## FACT（一手源）
 

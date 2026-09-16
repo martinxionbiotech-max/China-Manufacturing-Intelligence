@@ -66,5 +66,5 @@ It provides volume and price on commodity and conventional machine tools, while 
 ## Sources
 
 1. 前瞻产业研究院, "2023年中国数控机床市场规模约4090亿元" (2024).
-2. 荣格工业资源网, "从产量、进出口数据看机床行业态势：数控化率升至51%" (2024).
+2. 荣格工业资源网, "从产量、进出口数据看机床行业态势：数控化率升至51%" (2024). https://www.industrysourcing.cn/article/469253
 3. East Zhejiang machine tools cluster (cls-ezd-machine-tools).

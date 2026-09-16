@@ -79,5 +79,5 @@ Weichai's diesel engines serve trucks, ships, and generators, a different world 
 ## Sources
 
 1. 华人头条, "新派观察 | 山东潍坊：产业建在链上," 2025 (媒体).
-2. 潍坊市统计局, "2024年潍坊市国民经济和社会发展统计公报," 2025-03 (政府统计).
+2. 潍坊市统计局, "2024年潍坊市国民经济和社会发展统计公报," 2025-03 (政府统计). https://tjgb.hongheiku.com/xjtjgb/xj2020/57624.html
 3. 潍坊滨海经济技术开发区, "2024年工作要点," 2024 (政府).

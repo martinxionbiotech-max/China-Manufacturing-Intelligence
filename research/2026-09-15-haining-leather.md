@@ -8,12 +8,10 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-chinadaily-haining | 当"潮"不让，实力出圈 海宁皮革时尚产业弄潮2024CHIC春季展 | 中国日报网 | 1 一手源（央媒） | 2024-03 |
-| src-szse-haining | 海宁中国皮革城股份有限公司 2025 年年度报告 | 深交所（上市公司年报） | 1 一手源（年报） | 2026-04 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-chinadaily-haining | 当"潮"不让，实力出圈 海宁皮革时尚产业弄潮2024CHIC春季展 | 中国日报网 | 1 一手源（央媒） | 2024-03 | http://cn.chinadaily.com.cn/a/202403/11/WS65eeb4c2a3109f7860dd4e7a.html |
+| src-szse-haining | 海宁中国皮革城股份有限公司 2025 年年度报告 | 深交所（上市公司年报） | 1 一手源（年报） | 2026-04 | https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-04-16/a9287a38-7d04-4006-8893-1ae476e14353.PDF |
 
 ## FACT（一手源）
 

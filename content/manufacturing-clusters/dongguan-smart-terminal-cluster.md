@@ -81,7 +81,23 @@ Behind them sits a dense tier of suppliers and specialists:
 
 The presence of three owned brands — not just factories — is what distinguishes Dongguan from a
 pure OEM city. Brand ownership keeps design, software, and procurement decisions inside the same
-radius as production.
+radius as production. In 2023, the combined output value of Huawei, OPPO, and vivo grew **13.3%**,
+reversing three consecutive years of decline [9] — the clearest sign that the city's pivot from
+contract manufacturing to owned brands had paid off.
+
+## The transformation path: Nokia OEM → three brands → AI phones
+
+Dongguan's current structure only makes sense through its lineage. In the feature-phone era the
+city was a Nokia contract-manufacturing base; in the smartphone era the BBK lineage (OPPO/vivo)
+and Huawei Terminal turned it into a three-own-brand city with self-built factories; and 2024
+opened the "AI phone" cycle, with the same brands competing on on-device AI [7]. The
+"world factory → world smart-manufacturing" arc is unusually legible here because each stage left
+physical infrastructure — factory campuses, supply chains, and labor pools — that the next stage
+reused.
+
+*Opinion (labeled):* Dongguan is the project's clearest **"brand + contract" dual-track** case:
+unlike Shenzhen (design/trading-heavy) and unlike pure-OEM cities, three own brands and
+contract manufacturers (Luxshare, Hua Bei) operate side by side on the same supply base.
 
 ## Supply-chain density: the real moat
 
@@ -123,7 +139,8 @@ to Shenzhen, while retaining direct road access to Shenzhen's trading and financ
 
 ## Data deep-dive
 
-- **2022 electronics output RMB 947B**; 2023 RMB 1.1T (~1/4 of Guangdong) [1][2].
+- **2022 electronics output RMB 947B** (value-added RMB 167.34B); 2023 RMB 1.1T (~1/4 of Guangdong) [1][2].
+- **Huawei+OPPO+vivo combined output value +13.3% in 2023** — reversing three straight years of decline [9].
 - **196M smartphones in 2022** (1 in 6 China); ~24% of global by 2024 — 1 in 5 worldwide, 1 in 8 from Chang'an alone [1][3].
 - **Chang'an Town 2025 GDP RMB 110B**; electronics output RMB 200B+ (3/4 of the town) [3].
 - **~220,000 industrial enterprises**, 14,000 above scale [2].
@@ -155,7 +172,8 @@ The two-pole structure — Chang'an for manufacturing, Songshan Lake for R&D and
 2. 东莞投资促进局 (fipc.dg.gov.cn), "Songshan Lake & Huawei launch new collaborations," 2025.
 3. 当代中国 (ourchinastory.com), "东莞长安镇：一座代工厂如何砌出手机王国," 2026-02-25.
 4. 东莞市政府 (as source 1), 核心区布局章节.
-5. 广州日报, "莞企OPPO、vivo再次上榜," 2024-04-10.
+5. 广州日报, "莞企OPPO、vivo再次上榜," 2024-04-10. https://gzdaily.dayoo.com/pc/html/2024-04/10/content_696_855005.htm
 6. South China Morning Post, "vivo opens new manufacturing complex near Huawei," 2020.
 7. 四川在线, "从一部手机看世界工厂蝶变," 2024-04.
-8. 南方都市报/网易, "全球近1/4智能手机出自东莞，产业配套率超90%," 2026-08-04.
+8. 南方都市报/网易, "全球近1/4智能手机出自东莞，产业配套率超90%," 2026-08-04. https://news.qq.com/rain/a/20260805A036BD00
+9. 广州日报, "莞企OPPO、vivo再次上榜" (2023 产值增速段), 2024-04-10.

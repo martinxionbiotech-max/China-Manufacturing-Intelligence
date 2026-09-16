@@ -65,7 +65,7 @@ So route by layer: transmission and UHV equipment to Baoding, low-voltage distri
 
 ## Sources
 
-1. "中国电力装备制造业十年发展成效与展望" (2024).
+1. "中国电力装备制造业十年发展成效与展望" (2024). https://www.engineering.org.cn/sscae/CN/10.15302/J-SSCAE-2025.12.036
 2. 新浪财经, "2025年中国输变电装备行业产业链图谱" (2025).
 3. Baoding power equipment cluster (cls-baoding-power-equipment).
 4. Wenzhou electrical cluster (cls-wenzhou-electrical).

@@ -8,18 +8,16 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-xinhua-20241122 | 全球一半的"亮"，产自这个小镇 | 新华网 | 1 primary | 2024-11-22 |
-| src-oeeee-20251023 | 中山古镇灯饰持续擦亮金字招牌，超千亿集群迈向国际化 | 南方都市报 | 2 strong | 2025-10-23 |
-| src-stcn | 古镇再转型：千亿照明产业集群落新子 | 证券时报 | 2 strong | 2024 |
-| src-zsdag | 古镇灯饰产业（专记） | 中山市档案馆 | 1 primary | (archive) |
-| src-zsnews-20251026 | 16万人次见证"灯都"力量 | 中山网/中山+ | 2 strong | 2025-10-26 |
-| src-gdtoday | Zhongshan's Guzhen, capital of lighting equipment | 南方网 GDToday | 1 primary | 2024 |
-| src-qianzhan | 2023年中山市灯饰产业全景分析 | 前瞻产业研究院 | 2 strong | 2023-08 |
-| src-gilf | Guzhen — Lighting Capital of China | 古镇灯博会官网 | 1 primary | 2024 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-xinhua-20241122 | 全球一半的"亮"，产自这个小镇 | 新华网 | 1 primary | 2024-11-22 | |
+| src-oeeee-20251023 | 中山古镇灯饰持续擦亮金字招牌，超千亿集群迈向国际化 | 南方都市报 | 2 strong | 2025-10-23 | |
+| src-stcn | 古镇再转型：千亿照明产业集群落新子 | 证券时报 | 2 strong | 2024 | |
+| src-zsdag | 古镇灯饰产业（专记） | 中山市档案馆 | 1 primary | (archive) | |
+| src-zsnews-20251026 | 16万人次见证"灯都"力量 | 中山网/中山+ | 2 strong | 2025-10-26 | https://www.zsnews.cn/town/index/view/cateid/1218/id/762791.html |
+| src-gdtoday | Zhongshan's Guzhen, capital of lighting equipment | 南方网 GDToday | 1 primary | 2024 | https://goguangdong.southcn.com/node_7684524c17/4f44c18397.shtml |
+| src-qianzhan | 2023年中山市灯饰产业全景分析 | 前瞻产业研究院 | 2 strong | 2023-08 | |
+| src-gilf | Guzhen — Lighting Capital of China | 古镇灯博会官网 | 1 primary | 2024 | |
 
 ## FACT (primary-sourced)
 

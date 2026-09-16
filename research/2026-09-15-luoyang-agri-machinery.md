@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-cri-luoyang | 洛阳现代农机装备集群入围"国家队" 千亿集群角逐世界舞台 | 国际在线（河南日报） | 1 一手源（央媒） | 2024-12 |
-| src-dahecube-luoyang | 争创国际一流！洛阳现代农机装备集群底气何在 | 大河财立方 | 2 媒体 | 2025-01 |
-| src-sina-luoyang | 洛阳农机装备聚企成链 "链主"引领产业向"智"而行 | 新浪财经 | 2 媒体 | 2025-04 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-cri-luoyang | 洛阳现代农机装备集群入围"国家队" 千亿集群角逐世界舞台 | 国际在线（河南日报） | 1 一手源（央媒） | 2024-12 | https://hn.cri.cn/2024-12-27/4bd0f713-acb8-fcaf-67b1-6abb1e1e4e45.html |
+| src-dahecube-luoyang | 争创国际一流！洛阳现代农机装备集群底气何在 | 大河财立方 | 2 媒体 | 2025-01 | https://app.dahecube.com/nweb/news/20250118/224320n2049b3793a6.htm |
+| src-sina-luoyang | 洛阳农机装备聚企成链 "链主"引领产业向"智"而行 | 新浪财经 | 2 媒体 | 2025-04 | https://finance.sina.com.cn/jjxw/2025-04-15/doc-inetemnk8394869.shtml?cre=tianyi&mod=pchp&loc=8&r=0&rfunc=53&tj=cxvertical_pc_hp&tr=12 |
 
 ## FACT（一手源）
 

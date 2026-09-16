@@ -74,6 +74,6 @@ Xuzhou is one group (XCMG) spanning the full lineage — depth. Changsha is five
 
 ## Sources
 
-1. 新浪财经, "打造世界级先进制造业集群'链主企业' 徐工机械2024全年实现营收916.6亿元," 2025-05 (上市公司年报口径).
-2. 江苏省人民政府, "徐州'343'创新产业集群规模达7800亿元," 2025-01 (政府官网).
-3. 新浪财经, "徐州加快打造世界级工程机械产业集群," 2026-03 (政府数据).
+1. 新浪财经, "打造世界级先进制造业集群'链主企业' 徐工机械2024全年实现营收916.6亿元," 2025-05 (上市公司年报口径). https://finance.sina.com.cn/jjxw/2025-05-04/doc-inevmieq2292486.shtml
+2. 江苏省人民政府, "徐州'343'创新产业集群规模达7800亿元," 2025-01 (政府官网). https://www.jiangsu.gov.cn/art/2025/1/23/art_84324_11480116.html
+3. 新浪财经, "徐州加快打造世界级工程机械产业集群," 2026-03 (政府数据). https://finance.sina.com.cn/stock/relnews/cn/2026-03-24/doc-inhrzcpm3877217.shtml

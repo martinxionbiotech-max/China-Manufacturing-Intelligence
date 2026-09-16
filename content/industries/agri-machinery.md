@@ -40,15 +40,18 @@ equipment-renewal policy.
 
 ## Original analysis
 
-*Inference:* Agricultural machinery is a **single-champion industry** — one anchor (YTO), one city
-(Luoyang), one national cluster. That concentration produces a deep, stable supply chain but weaker
-competitive pricing pressure than multi-brand sectors (construction machinery, electronics). The
-sector's small market size (RMB 610B) relative to autos (RMB 3-trillion production) explains why it is a
-strategic rather than a scale industry.
+*Inference:* As an industry, agricultural machinery is a **single-champion structure** — one anchor
+(YTO), one city (Luoyang), one national cluster (2024 entry, Henan's first) — and that concentration is
+a deliberate national policy outcome, not an accident of the market. The trade-off is structural: a
+deep, stable supply chain and standards leadership, but weaker competitive pricing tension than
+multi-brand sectors (construction machinery, electronics). The sector's small size — RMB 610B against
+RMB 3-trillion-scale auto production — explains why it is managed as a **strategic industry** (food
+security, rural modernization) rather than a scale industry.
 
-*Opinion:* For buyers, the practical split is **complete machines → Luoyang (YTO)** versus
-**engines/powertrain → Weifang (Weichai)**. For tractors and combines, YTO is the safe, standards-backed
-choice; for powertrain components, route to the engine chain.
+*Opinion:* For industry participants, read agri-machinery through two lenses: **machines → Luoyang
+(YTO, standards-backed complete equipment)**, and **engines → Weifang (Weichai, the powertrain chain)**.
+The single-champion structure means the anchor firm's product roadmap effectively is the industry
+roadmap — track YTO's releases, not the category's general churn.
 
 ## Buyer notes
 
@@ -58,9 +61,9 @@ choice; for powertrain components, route to the engine chain.
 
 ## The Author's Take
 
-*In my view, agricultural machinery is a single-champion industry — one anchor, one city, one cluster — and that concentration is a trade-off, not a flaw.*
+*In my view, this is the industry where concentration is a feature, not a bug — a single champion plus a national cluster designation is how a strategic sector is deliberately held together.*
 
-It produces a deep, stable supply chain, but less competitive tension than a multi-champion category. For complete machines, Luoyang (YTO) is the anchor; for engines and powertrain, Weifang (Weichai) is a separate lane.
+It produces deep supply-chain stability, but less competitive tension than a multi-champion category. For complete machines, Luoyang (YTO) is the anchor; for engines and powertrain, Weifang (Weichai) is a separate lane — and both are essential to food-security infrastructure.
 
 *This is my editorial judgment, not a verified fact — the sourced figures are above.*
 

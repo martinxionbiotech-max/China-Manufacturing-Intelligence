@@ -48,7 +48,8 @@ The scale is documented at the company and city level:
 
 CATL's city footprint is the anchor: about 330 GWh of capacity installed or under construction in
 Ningde, with another 170 GWh planned, and more than 90 upstream and downstream companies clustered
-locally [5].
+locally [5]. Globally, CATL reported **772 GWh of total capacity in 2025, with a further 321 GWh
+under construction** [4] — a scale position that no single competitor city currently challenges.
 
 ## The model: "chain leader + ecosystem"
 
@@ -80,6 +81,12 @@ Ningde hosts both halves of the battery business [8]:
 The same city therefore covers consumer electronics batteries and automotive batteries — an
 unusual combination that gives Ningde a diversified battery revenue base.
 
+*Honesty note:* some widely circulated cluster claims are government or media sourcing figures.
+The "~60% local sourcing" figure comes from state media (CCTV); a separate "85% local supply-chain
+integration" figure appears in provincial government promotion material [5][7]. Both are
+directionally credible but should be read as promotional caliber — treat them as order-of-
+magnitude, not contractual, numbers.
+
 ## Geography: the Fuding megabase
 
 The cluster's physical footprint extends beyond CATL's Jiaocheng headquarters to a satellite
@@ -91,6 +98,24 @@ megabase [9]:
   capacity and output above RMB 100 billion.
 - **Xiapu County** — energy-storage projects, including one of China's largest grid-side
   electrochemical storage stations.
+
+## The transformation arc: from agriculture to battery capital
+
+The speed of Ningde's shift is the extreme of China's "from nothing" industrialization. In 2000,
+secondary industry was just 28.8% of the city economy; by 2023 it had roughly doubled to **56.1%**
+[1]. The mechanism was not gradual — it was one anchor company plus sustained policy push: CATL
+founded 2011, the "world lithium-battery capital" push formalized soon after [2], and by 2025 the
+city's lithium-battery and stainless-steel clusters together approached RMB 540 billion in output
+[5]. In a high-capital, high-scale industry like batteries, a single "chain leader" demonstrably
+lifted an entire city economy. The city itself became one of the world's top-100 innovation
+clusters in 2025 — the first entry for a small Fujian city built around one industry [1][5].
+That ranking is the extreme end-state of the model: one anchor firm's trajectory lifting an
+entire prefecture into the global innovation map.
+
+*Opinion (labeled):* the flip side is **single-point dependence**. Ningde's industrial base is
+unusually sensitive to one company's product cycle, pricing, and capacity decisions — structurally
+less resilient than multi-firm ecosystems such as Shenzhen or Dongguan. For a city this is risk;
+for a buyer it means treating the cluster as one ecosystem rather than a competitive market.
 
 ## What this means for buyers
 
@@ -113,7 +138,8 @@ megabase [9]:
 - **CATL: 37.9% global power-battery share (2024), 39.2% (2025)** — first for 9 straight years; 36.5% → 30.4% global energy-storage shipments [3][4].
 - **CATL 2025 revenue RMB 423.7B (+17%)**, net profit RMB 72.2B (+42%), 661 GWh sold (+39%) [4].
 - **City-level: lithium-battery + stainless-steel clusters RMB 300B + RMB 240B output (2025)** [5].
-- **~330 GWh capacity installed/under construction, 170 GWh planned, 90+ upstream/downstream firms** [5].
+- **~330 GWh capacity installed/under construction, 170 GWh planned, 90+ upstream/downstream firms**; CATL global: 772 GWh total, 321 GWh under construction [4][5].
+- **Secondary industry share: 28.8% (2000) → 56.1% (2023)** — the two-decade agricultural-to-industrial flip [1].
 - **~60% of power-battery inputs sourced locally** [7].
 
 ## Original analysis
@@ -142,7 +168,7 @@ CATL built a world battery capital essentially around one anchor. For power-batt
 2. 福建日报/中新网, "福建宁德：打造'世界锂电之都'," 2022-12-19.
 3. CATL, "2024 年年度报告," 2025-03.
 4. CATL, "Zero-Carbon Technology Powers 'All-Domain Growth' (2025 Annual Report)," 2026-03-10.
-5. 福建省政府/China Daily, "Ningde rises as global lithium battery powerhouse," 2026-01-16.
+5. 福建省政府/China Daily, "Ningde rises as global lithium battery powerhouse," 2026-01-16. https://govt.chinadaily.com.cn/s/202601/16/WS6969db39498e23165e06cd22/ningde-rises-as-global-lithium-battery-powerhouse.html
 6. 央视新闻/西部网, "从零开始→领跑全球 宁德锂电为什么能," 2023-06-25.
 7. 央视新闻 (as source 6), 60% 就近配套口径.
 8. 四川在线 (as source 1), ATL 2008 迁入与 CATL 2011 分拆.

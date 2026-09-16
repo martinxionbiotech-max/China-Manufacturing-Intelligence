@@ -73,6 +73,6 @@ With 50,000+ firms, a third of global plastic-toy capacity, and #1 standing in b
 
 ## Sources
 
-1. 经济日报, "这座小城'玩'出新花样," 2024-12 (央媒).
-2. 中国青年报, "在'玩博会'上 看汕头玩具如何'玩'转全球," 2024-10 (央媒).
-3. 东方财富, "澄海'玩家'：如何掌握一个产业的全球近1/3产能？," 2024-10 (媒体).
+1. 经济日报, "这座小城'玩'出新花样," 2024-12 (央媒). http://paper.ce.cn/pad/content/202412/30/content_306758.html
+2. 中国青年报, "在'玩博会'上 看汕头玩具如何'玩'转全球," 2024-10 (央媒). http://m.cyol.com/gb/articles/2024-10/26/content_ajvL3jTBVx.html
+3. 东方财富, "澄海'玩家'：如何掌握一个产业的全球近1/3产能？," 2024-10 (媒体). https://wap.eastmoney.com/a/202410283219945379.html

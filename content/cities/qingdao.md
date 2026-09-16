@@ -73,6 +73,6 @@ For brand and OEM-scale white goods (Haier, Hisense) and total assembly of large
 
 ## Sources
 
-1. 山东省工业和信息化厅/海报新闻, "山东国家先进制造业集群增至6个 青岛占4个" (2024).
+1. 山东省工业和信息化厅/海报新闻, "山东国家先进制造业集群增至6个 青岛占4个" (2024). http://gxt.shandong.gov.cn/art/2024/12/18/art_15171_10347509.html
 2. Qingdao appliances cluster (cls-qingdao-appliances).
 3. Qingdao shipbuilding cluster (cls-qingdao-shipbuilding).

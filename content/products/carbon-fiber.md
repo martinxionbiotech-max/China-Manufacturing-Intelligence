@@ -67,5 +67,5 @@ Changzhou is the correct anchor for aerospace-grade fiber and composites, but ex
 ## Sources
 
 1. 华经产业研究院, "2025年全球及中国新材料行业现状及趋势分析" (2025).
-2. 中国工程院, "面向新兴产业和未来产业的新材料发展战略研究" (2024).
+2. 中国工程院, "面向新兴产业和未来产业的新材料发展战略研究" (2024). https://www.engineering.org.cn/sscae/CN/10.15302/J-SSCAE-2024.01.006
 3. Changzhou carbon fiber cluster (cls-changzhou-carbon-fiber).

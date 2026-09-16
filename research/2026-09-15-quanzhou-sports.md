@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-ce-quanzhou | 福建泉州体育产品延链成群向高端 | 经济日报 | 1 一手源（央媒） | 2025-02 |
-| src-fujian-quanzhou | "新质"成就"国货之光" | 福建省人民政府门户网站 | 1 一手源（政府官网） | 2025-02 |
-| src-qzgov-quanzhou | 创新方程式！看泉州最会搞经济的县域如何续写产业新奇迹 | 泉州市人民政府 | 1 一手源（政府官网） | 2025-06 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-ce-quanzhou | 福建泉州体育产品延链成群向高端 | 经济日报 | 1 一手源（央媒） | 2025-02 | http://paper.ce.cn/pad/content/202502/17/content_309171.html |
+| src-fujian-quanzhou | "新质"成就"国货之光" | 福建省人民政府门户网站 | 1 一手源（政府官网） | 2025-02 | https://fujian.gov.cn/zwgk/ztzl/gjcjgxgg/xld/202502/t20250217_6715255.htm |
+| src-qzgov-quanzhou | 创新方程式！看泉州最会搞经济的县域如何续写产业新奇迹 | 泉州市人民政府 | 1 一手源（政府官网） | 2025-06 | https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/qzdt/qzyw/202506/t20250617_3180643.htm |
 
 ## FACT（一手源）
 

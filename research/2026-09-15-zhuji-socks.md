@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-ce-zhuji | 浙江诸暨 袜业出口稳健增长 | 经济日报 | 1 一手源（央媒） | 2024-06 |
-| src-xinhua-zhuji | 中国经济样本观察·"镇"了不起丨"暖脚"小镇"织"大业：每年给每个地球人做三双袜子 | 新华网 | 1 一手源（央媒） | 2024-11 |
-| src-datang-zhuji | 第十八届中国·大唐国际袜业博览会 | 大唐袜博会官网 | 2 行业源 | 2024 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-ce-zhuji | 浙江诸暨 袜业出口稳健增长 | 经济日报 | 1 一手源（央媒） | 2024-06 | http://paper.ce.cn/pad/content/202406/09/content_295840.html |
+| src-xinhua-zhuji | 中国经济样本观察·"镇"了不起丨"暖脚"小镇"织"大业：每年给每个地球人做三双袜子 | 新华网 | 1 一手源（央媒） | 2024-11 | http://www.news.cn/local/20241127/28a8c183b8994388af647f88fac6ade6/c.html |
+| src-datang-zhuji | 第十八届中国·大唐国际袜业博览会 | 大唐袜博会官网 | 2 行业源 | 2024 | https://www.datanghosieryexpo.com/uploads/soft/20240422/2-240422135Zc44.pdf |
 
 ## FACT（一手源）
 

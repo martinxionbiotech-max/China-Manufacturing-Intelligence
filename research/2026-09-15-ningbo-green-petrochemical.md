@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-xinhua-zhenhai | 镇海炼化：打造"世界级、高科技、一体化"绿色石化基地 | 新华网 | 1 一手源（央媒） | 2024-10 |
-| src-21jingji-zhenhai | 油价不再是唯一变量：一座石化大市的智能转型 | 21世纪经济报道 | 1 一手源（财经媒体） | 2026-04 |
-| src-zcom-zhenhai | 宁波石化经济技术开发区简介 | 宁波石化经开区 | 1 一手源（园区官方） | 2021 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-xinhua-zhenhai | 镇海炼化：打造"世界级、高科技、一体化"绿色石化基地 | 新华网 | 1 一手源（央媒） | 2024-10 | http://www.news.cn/energy/20241016/0664e65faa5c4c4d9752a985a4bd32d7/c.html |
+| src-21jingji-zhenhai | 油价不再是唯一变量：一座石化大市的智能转型 | 21世纪经济报道 | 1 一手源（财经媒体） | 2026-04 | https://www.21jingji.com/article/20260410/herald/00a1c3fe2588cfca2c2363a216aaca80.html |
+| src-zcom-zhenhai | 宁波石化经济技术开发区简介 | 宁波石化经开区 | 1 一手源（园区官方） | 2021 | http://www.zcom.gov.cn/art/2021/5/21/art_1389612_58930752.html |
 
 ## FACT（一手源）
 

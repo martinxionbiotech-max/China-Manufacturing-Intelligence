@@ -8,12 +8,10 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-gsf-hardware | 盘点中国五金及工具三大产业集群 | GSF 五金展（sourcingfairs.com） | 2 行业媒体 | 2026 |
-| src-wiki-yongkang | Yongkang, Zhejiang | Wikipedia (EN) | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-gsf-hardware | 盘点中国五金及工具三大产业集群 | GSF 五金展（sourcingfairs.com） | 2 行业媒体 | 2026 | |
+| src-wiki-yongkang | Yongkang, Zhejiang | Wikipedia (EN) | 3 discovery | 2026 | https://en.wikipedia.org/wiki/Yongkang,_Zhejiang |
 
 ## FACT（行业源）
 

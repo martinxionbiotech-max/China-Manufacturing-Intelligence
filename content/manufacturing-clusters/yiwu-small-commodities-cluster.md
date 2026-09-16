@@ -36,6 +36,8 @@ Nations, the World Bank, and Morgan Stanley [3]. The scale:
   market), with **75,000+ booths** and over 2.1 million product types [1][4].
 - Registered market entities exceed **1.26 million**, the highest of any county-level city in
   China [1].
+- Its rail-and-trade twin — the Yixin'ou express and the 1039 trade regime — lets even
+  single-stall sellers reach 160+ cities abroad [9][5].
 - 2024 market transaction value reached **RMB 279.8 billion** (+20.02%); in 2025 Yiwu's foreign
   trade exports ranked first among China's county-level regions [5][1].
 - Daily visitor traffic exceeds 220,000, including 3,900+ foreign buyers; over 15,000 foreign
@@ -46,7 +48,12 @@ Nations, the World Bank, and Morgan Stanley [3]. The scale:
 Yiwu's trading tradition predates the market. For centuries, Yiwu peddlers — called the "sugar
 knockers" — bartered brown sugar for chicken feathers door to door across the countryside, turning
 waste into commodity [1][2]. In 1982, the local government issued a "four permits" notice that
-legalized street-side market trading, and the modern market began [1][6].
+legalized street-side market trading, and the modern market began [1][6]. From that single street
+market the institution has moved six times, expanded twelve times, and passed through five
+generations — from open-air stalls to the current physical-plus-digital generation [4]. The phrase
+officially attached to Yiwu's rise — "无中生有、莫名其妙" (built from nothing, in a way no one
+predicted) — captures the anomaly: a landlocked, resource-poor county seat became a global trade
+center through commerce alone [1].
 
 *Inference:* this is the seventh distinct formation mechanism in this project, and it is
 categorically different. Shenzhen grew from trading density, Dongguan from brand spillover, Ningde
@@ -78,6 +85,22 @@ launched in 2014 from Yiwu to Madrid, has run more than 6,700 trains and 670,000
 decade, reaching 50+ countries and 160+ cities [9]. It gives Yiwu a land route between sea and
 air — faster than ocean, cheaper than air — and anchors its "buy global, sell global" model [9][5].
 
+The rail line is more than logistics; it is the institutional experiment's physical twin: a
+landlocked county-level city built a direct freight corridor to Europe because the trade regime
+(1039) made small mixed loads shippable in the first place. The two layers — rules and rails —
+are what make Yiwu's "no port, no river, no resources" story work. For a buyer, the rail line
+is also a practical option: small consolidated loads to Europe move faster than ocean at a
+fraction of air cost — a middle tier Yiwu created for itself, and a reason the city's buyers
+span both e-commerce resellers and traditional wholesalers [9][5].
+## The next upgrade: from selling goods to selling brands and data
+
+Yiwu's own policy discussion frames the next step as moving up the value curve: from "selling
+goods" to "selling brands and data" — branded private-label programs, the Chinagoods digital
+trading platform, and data-driven logistics [2][5]. The moat is no longer the trade regime (copied
+39 times) but the accumulated transaction data, buyer traffic, and fulfillment muscle. For buyers,
+this matters in one practical way: Yiwu is becoming a data-rich, brandable sourcing shelf, not
+just a cheap spot market.
+
 ## The honest caveats
 
 - **Yiwu is a shelf, not a factory.** Roughly 90% of its exported goods originate in the Yangtze
@@ -108,6 +131,7 @@ air — faster than ocean, cheaper than air — and anchors its "buy global, sel
 - **2024 transaction value RMB 279.8B (+20.02%)**; 2025 foreign-trade exports #1 among county-level regions [5][1].
 - **220,000+ daily visitors**, 3,900+ foreign buyers, 15,000+ resident foreign merchants [5][4].
 - **Market-procurement ("1039") mode**: first declaration Nov 2014; cumulative exports RMB 2.58T over ten years; replicated to 39 markets [2][7][8].
+- **Institutional evolution: 6 relocations, 12 expansions, 5 generations** from 1982 street market to digital-physical hybrid [4].
 - **Yixin'ou rail express: 6,700+ trains, 670,000 TEU**, 50+ countries, 160+ cities since 2014 [9].
 
 ## Original analysis
@@ -136,6 +160,6 @@ The state legalized and scaled what peddlers already did, building a trading hub
 4. 上海交大案例研究中心, "义乌商品拓'买卖全球'通路," 2024-12-17.
 5. 中国一带一路网, "浙江义乌：奋力助推小商品勇闯大市场," 2024.
 6. 新华网, "'义乌发展经验'引领打造县域经济样本," 2026-05-10.
-7. 人民日报海外版, "'1039模式'，让中小微出海变简单," 2022-10-25.
+7. 人民日报海外版, "'1039模式'，让中小微出海变简单," 2022-10-25. http://paper.people.com.cn/rmrbhwb/html/2022-10/25/content_25945465.htm
 8. 中国国门时报, "让'小生意'灵活对接国际'大市场'," 2024-12.
 9. 新华网, "义乌中欧班列开行十年为'世界超市'持续注入活力," 2024-11-18.

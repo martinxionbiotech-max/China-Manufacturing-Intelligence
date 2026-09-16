@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-rmrb-yangjiang | 小刀剪闯出大市场（经济聚焦） | 人民日报 | 1 一手源（央媒） | 2025-01 |
-| src-21jingji-yangjiang | 一把小刀30多道工艺，"刀剪之都"阳江要靠智能制造"翻身" | 21世纪经济报道 | 1 一手源（财经媒体） | 2024-10 |
-| src-yangxi-yangjiang | 世界刀剪看中国，中国刀剪看阳江！ | 阳西县人民政府 | 1 一手源（政府官网） | 2024 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-rmrb-yangjiang | 小刀剪闯出大市场（经济聚焦） | 人民日报 | 1 一手源（央媒） | 2025-01 | https://paper.people.com.cn/rmrb/pc/content/202501/20/content_30053011.html |
+| src-21jingji-yangjiang | 一把小刀30多道工艺，"刀剪之都"阳江要靠智能制造"翻身" | 21世纪经济报道 | 1 一手源（财经媒体） | 2024-10 | https://www.21jingji.com/article/20241008/herald/1d851acc0a068555ac7cde2494869cb3.html |
+| src-yangxi-yangjiang | 世界刀剪看中国，中国刀剪看阳江！ | 阳西县人民政府 | 1 一手源（政府官网） | 2024 | http://www.yangxi.gov.cn/xw/yxxw/content/post_899661.html |
 
 ## FACT（一手源）
 

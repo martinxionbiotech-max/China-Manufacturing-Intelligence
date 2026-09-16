@@ -8,12 +8,10 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-xinhua-jinjiang | 新华每日电讯整版报道晋江（"从一根丝到一双鞋"） | 新华每日电讯 | 1 一手源（央媒） | 2023-03-29 |
-| src-wiki-jinjiang | Jinjiang, Quanzhou | Wikipedia (EN) | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-xinhua-jinjiang | 新华每日电讯整版报道晋江（"从一根丝到一双鞋"） | 新华每日电讯 | 1 一手源（央媒） | 2023-03-29 | |
+| src-wiki-jinjiang | Jinjiang, Quanzhou | Wikipedia (EN) | 3 discovery | 2026 | https://en.wikipedia.org/wiki/Jinjiang,_Quanzhou |
 
 ## FACT（一手源·央媒）
 

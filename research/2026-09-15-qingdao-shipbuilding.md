@@ -8,12 +8,10 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-cctv-ship | 青岛现代海洋特色产业加速"集群成势" | 央视网 | 1 一手源（央媒） | 2025-06 |
-| src-sdgxt-ship | 山东国家先进制造业集群增至6个 青岛占4个 | 山东省工业和信息化厅 | 1 一手源（政府） | 2024-12 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-cctv-ship | 青岛现代海洋特色产业加速"集群成势" | 央视网 | 1 一手源（央媒） | 2025-06 | https://ocean.cctv.com/2025/06/16/ARTIbfTqbfDkcgClMkb4q1Gx250616.shtml |
+| src-sdgxt-ship | 山东国家先进制造业集群增至6个 青岛占4个 | 山东省工业和信息化厅 | 1 一手源（政府） | 2024-12 | http://gxt.shandong.gov.cn/art/2024/12/18/art_15171_10347509.html |
 
 ## FACT（一手源）
 

@@ -8,14 +8,12 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-sipac-biomed | 比邻"牵手"串起千亿产业 | 苏州工业园区管委会 | 1 一手源（政府） | 2025-10 |
-| src-suzhougov-biomed | 2024中国生物医药产业园区竞争力评价及分析报告发布 园区多项指标领跑 | 苏州市人民政府 | 1 一手源（政府官网） | 2024-11 |
-| src-yaozh-biomed | 2024年苏州市生物医药产业发展速览 | 药智网 | 2 行业源 | 2025-06 |
-| src-xinhua-biomed | 突破2500亿元能级：苏州"药"业做对了什么 | 新华网 | 1 一手源（央媒） | 2026-08 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-sipac-biomed | 比邻"牵手"串起千亿产业 | 苏州工业园区管委会 | 1 一手源（政府） | 2025-10 | https://www.sipac.gov.cn/szgyyqtzyq/tzdt/202510/bd491eba79454b8daf7dabb1227b67d3.shtml |
+| src-suzhougov-biomed | 2024中国生物医药产业园区竞争力评价及分析报告发布 园区多项指标领跑 | 苏州市人民政府 | 1 一手源（政府官网） | 2024-11 | http://www.suzhou.gov.cn/szsrmzf/szyw/202411/19fa5eab49d74318b273466898911fd5.shtml |
+| src-yaozh-biomed | 2024年苏州市生物医药产业发展速览 | 药智网 | 2 行业源 | 2025-06 | https://gu.yaozh.com/operational_detail/987 |
+| src-xinhua-biomed | 突破2500亿元能级：苏州"药"业做对了什么 | 新华网 | 1 一手源（央媒） | 2026-08 | https://www.news.cn/fortune/20260819/f65058816183484399e156a2ee88df13/c.html |
 
 ## FACT（一手源）
 

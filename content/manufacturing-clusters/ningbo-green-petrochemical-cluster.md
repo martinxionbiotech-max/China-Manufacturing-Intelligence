@@ -76,6 +76,6 @@ Refining volume is mature; what is differentiated is Sinopec Zhenhai's integrate
 
 ## Sources
 
-1. 新华网, "镇海炼化：打造'世界级、高科技、一体化'绿色石化基地," 2024-10 (央媒).
-2. 21世纪经济报道, "油价不再是唯一变量：一座石化大市的智能转型," 2026-04 (财经媒体).
-3. 宁波石化经济技术开发区, "宁波石化经济技术开发区简介" (园区官方).
+1. 新华网, "镇海炼化：打造'世界级、高科技、一体化'绿色石化基地," 2024-10 (央媒). http://www.news.cn/energy/20241016/0664e65faa5c4c4d9752a985a4bd32d7/c.html
+2. 21世纪经济报道, "油价不再是唯一变量：一座石化大市的智能转型," 2026-04 (财经媒体). https://www.21jingji.com/article/20260410/herald/00a1c3fe2588cfca2c2363a216aaca80.html
+3. 宁波石化经济技术开发区, "宁波石化经济技术开发区简介" (园区官方). http://www.zcom.gov.cn/art/2021/5/21/art_1389612_58930752.html

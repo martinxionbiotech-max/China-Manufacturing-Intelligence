@@ -65,7 +65,7 @@ So anchor commodity plastic toys to Chenghai; art and trend toys to Dongguan; an
 
 ## Sources
 
-1. 新华网, "玩具产业如何'玩'出新天地" (2024).
+1. 新华网, "玩具产业如何'玩'出新天地" (2024). https://paper.people.com.cn/rmrbhwb/pc/content/202506/04/content_30076986.html
 2. 中国玩具和婴童用品协会 (2024).
 3. Chenghai toys cluster (cls-chenghai-toys).
 4. Quanzhou sports products cluster (cls-quanzhou-sports).

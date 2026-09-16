@@ -64,5 +64,5 @@ For PV modules, anchor to Yancheng (Trina Solar) and the Jiangsu-Anhui belt. The
 
 ## Sources
 
-1. 中国光伏行业协会/头豹研究院, "2024光伏能源行业趋势洞察报告" (2024).
+1. 中国光伏行业协会/头豹研究院, "2024光伏能源行业趋势洞察报告" (2024). https://www.film-expo.com/content/dam/sitebuilder/rxch/filmexpo/2025/1/gfjm/2024%E5%85%89%E4%BC%8F%E8%83%BD%E6%BA%90%E8%A1%8C%E4%B8%9A%E8%B6%8B%E5%8A%BF%E6%B4%9E%E5%AF%9F%E6%8A%A5%E5%91%8A.pdf.coredownload.356137179.pdf
 2. Yancheng PV cluster (cls-yancheng-pv).

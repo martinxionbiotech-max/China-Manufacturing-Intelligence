@@ -8,14 +8,12 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-xinhua-yancheng | 盐城"海上新能源第一城" 拥抱世界走向蔚蓝 | 新华网江苏频道 | 1 一手源（央媒） | 2023-11 |
-| src-jiemian-yancheng | 风电产业集群化发展的三大关键要素 | 界面新闻 | 1 一手源（财经媒体） | 2021-01 |
-| src-goldwind-yancheng | 金风科技盐城大丰试验风电场全场并网 | 金风科技官网 | 1 一手源（企业官网） | 2022-05 |
-| src-rmrb-yancheng | 海风"吹"来新产业（经济新方位·能源新业态） | 人民日报 | 1 一手源（央媒） | 2024-10 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-xinhua-yancheng | 盐城"海上新能源第一城" 拥抱世界走向蔚蓝 | 新华网江苏频道 | 1 一手源（央媒） | 2023-11 | http://js.news.cn/20231115/b2bee02ca6c4407585717f0cbe18fe3b/c.html |
+| src-jiemian-yancheng | 风电产业集群化发展的三大关键要素 | 界面新闻 | 1 一手源（财经媒体） | 2021-01 | https://www.jiemian.com/article/7534163.html |
+| src-goldwind-yancheng | 金风科技盐城大丰试验风电场全场并网 | 金风科技官网 | 1 一手源（企业官网） | 2022-05 | https://www.goldwind.com/en/news/focus-1116774923067619328?id=1116775286160168960 |
+| src-rmrb-yancheng | 海风"吹"来新产业（经济新方位·能源新业态） | 人民日报 | 1 一手源（央媒） | 2024-10 | https://paper.people.com.cn/rmrb/html/2024-10/28/nw.D110000renmrb_20241028_2-02.htm |
 
 ## FACT（一手源）
 

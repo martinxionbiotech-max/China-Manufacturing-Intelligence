@@ -40,14 +40,19 @@ the long tail [2][cls-cixi-small-appliances].
 
 ## Original analysis
 
-*Inference:* Home appliances is a **three-tier industry** — brand scale (Qingdao), manufacturing depth
-(Shunde), and niche density (Cixi) — each city owning a different layer of the same value chain. The 5.43%
-CAGR signals a mature, slow-growth market where the competition is brand-and-scale, not category
-expansion.
+*Inference:* As an industry, home appliances is **spatially tiered rather than regionally duplicated**:
+brand scale concentrated in Qingdao, manufacturing depth in Shunde, and the niche long tail in Cixi —
+three cities occupying distinct, non-competing layers of one national value chain. The "big four"
+segment mix (AC, fridge, TV, washer) has stayed stable even as the small-appliance tail keeps
+fragmenting [1][2] — the signature of a mature industry: consolidation at the top, churn at the bottom.
+A 5.43% five-year CAGR on an RMB 2,000B base makes this a replacement-and-upgrade market, so industry
+competition is decided by brand and scale economics, not by category growth.
 
-*Opinion:* For buyers, route by tier: **brand/OEM-scale white goods → Qingdao (Haier, Hisense)**;
-**kitchen appliances → Shunde (Midea)**; **niche small appliances → Cixi**. The slow growth means
-pricing is competitive — leverage the three-city structure for multi-tier sourcing.
+*Opinion:* Industry participants should read the three cities as one system: **Qingdao for
+brand/volume partnerships, Shunde for OEM manufacturing leverage, Cixi for new-category
+experimentation**. In a slow-growth market, pricing power sits with the brand layer — manufacturers
+without brand equity are structurally squeezed, which pushes the whole industry toward further
+consolidation and export-led expansion.
 
 ## Buyer notes
 
@@ -58,9 +63,9 @@ pricing is competitive — leverage the three-city structure for multi-tier sour
 
 ## The Author's Take
 
-*In my view, home appliances is a three-tier industry — brand scale, manufacturing depth, and niche density each live in a different city, so routing all appliance needs to one place is the classic error.*
+*In my view, this industry has avoided the trap of regional duplication — the three cities behave like departments of one national company, not competitors.*
 
-Brand and OEM-scale white goods go to Qingdao (Haier, Hisense); manufacturing depth to Shunde; niche density and fast SKU iteration to Cixi. Pick the tier, then the city.
+Qingdao is the brand headquarters, Shunde the production floor, Cixi the skunkworks. For the industry that means structural efficiency; for any new entrant it means every layer of the value chain is already occupied by a specialized incumbent.
 
 *This is my editorial judgment, not a verified fact — the sourced figures are above.*
 

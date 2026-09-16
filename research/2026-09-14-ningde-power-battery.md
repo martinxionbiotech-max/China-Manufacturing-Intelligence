@@ -8,20 +8,18 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-catl-ar2024 | CATL 2024 年年度报告 | CATL (catl.com PDF) | 1 primary | 2025-03 |
-| src-catl-ar2025 | CATL 2025 Annual Report "Zero-Carbon..." | CATL (catl.com) | 1 primary | 2026-03-10 |
-| src-fujian-gov-20260116 | Ningde rises as global lithium battery powerhouse | 福建省政府/China Daily | 1 primary | 2026-01-16 |
-| src-fjdaily-20221219 | 福建宁德：打造"世界锂电之都" | 福建日报/中新网 | 1 primary | 2022-12-19 |
-| src-gxt-fujian-20220526 | 在全球产业版图中树立"宁德地标" | 福建省工信厅 | 1 primary | 2022-05-26 |
-| src-scol-20240425 | 一块"电池"驱动新能源产业"大时代" | 四川在线 | 2 strong | 2024-04-25 |
-| src-cctv-20250228 | 储能赛道，宁德如何领跑？ | 央视/福建日报 | 2 strong | 2025-02-28 |
-| src-cnwest-20230625 | 从零开始→领跑全球 宁德锂电为什么能 | 央视新闻/西部网 | 2 strong | 2023-06-25 |
-| src-scmp-2025 | CATL profit surges 42%... | SCMP | 2 strong | 2026 |
-| src-xinhua-fuding | 福鼎：千亿锂电新生态 | 新华网 | 1 primary | 2023-10-30 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-catl-ar2024 | CATL 2024 年年度报告 | CATL (catl.com PDF) | 1 primary | 2025-03 | |
+| src-catl-ar2025 | CATL 2025 Annual Report "Zero-Carbon..." | CATL (catl.com) | 1 primary | 2026-03-10 | |
+| src-fujian-gov-20260116 | Ningde rises as global lithium battery powerhouse | 福建省政府/China Daily | 1 primary | 2026-01-16 | https://govt.chinadaily.com.cn/s/202601/16/WS6969db39498e23165e06cd22/ningde-rises-as-global-lithium-battery-powerhouse.html |
+| src-fjdaily-20221219 | 福建宁德：打造"世界锂电之都" | 福建日报/中新网 | 1 primary | 2022-12-19 | |
+| src-gxt-fujian-20220526 | 在全球产业版图中树立"宁德地标" | 福建省工信厅 | 1 primary | 2022-05-26 | |
+| src-scol-20240425 | 一块"电池"驱动新能源产业"大时代" | 四川在线 | 2 strong | 2024-04-25 | |
+| src-cctv-20250228 | 储能赛道，宁德如何领跑？ | 央视/福建日报 | 2 strong | 2025-02-28 | |
+| src-cnwest-20230625 | 从零开始→领跑全球 宁德锂电为什么能 | 央视新闻/西部网 | 2 strong | 2023-06-25 | |
+| src-scmp-2025 | CATL profit surges 42%... | SCMP | 2 strong | 2026 | https://www.scmp.com/business/climate-and-energy/article/3346013/chinas-catl-profit-surges-42-battery-sales-and-expansion-boost-global-lead |
+| src-xinhua-fuding | 福鼎：千亿锂电新生态 | 新华网 | 1 primary | 2023-10-30 | |
 
 ## FACT (primary-sourced)
 

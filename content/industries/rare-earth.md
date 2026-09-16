@@ -67,6 +67,6 @@ For high-temperature magnets (dysprosium, terbium), route to Ganzhou's heavy rar
 ## Sources
 
 1. 中经百汇/深圳市中经百汇信息咨询, "2025年中国稀土行业分析报告" (2025).
-2. "2024年稀土行业供需格局展望" (2024).
+2. "2024年稀土行业供需格局展望" (2024). https://pdf.dfcfw.com/pdf/H3_AP202402281623983985_1.pdf?1709139515000.pdf=
 3. Baotou rare earth cluster (cls-baotou-rare-earth).
 4. Ganzhou rare earth cluster (cls-ganzhou-rare-earth).

@@ -8,11 +8,9 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-qianzhan-nano | 2024 苏州市纳米材料产业链全景图谱 | 前瞻产业研究院 | 2 行业研究机构 | 2024 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-qianzhan-nano | 2024 苏州市纳米材料产业链全景图谱 | 前瞻产业研究院 | 2 行业研究机构 | 2024 | |
 
 ## FACT（行业研究源）
 

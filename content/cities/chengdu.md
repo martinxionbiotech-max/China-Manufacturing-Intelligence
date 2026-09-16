@@ -72,6 +72,6 @@ For buyers, it is the right anchor for cost-sensitive, inland-scale electronics 
 
 ## Sources
 
-1. 新华网/经济日报, "万亿元产业链这样炼成——成都电子信息产业集聚发展调查" (2024).
+1. 新华网/经济日报, "万亿元产业链这样炼成——成都电子信息产业集聚发展调查" (2024). http://www.news.cn/fortune/20241121/838334ae065249dc842b9e685c575329/c.html
 2. 成都机器人产业园报道 (2024).
 3. Chengdu-Chongqing electronics cluster (cls-cy-electronics).

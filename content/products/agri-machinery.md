@@ -41,14 +41,16 @@ billion in 2024 agricultural-machinery revenue** [2]. The industry is consolidat
 
 ## Original analysis
 
-*Inference:* Agricultural machinery is a **single-champion industry** — one anchor (YTO), one city
-(Luoyang), one national cluster. That concentration produces a deep, stable supply chain but weaker
-competitive pricing pressure than multi-brand sectors. The RMB 610B market-vs-RMB 195.8B above-scale
-gap reflects a large but fragmented downstream service/trade layer.
+*Inference:* From the product's point of view, agricultural machinery (HS 8432/8433) is a **two-chain
+category**: the complete-machine chain anchors in Luoyang (YTO, one national cluster, 300+ linked
+firms), while the engine/powertrain chain lives in Weifang (Weichai). The RMB 610B market versus RMB
+195.8B above-scale revenue gap reflects a large, fragmented downstream service-and-trade layer — most
+of the category's money is made after the machine leaves the factory.
 
-*Opinion:* For buyers, split **complete machines → Luoyang (YTO)** versus **engines/powertrain →
-[Weifang](/cities/weifang/) (Weichai)**. For tractors and combines, YTO is the standards-backed choice;
-for powertrain components, route to the engine chain.
+*Opinion:* For buyers, the sourcing decision is **which chain, not which region**: tractors and
+combines → YTO's standards-backed line in Luoyang; diesel powertrain → Weichai's engine chain in
+Weifang. Verify whether the requirement is complete machines, engines, or both — they are separate
+supply chains with separate qualification processes.
 
 ## Buyer notes
 
@@ -58,9 +60,9 @@ for powertrain components, route to the engine chain.
 
 ## The Author's Take
 
-*In my view, agricultural machinery is a single-champion industry — one anchor, one city, one cluster — so the real sourcing decision is which machine you need, not which region to shop.*
+*In my view, agri-machinery is the clearest "ask what machine you need first" category in this dataset — the machine and the engine are made in different cities by different champions.*
 
-For complete tractors and combines, YTO in Luoyang is the anchor; for engines and powertrain, Weichai in Weifang is a separate lane. That concentration gives you a deep, stable supply chain, but it also means less competitive tension than in a multi-champion category.
+Buy a tractor, you are dealing with Luoyang. Buy a powertrain, you are dealing with Weifang. Conflating the two is the classic mistake; the concentration also means one qualification effort covers the dominant supplier on each chain.
 
 *This is my editorial judgment, not a verified fact — the sourced figures are above.*
 

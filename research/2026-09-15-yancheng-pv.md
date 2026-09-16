@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-trina-pv | 天合光能 2024 年半年度报告 | 东方财富（上市公司年报） | 1 一手源（年报） | 2024 |
-| src-trina-green | 天合光能：盐城基地获国家级绿色工厂等荣誉 | 天合光能官网 | 1 一手源（公司官网） | 2024 |
-| src-trina-storage | 天合光能 2024 年年度报告 | 巨潮资讯（上市公司年报） | 1 一手源（年报） | 2025 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-trina-pv | 天合光能 2024 年半年度报告 | 东方财富（上市公司年报） | 1 一手源（年报） | 2024 | |
+| src-trina-green | 天合光能：盐城基地获国家级绿色工厂等荣誉 | 天合光能官网 | 1 一手源（公司官网） | 2024 | |
+| src-trina-storage | 天合光能 2024 年年度报告 | 巨潮资讯（上市公司年报） | 1 一手源（年报） | 2025 | |
 
 ## FACT（一手源）
 

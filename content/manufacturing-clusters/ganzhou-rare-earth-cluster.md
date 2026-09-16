@@ -75,5 +75,5 @@ That is the strategic point: heavy rare earths are the rarer fraction and the on
 ## Sources
 
 1. 2024年稀土行业研究报告合集（知乎/行业研究） (行业源).
-2. 人民日报《中国经济周刊》, "'稀土王国'正涅槃重生," 2023-06 (央媒).
-3. 赣县区人民政府, "中国稀土集团现代产业链强链固链重点项目启动大会," 2024-02 (政府官网).
+2. 人民日报《中国经济周刊》, "'稀土王国'正涅槃重生," 2023-06 (央媒). http://paper.people.com.cn/zgjjzk/html/2023-06/30/nw.zgjjzk_20230630_2-01.htm
+3. 赣县区人民政府, "中国稀土集团现代产业链强链固链重点项目启动大会," 2024-02 (政府官网). http://www.ganxian.gov.cn/gxzf/jryd/202402/15062e53577b4d14bfdfd05296fc58fd.shtml

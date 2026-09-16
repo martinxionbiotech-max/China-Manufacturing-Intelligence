@@ -63,6 +63,6 @@ Shenyang (SIASUN) owns the standards and lineage for robot arms; Shenzhen and Sh
 
 ## Sources
 
-1. 世界机器人大会新闻发布会, "中国连续12年保持全球最大工业机器人市场" (2025).
+1. 世界机器人大会新闻发布会, "中国连续12年保持全球最大工业机器人市场" (2025). http://www.gdls.gov.cn/qylsyh/gkmlpt/content/2/2043/post_2043793.html
 2. 21经济网, "深圳'十四五'期间规上工业总产值突破5万亿" (2025).
 3. Shenyang robotics cluster (cls-shenyang-robotics).

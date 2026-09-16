@@ -8,20 +8,18 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-dg-gov-20240105 | 东莞智能移动终端先进制造业集群培育提升三年行动方案（东府函〔2024〕2号） | 东莞市政府 | 1 primary | 2024-01-05 |
-| src-dg-gov-invest | Songshan Lake & Huawei / Invest in Dongguan | 东莞投资促进局 fipc.dg.gov.cn | 1 primary | 2025 |
-| src-gzdaily-20240410 | 莞企OPPO、vivo再次上榜 | 广州日报 | 2 strong | 2024-04-10 |
-| src-scmp-vivo | vivo opens new manufacturing complex near Huawei | SCMP | 2 strong | 2020 |
-| src-hktdc | Dongguan featured suppliers | HKTDC | 2 strong | n.d. |
-| src-ourchinastory | 东莞长安镇：一座代工厂如何砌出手机王国 | 当代中国 | 2 strong | 2026-02-25 |
-| src-163-20260804 | 全球近1/4智能手机出自东莞，产业配套率超90% | 网易/南都 | 2 strong | 2026-08-04 |
-| src-scol-202404 | 从一部手机看世界工厂蝶变 | 四川在线 | 2 strong | 2024-04 |
-| src-stcn-2024 | 补齐产业链短板，东莞向世界级智能终端集群冲击 | 证券时报 | 2 strong | 2024 |
-| src-qianzhan | 2023东莞智能终端产业链分析 | 前瞻产业研究院 | 3 discovery | 2022-12 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-dg-gov-20240105 | 东莞智能移动终端先进制造业集群培育提升三年行动方案（东府函〔2024〕2号） | 东莞市政府 | 1 primary | 2024-01-05 | |
+| src-dg-gov-invest | Songshan Lake & Huawei / Invest in Dongguan | 东莞投资促进局 fipc.dg.gov.cn | 1 primary | 2025 | |
+| src-gzdaily-20240410 | 莞企OPPO、vivo再次上榜 | 广州日报 | 2 strong | 2024-04-10 | https://gzdaily.dayoo.com/pc/html/2024-04/10/content_696_855005.htm |
+| src-scmp-vivo | vivo opens new manufacturing complex near Huawei | SCMP | 2 strong | 2020 | |
+| src-hktdc | Dongguan featured suppliers | HKTDC | 2 strong | n.d. | |
+| src-ourchinastory | 东莞长安镇：一座代工厂如何砌出手机王国 | 当代中国 | 2 strong | 2026-02-25 | |
+| src-163-20260804 | 全球近1/4智能手机出自东莞，产业配套率超90% | 网易/南都 | 2 strong | 2026-08-04 | https://news.qq.com/rain/a/20260805A036BD00 |
+| src-scol-202404 | 从一部手机看世界工厂蝶变 | 四川在线 | 2 strong | 2024-04 | |
+| src-stcn-2024 | 补齐产业链短板，东莞向世界级智能终端集群冲击 | 证券时报 | 2 strong | 2024 | |
+| src-qianzhan | 2023东莞智能终端产业链分析 | 前瞻产业研究院 | 3 discovery | 2022-12 | |
 
 ## FACT (primary-sourced)
 

@@ -8,12 +8,10 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-sina-cixi | 慈溪千亿小家电，变了新模样 | 新浪财经 | 1 一手财经媒体 | 2026-03-15 |
-| src-wiki-cixi | Cixi, Zhejiang | Wikipedia (EN) | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-sina-cixi | 慈溪千亿小家电，变了新模样 | 新浪财经 | 1 一手财经媒体 | 2026-03-15 | |
+| src-wiki-cixi | Cixi, Zhejiang | Wikipedia (EN) | 3 discovery | 2026 | https://grokipedia.com/page/Cixi,_Zhejiang |
 
 ## FACT（一手源）
 

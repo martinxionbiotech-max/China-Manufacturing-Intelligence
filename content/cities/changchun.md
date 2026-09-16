@@ -74,6 +74,6 @@ That signals domestic-brand cost structures and a growing near-site parts ecosys
 
 ## Sources
 
-1. "汽势如虹驰骋产业赛道——长春汽车产业集群发展综述" (2024).
+1. "汽势如虹驰骋产业赛道——长春汽车产业集群发展综述" (2024). https://www.jl.gov.cn/yaowen/202511/t20251118_3512191.html
 2. "长春八个重点产业、两项保障优势、两大发展平台" (2024).
 3. Changchun auto cluster (cls-changchun-auto).

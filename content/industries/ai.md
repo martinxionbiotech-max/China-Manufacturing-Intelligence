@@ -66,5 +66,5 @@ That matters because "AI" is too broad a sourcing category. Split software and a
 
 ## Sources
 
-1. 新华网/CNNIC, "2024年我国人工智能产业规模突破7000亿元" (2025).
+1. 新华网/CNNIC, "2024年我国人工智能产业规模突破7000亿元" (2025). https://www.news.cn/tech/20250722/dfbf9250831344b0be337aa239977265/c.html
 2. Hefei intelligent voice cluster (cls-hefei-intelligent-voice).

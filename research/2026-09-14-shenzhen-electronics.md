@@ -8,20 +8,18 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-miit-2022 | 工信部公布45个国家先进制造业集群名单 | 工信部/新华网 | 1 primary | 2022-11-30 |
-| src-people-sz-20220407 | 深圳去年电子信息制造业产值达2.48万亿元 | 深圳特区报/人民网 | 1 primary | 2023-04-07 |
-| src-stcn-20230727 | 锚定世界级高地 深圳新一代信息通信产业全球争先 | 证券时报 | 2 strong | 2023-07-27 |
-| src-c114-20240123 | CITE2024 深圳电子信息产业 | C114通信网 | 2 strong | 2024-01-23 |
-| src-sz-gov-baoan | 新一代电子信息产业（宝安区） | 深圳政府在线 | 1 primary | 2025-06-30 |
-| src-sz-gov-2024-annual | 深圳2024经济年报（规上工业5.4万亿） | 深圳政府在线/统计局 | 1 primary | 2025 |
-| src-sz-customs-2024 | 深圳进出口规模达4.5万亿 重返外贸首位 | 深圳特区报/深圳海关 | 1 primary | 2025-01-20 |
-| src-people-hwb-20250122 | 超9万亿！广东外贸上台阶（盐田港1503万标箱） | 人民日报海外版 | 1 primary | 2025-01-22 |
-| src-sz-jtys-20241128 | 深圳港集装箱吞吐量破3000万标箱 | 深圳交通运输局 | 1 primary | 2024-11-28 |
-| src-greentime | Shenzhen Electronics Manufacturing Guide | Greentime (sourcing) | 3 discovery | n.d. |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-miit-2022 | 工信部公布45个国家先进制造业集群名单 | 工信部/新华网 | 1 primary | 2022-11-30 | |
+| src-people-sz-20220407 | 深圳去年电子信息制造业产值达2.48万亿元 | 深圳特区报/人民网 | 1 primary | 2023-04-07 | http://sz.people.com.cn/n2/2023/0407/c202846-40367212.html |
+| src-stcn-20230727 | 锚定世界级高地 深圳新一代信息通信产业全球争先 | 证券时报 | 2 strong | 2023-07-27 | |
+| src-c114-20240123 | CITE2024 深圳电子信息产业 | C114通信网 | 2 strong | 2024-01-23 | |
+| src-sz-gov-baoan | 新一代电子信息产业（宝安区） | 深圳政府在线 | 1 primary | 2025-06-30 | |
+| src-sz-gov-2024-annual | 深圳2024经济年报（规上工业5.4万亿） | 深圳政府在线/统计局 | 1 primary | 2025 | |
+| src-sz-customs-2024 | 深圳进出口规模达4.5万亿 重返外贸首位 | 深圳特区报/深圳海关 | 1 primary | 2025-01-20 | |
+| src-people-hwb-20250122 | 超9万亿！广东外贸上台阶（盐田港1503万标箱） | 人民日报海外版 | 1 primary | 2025-01-22 | http://paper.people.com.cn/rmrbhwb/pc/content/202501/22/content_30053327.html |
+| src-sz-jtys-20241128 | 深圳港集装箱吞吐量破3000万标箱 | 深圳交通运输局 | 1 primary | 2024-11-28 | |
+| src-greentime | Shenzhen Electronics Manufacturing Guide | Greentime (sourcing) | 3 discovery | n.d. | |
 
 ## FACT (primary-sourced, verified)
 

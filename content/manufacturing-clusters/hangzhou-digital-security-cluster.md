@@ -73,6 +73,6 @@ Hikvision and Dahua holding roughly 65% of a global market is rare outside tech.
 
 ## Sources
 
-1. 新浪科技, "安防领域'千年老二'，大华股份真的会甘心吗？," 2024-08 (财经媒体).
-2. OFweek 维科号, "海康威视相当于5个大华股份，两者市值相差2000亿," 2024 (行业媒体).
-3. 海康威视官网, "杭州海康威视数字技术股份有限公司资料," 2024 (公司官网).
+1. 新浪科技, "安防领域'千年老二'，大华股份真的会甘心吗？," 2024-08 (财经媒体). https://finance.sina.com.cn/tech/roll/2024-08-26/doc-inckykwx9569556.shtml
+2. OFweek 维科号, "海康威视相当于5个大华股份，两者市值相差2000亿," 2024 (行业媒体). https://mp.ofweek.com/iot/a056714219437
+3. 海康威视官网, "杭州海康威视数字技术股份有限公司资料," 2024 (公司官网). https://www.hikvision.com/cn/document/2022-04-29

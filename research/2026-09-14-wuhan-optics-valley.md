@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-wehdz | 世界光谷（东湖高新区官网） | wehdz.gov.cn（政府官网） | 1 一手源 | 2026 |
-| src-ifeng-guanggu | 武汉光谷深耕硬科技 | 凤凰网（ifeng） | 1 一手媒体 | 2026 |
-| src-wiki-yofc | YOFC (Yangtze Optical Fibre and Cable) | Wikipedia (EN) | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-wehdz | 世界光谷（东湖高新区官网） | wehdz.gov.cn（政府官网） | 1 一手源 | 2026 | |
+| src-ifeng-guanggu | 武汉光谷深耕硬科技 | 凤凰网（ifeng） | 1 一手媒体 | 2026 | |
+| src-wiki-yofc | YOFC (Yangtze Optical Fibre and Cable) | Wikipedia (EN) | 3 discovery | 2026 | https://www.facebook.com/YangtzeOpticalFibreAndCable |
 
 ## FACT（一手源）
 

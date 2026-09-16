@@ -77,4 +77,4 @@ USTC seeded the research and iFlytek industrialized it, which is why Hefei wins 
 
 ## Sources
 
-1. 中国 IT 资本 (chinaitcapital.com), "中国声谷｜先'声'夺人 奏AI产业强音," 2026 (行业媒体).
+1. 中国 IT 资本 (chinaitcapital.com), "中国声谷｜先'声'夺人 奏AI产业强音," 2026 (行业媒体). https://www.chinaitcapital.com/detail/186

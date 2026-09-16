@@ -77,6 +77,6 @@ For low-voltage apparatus, Wenzhou (Yueqing) is the correct anchor, with the cav
 ## Sources
 
 1. 新华网浙江, "双万城市进阶观察丨浙江温州" (2025).
-2. 温州市政府工作报告 / 统计局, "温州大连GDP超万亿" (2025).
+2. 温州市政府工作报告 / 统计局, "温州大连GDP超万亿" (2025). https://paper.people.com.cn/zgjjzk/pc/content/202601/30/content_30138953.html
 3. 新华网, "跻身全国第28座万亿之城" (2025).
 4. Wenzhou electrical cluster (cls-wenzhou-electrical).

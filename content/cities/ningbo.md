@@ -76,7 +76,7 @@ So Ningbo is the correct anchor for finished NdFeB magnets (downstream of ore) a
 
 ## Sources
 
-1. 新华网/浙江日报, "2024年宁波三大新兴产业实现两位数增长" (2025).
+1. 新华网/浙江日报, "2024年宁波三大新兴产业实现两位数增长" (2025). http://zj.people.com.cn/n2/2025/0220/c186327-41141041.html
 2. 21经济网, "宁波数智化转型" (2025).
 3. 宁波市政府工作报告 (2025).
 4. Ningbo magnetic materials cluster (cls-ningbo-magnetic-materials).

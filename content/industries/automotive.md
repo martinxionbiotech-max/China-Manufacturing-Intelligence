@@ -68,7 +68,7 @@ Export and compliance NEVs go to Shanghai; domestic-brand cost structures go to 
 
 ## Sources
 
-1. 中国汽车工业协会, "中国汽车产销总量连续十六年全球第一" (2025).
+1. 中国汽车工业协会, "中国汽车产销总量连续十六年全球第一" (2025). http://paper.people.com.cn/rmrbhwb/pc/content/202501/14/content_30051632.html
 2. 中国汽车工业协会, "连续16年稳居全球第一！中国汽车2024年产销量" (2025).
 3. 深圳市发展和改革委员会, "全球新能源汽车含'深'度加速提升" (2025).
 4. Changchun auto cluster (cls-changchun-auto).

@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-csft-carbon | 常州新北：碳链"先为"，打造碳纤维及复合材料集群发展新优势 | 碳纤维及复合材料展会官网 | 2 行业源 | 2024 |
-| src-sinofibers | 中简科技 2025 年年度报告 | 新浪财经（上市公司年报） | 1 一手源（年报） | 2025 |
-| src-xinhua-changzhou | 纪录又刷新！"世界级"就在常州北！ | 新华网 | 1 一手源（央媒） | 2025-12 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-csft-carbon | 常州新北：碳链"先为"，打造碳纤维及复合材料集群发展新优势 | 碳纤维及复合材料展会官网 | 2 行业源 | 2024 | https://www.csft-expo.com.cn/news_18/182.html |
+| src-sinofibers | 中简科技 2025 年年度报告 | 新浪财经（上市公司年报） | 1 一手源（年报） | 2025 | https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300777&id=12088410 |
+| src-xinhua-changzhou | 纪录又刷新！"世界级"就在常州北！ | 新华网 | 1 一手源（央媒） | 2025-12 | http://jjckb.xinhuanet.com/20251229/fc4305670def48078c203354c57fbe32/c.html |
 
 ## FACT（一手源/行业源）
 

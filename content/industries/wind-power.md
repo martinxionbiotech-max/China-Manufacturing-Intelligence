@@ -66,5 +66,5 @@ For offshore-wind turbines and systems, anchor to Yancheng (Goldwind), and pair 
 ## Sources
 
 1. 国家能源局/维基百科, "中华人民共和国风力发电" (2025).
-2. "中国风引领全球风电再攀高峰" (2025).
+2. "中国风引领全球风电再攀高峰" (2025). https://paper.people.com.cn/zgnyb/pc/content/202505/12/content_30073613.html
 3. Yancheng wind power cluster (cls-yancheng-wind-power).

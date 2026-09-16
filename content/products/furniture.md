@@ -39,13 +39,15 @@ parts exports were **US$67.88 billion (+5.8%)** [1]. China is the world's larges
 
 ## Original analysis
 
-*Inference:* Furniture is a **market-plus-factory cluster** — Lecong's 2M m² showroom floor is the
-discovery layer, with 30,000+ makers behind it. The flat domestic market (+0.4%) against faster exports
-(+5.8%) signals a sector leaning on overseas demand and brand consolidation.
+*Inference:* As a product category (HS 9403), furniture sourcing in China runs on a **discovery-then-
+production workflow**: Lecong's 2M m² showroom floor is where buyers compare thousands of suppliers in
+one walk, and the 30,000+ Shunde makers behind it are the production tail. The flat domestic market
+(+0.4%) against faster exports (+5.8%) means the commodity end of the category is structurally
+low-margin — value has shifted to branded home-furnishing and custom/ODM work.
 
-*Opinion:* For buyers, Foshan is the correct anchor for **multi-category furniture sourcing** (walk
-Lecong). Expect commodity margins to stay thin; anchor on branded home-furnishing or custom/ODM rather
-than commodity volume. Pair Foshan with Dongguan's world-class furniture events.
+*Opinion:* For buyers, use Foshan as the **shortlist engine**: walk Lecong to sample breadth, then
+anchor on branded or custom/ODM suppliers rather than commodity volume. Pair Foshan's manufacturing
+with Dongguan's furniture events for pan-home bundling.
 
 ## Buyer notes
 
@@ -55,9 +57,9 @@ than commodity volume. Pair Foshan with Dongguan's world-class furniture events.
 
 ## The Author's Take
 
-*In my view, Foshan is the right anchor for multi-category furniture sourcing because of one asset — Lecong's showroom floor, where you can physically compare thousands of suppliers in one place.*
+*In my view, furniture is one of the few categories where the showroom is the supply chain — no other product lets you compare 30,000 factories on foot.*
 
-But the flat domestic market means commodity margins stay thin. The play is to walk Lecong for discovery, then anchor on branded home-furnishing suppliers rather than the anonymous factory long tail.
+That is Lecong's real asset: compressed discovery. But discovery is not the same as margin — the flat domestic market means commodity furniture stays thin, and the durable play is branded or custom work discovered at Lecong, produced in Shunde.
 
 *This is my editorial judgment, not a verified fact — the sourced figures are above.*
 

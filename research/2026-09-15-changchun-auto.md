@@ -8,14 +8,12 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-jlgov-auto | "汽"势如虹驰骋产业赛道——长春汽车产业集群发展综述 | 吉林省人民政府 | 1 一手源（政府官网） | 2025-11 |
-| src-caida-auto | 从"汽车城"到"新集群" 长春汽车产业转型升级 | 长春日报（caida.gov.cn） | 1 一手源（党媒） | 2026-01 |
-| src-cri-auto | "链"力十足 长春汽车产业集群提速"上台阶" | 中央广播电视总台国际在线 | 1 一手源（央媒） | 2023-03 |
-| src-xinhua-auto | 向"新"增"智"聚"链"做"优"——长春汽车产业集群成长路径一线调查 | 新华网吉林 | 1 一手源（央媒） | 2024-04 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-jlgov-auto | "汽"势如虹驰骋产业赛道——长春汽车产业集群发展综述 | 吉林省人民政府 | 1 一手源（政府官网） | 2025-11 | https://www.jl.gov.cn/yaowen/202511/t20251118_3512191.html |
+| src-caida-auto | 从"汽车城"到"新集群" 长春汽车产业转型升级 | 长春日报（caida.gov.cn） | 1 一手源（党媒） | 2026-01 | http://www.caida.gov.cn/ztzl/mtjj/202601/t20260113_3459992.html |
+| src-cri-auto | "链"力十足 长春汽车产业集群提速"上台阶" | 中央广播电视总台国际在线 | 1 一手源（央媒） | 2023-03 | https://jl.cri.cn/2023-03-20/a19daf78-8182-9b7e-797d-a4e113666b57.html |
+| src-xinhua-auto | 向"新"增"智"聚"链"做"优"——长春汽车产业集群成长路径一线调查 | 新华网吉林 | 1 一手源（央媒） | 2024-04 | http://www.jl.xinhua.org/20240415/4fc1916ccc5343fe8d865b5d0c291a38/c.html |
 
 ## FACT（一手源）
 

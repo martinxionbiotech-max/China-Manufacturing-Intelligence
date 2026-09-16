@@ -73,5 +73,5 @@ Ningde is unavoidable for high-performance cells, but the concentration argues f
 
 ## Sources
 
-1. 人民网, "宁德四大主导产业地标'拔节生长'" (2025).
+1. 人民网, "宁德四大主导产业地标'拔节生长'" (2025). http://fj.people.com.cn/n2/2025/1015/c181466-41380393.html
 2. Ningde power battery cluster (cls-ningde-power-battery).

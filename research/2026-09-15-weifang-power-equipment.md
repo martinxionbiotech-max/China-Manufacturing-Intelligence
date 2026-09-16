@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-52hrtt-weifang | 新派观察 | 山东潍坊：产业建在链上 | 华人头条 | 2 媒体 | 2025 |
-| src-hongheiku-weifang | 2024年潍坊市国民经济和社会发展统计公报 | 潍坊市统计局 | 1 一手源（政府统计） | 2025-03 |
-| src-wfbinhai-weifang | 潍坊滨海经济技术开发区2024年工作要点 | 潍坊滨海经开区 | 1 一手源（政府） | 2024 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-52hrtt-weifang | 新派观察 | 山东潍坊：产业建在链上 | 华人头条 | 2 媒体 | 2025 | |
+| src-hongheiku-weifang | 2024年潍坊市国民经济和社会发展统计公报 | 潍坊市统计局 | 1 一手源（政府统计） | 2025-03 | https://tjgb.hongheiku.com/xjtjgb/xj2020/57624.html |
+| src-wfbinhai-weifang | 潍坊滨海经济技术开发区2024年工作要点 | 潍坊滨海经开区 | 1 一手源（政府） | 2024 | http://wfbinhai.gov.cn/124/39052/6315496.html |
 
 ## FACT（一手源）
 

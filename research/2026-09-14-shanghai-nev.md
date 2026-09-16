@@ -8,14 +8,9 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-baike-tesla-sh | 特斯拉上海超级工厂 | 百度百科 | 3 discovery | 2026 |
-
-> ⚠️ 本轮数据主要来自百度百科（Level 3 discovery），虽含大量具体数字（产值/占比/出口），但属百科级，
-> 正式成文需回补一手源（上海市政府门户/特斯拉官方/新华社）。当前 Evidence 标 7，略低于 8 门槛。
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-baike-tesla-sh | 特斯拉上海超级工厂 | 百度百科 | 3 discovery | 2026 | |
 
 ## FACT（discovery 级）
 

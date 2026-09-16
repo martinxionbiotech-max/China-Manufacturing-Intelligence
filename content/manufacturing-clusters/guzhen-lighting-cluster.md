@@ -61,6 +61,11 @@ Asia-Pacific's largest lighting exhibition [5]. The 33rd edition (October 2025) 
 The fair is not a side event; it is the cluster's sales and design engine, converting Guzhen from
 a manufacturing base into a "buy global, sell global" trading hub [2][7].
 
+For a buyer, the fair calendar is the practical entry point: the spring and autumn editions let
+an overseas buyer survey the entire 30,000-firm cluster in days, with Guangzhou Baiyun and
+Shenzhen Bao'an airports both within reach. No other lighting origin in the world compresses
+discovery this efficiently.
+
 ## The industry today: from decorative to smart and LED
 
 Guzhen's structure is shifting from traditional decorative lighting toward modern LED and smart
@@ -68,6 +73,39 @@ lighting. The traditional-to-modern ratio is now roughly 3:7, with modern lighti
 replacing traditional ones at an annual rate of 5–10% [4]. The town is pushing smart lighting
 (AI dimming, scene control), green materials, and cross-border e-commerce, and has launched
 China's first lighting-industry AI large-model platform [2][7].
+
+*Inference:* the AI platform launch is the tell. A cluster born from a copied lamp is now
+trying to own the design layer — AI-assisted product generation — rather than just the assembly
+layer. That is the classic trade-cluster upgrade path: start as imitators, scale on speed and
+price, then capture design and data.
+
+## The industry context: a softening national market
+
+Guzhen sits inside a large but cooling national lighting market. China's lighting industry has
+run at roughly RMB 600 billion in annual sales during the 14th Five-Year Plan period; exports
+reached US$56.1 billion in 2024 [2]. The softening is visible at the margin: exports in the first
+eight months of 2025 were US$34.4 billion, down 6.7% year-on-year [2]. Guzhen's share metrics
+(70% domestic / 50% global) are therefore a share of a shrinking pie — concentration rising as
+the market consolidates, with the survivors increasingly the modern-LED and export-capable tier.
+
+## How to read the numbers (honesty notes)
+
+- The **70% / 50% shares** are association and government calibers (China Association of Lighting
+  Industry, 2015; Xinhua) — treat as "reported," not audited.
+- The **RMB 100B+ output** is the *cluster* scope — Guzhen town plus the radiating 3-city,
+  11-township belt — not the town alone.
+- **Entity counts vary by source**: 30,000+ operating entities (Xinhua), ~38,000 (Qianzhan),
+  45,000+ (GDToday), up to 45,699 registered (encyclopedia). Use "30,000+ operating, up to ~45,700
+  registered" and expect the figures to keep moving with registration churn.
+
+## The two-speed upgrade: modern lines replacing traditional
+
+The cluster is transitioning at two speeds. Traditional decorative lines still anchor the
+heritage and the fair's identity, but modern LED/smart lines are replacing them at 5–10% a
+year, and the town has launched China's first lighting-industry AI large-model platform
+[4][7]. The practical consequence: Guzhen is now two overlapping supply pools — a fast,
+cheap commodity pool and a modern, design-tracked pool. Buyers should route the spec to the
+right pool rather than treating the town as one product class.
 
 ## The honest caveats
 
@@ -93,6 +131,8 @@ through this lens: it remains the cheapest and fastest source, but the cluster i
 - **Exhibition access:** the twice/thrice-yearly Guzhen Lighting Fair is the practical way to
   survey the cluster in person; overseas buyers can also reach it easily via Guangzhou Baiyun or
   Shenzhen Bao'an airports.
+- **Route by pool:** commodity/price-sensitive programs to the traditional pool; design-led,
+  smart, or spec-critical programs to the modern LED/smart pool [4][7].
 - **Caveats:** upstream LED chip sourcing is not Guzhen's strength; for high-end or
   spec-critical components, buyers should verify the supply origin. The cluster is price- and
   speed-oriented, not technology-differentiated.
@@ -103,7 +143,7 @@ through this lens: it remains the cheapest and fastest source, but the cluster i
 - **Annual output RMB 100B+** (radiating 3 cities, 11 townships) [2].
 - **30,000+ lighting entities** (45,000+ registered), 200,000+ workers [1][4].
 - **Traditional-to-modern ratio ~3:7**, modern replacing traditional at 5–10%/yr [4].
-- **China lighting exports US$34.4B (Jan–Aug 2025), −6.7% YoY** [2].
+- **China lighting exports US$34.4B (Jan–Aug 2025), −6.7% YoY**; 2024 full-year US$56.1B; national annual sales ~RMB 600B [2].
 
 ## Original analysis
 
@@ -129,6 +169,6 @@ Its "grassroots imitation + trade circulation" mechanism means it is the right p
 2. 南方都市报, "中山古镇灯饰持续擦亮金字招牌，超千亿集群迈向国际化," 2025-10-23.
 3. 中山市档案馆, "古镇灯饰产业（专记）."
 4. 证券时报, "古镇再转型：千亿照明产业集群落新子," 2024.
-5. 南方网 GDToday, "Zhongshan's Guzhen, capital of lighting equipment," 2024.
-6. 中山网/中山+, "16万人次见证'灯都'力量," 2025-10-26.
+5. 南方网 GDToday, "Zhongshan's Guzhen, capital of lighting equipment," 2024. https://goguangdong.southcn.com/node_7684524c17/4f44c18397.shtml
+6. 中山网/中山+, "16万人次见证'灯都'力量," 2025-10-26. https://www.zsnews.cn/town/index/view/cateid/1218/id/762791.html
 7. 古镇灯博会官网 (GILF), "Guzhen — Lighting Capital of China," 2024.

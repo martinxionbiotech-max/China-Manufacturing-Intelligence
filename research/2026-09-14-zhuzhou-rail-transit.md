@@ -8,20 +8,18 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-gxt-hunan-20240826 | 株洲先进轨道交通装备集群："四轮"驱动 | 湖南省工信厅 | 1 primary | 2024-08-26 |
-| src-gxt-hunan-20241224 | 重与变——株洲先进轨道交通装备产业发展观察 | 湖南省工信厅 | 1 primary | 2024-12-24 |
-| src-sasac-en-20230509 | CRRC Accelerates Innovation, Serving Domestic & Intl Markets | 国资委英文网 | 1 primary | 2023-05-09 |
-| src-sasac | 中车株机：龙头企业引领 打造世界级轨道交通装备产业集群 | 国资委 | 1 primary | 2022-08-02 |
-| src-hunan-gov-20240816 | 轨道交通产业：链上裂变 生态丰盈 | 湖南省政府门户 | 1 primary | 2024-08-16 |
-| src-rmlt-20240708 | 中国中车稳居全球规模最大轨道交通装备供应商 | 人民论坛/人民日报 | 1 primary | 2024-07-08 |
-| src-people-20231206 | 湖南株洲：从"两条轨道"出发 打造千亿级产业集群 | 人民网 | 1 primary | 2023-12-06 |
-| src-hnzy-2023 | 轨通天下 智联未来（第三届轨博会） | 湖南政研网 | 1 primary | 2023 |
-| src-shifeng-20250422 | 株洲轨道交通装备产业集群一季度开门红 | 湖南卫视/石峰新闻网 | 2 strong | 2025-04-22 |
-| src-voc-20230301 | 株洲市轨道交通装备集群：崛起国际"产业新地标" | 华声在线 | 2 strong | 2023-03-01 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-gxt-hunan-20240826 | 株洲先进轨道交通装备集群："四轮"驱动 | 湖南省工信厅 | 1 primary | 2024-08-26 | |
+| src-gxt-hunan-20241224 | 重与变——株洲先进轨道交通装备产业发展观察 | 湖南省工信厅 | 1 primary | 2024-12-24 | |
+| src-sasac-en-20230509 | CRRC Accelerates Innovation, Serving Domestic & Intl Markets | 国资委英文网 | 1 primary | 2023-05-09 | http://en.sasac.gov.cn/2023/05/09/c_15217.htm |
+| src-sasac | 中车株机：龙头企业引领 打造世界级轨道交通装备产业集群 | 国资委 | 1 primary | 2022-08-02 | |
+| src-hunan-gov-20240816 | 轨道交通产业：链上裂变 生态丰盈 | 湖南省政府门户 | 1 primary | 2024-08-16 | |
+| src-rmlt-20240708 | 中国中车稳居全球规模最大轨道交通装备供应商 | 人民论坛/人民日报 | 1 primary | 2024-07-08 | |
+| src-people-20231206 | 湖南株洲：从"两条轨道"出发 打造千亿级产业集群 | 人民网 | 1 primary | 2023-12-06 | |
+| src-hnzy-2023 | 轨通天下 智联未来（第三届轨博会） | 湖南政研网 | 1 primary | 2023 | |
+| src-shifeng-20250422 | 株洲轨道交通装备产业集群一季度开门红 | 湖南卫视/石峰新闻网 | 2 strong | 2025-04-22 | |
+| src-voc-20230301 | 株洲市轨道交通装备集群：崛起国际"产业新地标" | 华声在线 | 2 strong | 2023-03-01 | |
 
 ## FACT (primary-sourced)
 

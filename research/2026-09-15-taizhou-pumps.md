@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-zjol-taizhou | 玉环，合力打造精密泵阀"新星"产业群 | 浙江在线（台州频道） | 1 一手源（党媒） | 2025-01 |
-| src-jdzj-taizhou | 2024中国（台州）工业博览会暨电机与水泵展览会 | 机电之家网 | 2 行业源 | 2024 |
-| src-zast-taizhou | 2024国际工程大会丨打造工程师之城 | 浙江省科协 | 1 一手源（政府） | 2024-11 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-zjol-taizhou | 玉环，合力打造精密泵阀"新星"产业群 | 浙江在线（台州频道） | 1 一手源（党媒） | 2025-01 | https://tz.zjol.com.cn/tzxw/202501/t20250112_30767682.shtml |
+| src-jdzj-taizhou | 2024中国（台州）工业博览会暨电机与水泵展览会 | 机电之家网 | 2 行业源 | 2024 | https://lyw829.jdzj.com/supplyinfo-5-31144316.html |
+| src-zast-taizhou | 2024国际工程大会丨打造工程师之城 | 浙江省科协 | 1 一手源（政府） | 2024-11 | https://www.zast.org.cn/art/2024/11/4/art_1673864_58974809.html |
 
 ## FACT（一手源）
 

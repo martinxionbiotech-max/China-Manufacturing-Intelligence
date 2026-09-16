@@ -79,5 +79,5 @@ Its value is re-bundling: ceramics and appliances from Foshan plus furniture fro
 ## Sources
 
 1. 东莞市工业和信息化局, "2024年持续推进佛莞'泛家居'产业集群建设" (政府官网).
-2. 广东家具网, "定了！2024世界级家具产业集群活动将在东莞举办！," 2024 (行业源).
-3. 粤港澳大湾区门户网, "广深佛莞惠中上榜！中国百强产业集群出炉，广东入选12个排前三," 2024 (政府).
+2. 广东家具网, "定了！2024世界级家具产业集群活动将在东莞举办！," 2024 (行业源). https://www.gde.cc/industry/244.html
+3. 粤港澳大湾区门户网, "广深佛莞惠中上榜！中国百强产业集群出炉，广东入选12个排前三," 2024 (政府). https://www.cnbayarea.org.cn/city/foshan/zxdt/content/post_1235673.html

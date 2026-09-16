@@ -8,18 +8,16 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-xinhua-20260510 | "义乌发展经验"引领打造因地制宜发展的县域经济样本 | 新华网 | 1 primary | 2026-05-10 |
-| src-china-com-20260531 | 创新溯源：义乌小商品何以"闯出"全球大市场？ | 中国网 | 1 primary | 2026-05-31 |
-| src-sjtu-crdc | 义乌商品拓"买卖全球"通路（案例研究） | 上海交大案例中心 | 1 primary | 2024-12-17 |
-| src-xinhua-20241118 | 义乌中欧班列开行十年为"世界超市"持续注入活力 | 新华网 | 1 primary | 2024-11-18 |
-| src-people-20221025 | "1039模式"，让中小微出海变简单 | 人民日报海外版 | 1 primary | 2022-10-25 |
-| src-yidaiyilu | 浙江义乌：奋力助推小商品勇闯大市场 | 中国一带一路网 | 1 primary | 2024 |
-| src-yiwugo | Yiwu Commodity Market Introduction | 义乌购官网 | 1 primary | 2024 |
-| src-goldenshiny | Yiwu Market Statistics | 第三方采购指南 | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-xinhua-20260510 | "义乌发展经验"引领打造因地制宜发展的县域经济样本 | 新华网 | 1 primary | 2026-05-10 | |
+| src-china-com-20260531 | 创新溯源：义乌小商品何以"闯出"全球大市场？ | 中国网 | 1 primary | 2026-05-31 | |
+| src-sjtu-crdc | 义乌商品拓"买卖全球"通路（案例研究） | 上海交大案例中心 | 1 primary | 2024-12-17 | |
+| src-xinhua-20241118 | 义乌中欧班列开行十年为"世界超市"持续注入活力 | 新华网 | 1 primary | 2024-11-18 | |
+| src-people-20221025 | "1039模式"，让中小微出海变简单 | 人民日报海外版 | 1 primary | 2022-10-25 | http://paper.people.com.cn/rmrbhwb/html/2022-10/25/content_25945465.htm |
+| src-yidaiyilu | 浙江义乌：奋力助推小商品勇闯大市场 | 中国一带一路网 | 1 primary | 2024 | |
+| src-yiwugo | Yiwu Commodity Market Introduction | 义乌购官网 | 1 primary | 2024 | |
+| src-goldenshiny | Yiwu Market Statistics | 第三方采购指南 | 3 discovery | 2026 | |
 
 ## FACT (primary-sourced)
 

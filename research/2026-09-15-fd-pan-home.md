@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-dg-panhome | 东莞市工业和信息化局（2024 年持续推进佛莞"泛家居"产业集群建设） | 东莞市人民政府 | 1 一手源（政府官网 PDF） | 2024 |
-| src-gde-panhome | 定了！2024 世界级家具产业集群活动将在东莞举办！ | 广东家具网 | 2 行业源 | 2024 |
-| src-cnbayarea-panhome | 广深佛莞惠中上榜！中国百强产业集群出炉，广东入选12个排前三 | 粤港澳大湾区门户网 | 1 一手源（政府） | 2024 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-dg-panhome | 东莞市工业和信息化局（2024 年持续推进佛莞"泛家居"产业集群建设） | 东莞市人民政府 | 1 一手源（政府官网 PDF） | 2024 | |
+| src-gde-panhome | 定了！2024 世界级家具产业集群活动将在东莞举办！ | 广东家具网 | 2 行业源 | 2024 | https://www.gde.cc/industry/244.html |
+| src-cnbayarea-panhome | 广深佛莞惠中上榜！中国百强产业集群出炉，广东入选12个排前三 | 粤港澳大湾区门户网 | 1 一手源（政府） | 2024 | https://www.cnbayarea.org.cn/city/foshan/zxdt/content/post_1235673.html |
 
 ## FACT（一手源）
 

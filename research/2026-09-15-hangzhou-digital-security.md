@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-sina-hzsecurity | 安防领域"千年老二"，大华股份真的会甘心吗？ | 新浪科技 | 1 一手源（财经媒体） | 2024-08 |
-| src-ofweek-hzsecurity | 海康威视相当于5个大华股份，两者市值相差2000亿 | OFweek 维科号 | 2 行业媒体 | 2024 |
-| src-hikvision | 杭州海康威视数字技术股份有限公司资料 | 海康威视官网 | 1 一手源（公司官网） | 2024 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-sina-hzsecurity | 安防领域"千年老二"，大华股份真的会甘心吗？ | 新浪科技 | 1 一手源（财经媒体） | 2024-08 | https://finance.sina.com.cn/tech/roll/2024-08-26/doc-inckykwx9569556.shtml |
+| src-ofweek-hzsecurity | 海康威视相当于5个大华股份，两者市值相差2000亿 | OFweek 维科号 | 2 行业媒体 | 2024 | https://mp.ofweek.com/iot/a056714219437 |
+| src-hikvision | 杭州海康威视数字技术股份有限公司资料 | 海康威视官网 | 1 一手源（公司官网） | 2024 | https://www.hikvision.com/cn/document/2022-04-29 |
 
 ## FACT（一手源）
 

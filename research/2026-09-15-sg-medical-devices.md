@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-sina-mindray | 迈瑞医疗 2024 年年度报告 | 新浪财经（上市公司年报） | 1 一手源（年报） | 2025-04 |
-| src-lhq-medical | 龙华区发布《深圳国际医疗器械城总体发展规划（2024—2035年）》 | 深圳市龙华区人民政府 | 1 一手源（政府官网） | 2024 |
-| src-qianzhan-medical | 2024年深圳市高端医疗器械产业链全景 | 前瞻产业研究院 | 2 行业源 | 2024-12 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-sina-mindray | 迈瑞医疗 2024 年年度报告 | 新浪财经（上市公司年报） | 1 一手源（年报） | 2025-04 | https://www.fxbaogao.com/detail/4805876 |
+| src-lhq-medical | 龙华区发布《深圳国际医疗器械城总体发展规划（2024—2035年）》 | 深圳市龙华区人民政府 | 1 一手源（政府官网） | 2024 | https://www.szlhq.gov.cn/gkmlpt/content/11/11148/post_11148430.html |
+| src-qianzhan-medical | 2024年深圳市高端医疗器械产业链全景 | 前瞻产业研究院 | 2 行业源 | 2024-12 | https://bg.qianzhan.com/trends/detail/506/241209-1fcc15c0.html |
 
 ## FACT（一手源）
 

@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-wlxd-ezd | 探访浙江省高档数控机床技术创新中心 | 温岭日报 | 1 一手源（党媒） | 2026-08 |
-| src-cztv-ezd | 浙东工业母机集群：千企协同打造千亿产值 | 浙江广电 | 1 一手源（省级媒体） | 2024-12 |
-| src-zjic-ezd | 集群建设看"浙"里！"核心区+协同区"走出县域特色发展之路 | 浙江经信 | 1 一手源（政府） | 2024-12 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-wlxd-ezd | 探访浙江省高档数控机床技术创新中心 | 温岭日报 | 1 一手源（党媒） | 2026-08 | https://paper.wlxww.com/html/2026-08/03/content_3072495.htm?div=1 |
+| src-cztv-ezd | 浙东工业母机集群：千企协同打造千亿产值 | 浙江广电 | 1 一手源（省级媒体） | 2024-12 | https://www.cztv.com/newsDetail/715907 |
+| src-zjic-ezd | 集群建设看"浙"里！"核心区+协同区"走出县域特色发展之路 | 浙江经信 | 1 一手源（政府） | 2024-12 | https://zjic.zj.gov.cn/ywdh/qyfz/202412/t20241218_23120432.shtml |
 
 ## FACT（一手源）
 

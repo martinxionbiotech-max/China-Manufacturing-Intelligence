@@ -8,19 +8,17 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-hunan-gov-20250427 | 长沙工程机械"五龙出海" | 湖南省政府门户 | 1 primary | 2025-04-27 |
-| src-hunan-gov-202105 | 长沙，"工程机械之都"在崛起 | 湖南省政府门户 | 1 primary | 2021-05 |
-| src-stcn-2024 | "工程机械之都"长沙：五朵金花创新锻造大国重器 | 证券时报 | 2 strong | 2024 |
-| src-chinadaily-20230301 | 长沙市工程机械集群：引领行业争锋世界 | 中国日报 | 1 primary | 2023-03-01 |
-| src-chinadaily-20250515 | 长沙工程机械：中国制造走向海外的金色名片 | 中国日报 | 1 primary | 2025-05-15 |
-| src-scol-20240407 | 长沙工程机械集群如何走向世界舞台C位 | 四川在线 | 2 strong | 2024-04-07 |
-| src-hnzy-202109 | 山登绝顶人为峰（湖南政研网） | 湖南政研网 | 1 primary | 2021-09 |
-| src-rednet-20250512 | 长沙工程机械"五龙"加速出海 | 红网/长沙晚报 | 2 strong | 2025-05-12 |
-| src-mw1950-2022 | 世界级工程机械产业集群的发展探索（袁振） | 冷加工期刊 | 2 strong | 2022-12 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-hunan-gov-20250427 | 长沙工程机械"五龙出海" | 湖南省政府门户 | 1 primary | 2025-04-27 | http://www.hunan.gov.cn/hnyw/zwdt/202504/t20250427_33655734.html |
+| src-hunan-gov-202105 | 长沙，"工程机械之都"在崛起 | 湖南省政府门户 | 1 primary | 2021-05 | |
+| src-stcn-2024 | "工程机械之都"长沙：五朵金花创新锻造大国重器 | 证券时报 | 2 strong | 2024 | |
+| src-chinadaily-20230301 | 长沙市工程机械集群：引领行业争锋世界 | 中国日报 | 1 primary | 2023-03-01 | |
+| src-chinadaily-20250515 | 长沙工程机械：中国制造走向海外的金色名片 | 中国日报 | 1 primary | 2025-05-15 | |
+| src-scol-20240407 | 长沙工程机械集群如何走向世界舞台C位 | 四川在线 | 2 strong | 2024-04-07 | https://sichuan.scol.com.cn/ggxw/202404/82503278.html |
+| src-hnzy-202109 | 山登绝顶人为峰（湖南政研网） | 湖南政研网 | 1 primary | 2021-09 | |
+| src-rednet-20250512 | 长沙工程机械"五龙"加速出海 | 红网/长沙晚报 | 2 strong | 2025-05-12 | https://hn.rednet.cn/content/646949/56/14948357.html |
+| src-mw1950-2022 | 世界级工程机械产业集群的发展探索（袁振） | 冷加工期刊 | 2 strong | 2022-12 | |
 
 ## FACT (primary-sourced)
 

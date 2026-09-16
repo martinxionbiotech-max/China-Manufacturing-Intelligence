@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-stcn-hzb | "千亿产业新势能"系列之纺织工业篇：从"丝"到"衣"智能跃升 环杭州湾纺织服装集群"链"味十足 | 证券时报 | 1 一手源（财经媒体） | 2025-04 |
-| src-sina-hzb | 从"丝"到"衣"智能跃升！环杭州湾纺织服装集群"链"味十足 | 新浪财经 | 1 一手源（财经媒体转载） | 2025-04 |
-| src-cntac-hzb | 协同&创新全面推进集群治理现代化！2024中国纺织产业 | 中国纺织工业联合会 | 1 一手源（行业协会） | 2024-12 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-stcn-hzb | "千亿产业新势能"系列之纺织工业篇：从"丝"到"衣"智能跃升 环杭州湾纺织服装集群"链"味十足 | 证券时报 | 1 一手源（财经媒体） | 2025-04 | https://www.stcn.com/article/detail/1676913.html |
+| src-sina-hzb | 从"丝"到"衣"智能跃升！环杭州湾纺织服装集群"链"味十足 | 新浪财经 | 1 一手源（财经媒体转载） | 2025-04 | https://www.stcn.com/article/detail/1676913.html |
+| src-cntac-hzb | 协同&创新全面推进集群治理现代化！2024中国纺织产业 | 中国纺织工业联合会 | 1 一手源（行业协会） | 2024-12 | https://cntac.org.cn/zixun/hangye/202412/t20241207_4366495.html |
 
 ## FACT（一手源）
 

@@ -75,6 +75,6 @@ So it serves both commodity OEM (volume, price) and branded ODM (the Anta and Xt
 ## Sources
 
 1. 泉州市人民政府/泉州晚报, "龙头带动、融通发展！泉州万亿级产业链生态圈" (2024).
-2. "泉州三個產業集群上榜全國百強 佔據福建全省'半壁江山'" (2024).
+2. "泉州三個產業集群上榜全國百強 佔據福建全省'半壁江山'" (2024). http://fj.people.com.cn/BIG5/n2/2024/0324/c181466-40786477.html
 3. Jinjiang footwear cluster (cls-jinjiang-footwear).
 4. Quanzhou sports products cluster (cls-quanzhou-sports).

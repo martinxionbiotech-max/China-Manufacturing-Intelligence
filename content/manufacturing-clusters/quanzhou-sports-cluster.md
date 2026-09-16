@@ -76,6 +76,6 @@ ANTA, Xtep, and 361° climbed from contract work to global brands, and Jinjiang 
 
 ## Sources
 
-1. 经济日报, "福建泉州体育产品延链成群向高端," 2025-02 (央媒).
-2. 福建省人民政府门户网站, "'新质'成就'国货之光'," 2025-02 (政府官网).
-3. 泉州市人民政府, "创新方程式！看泉州最会搞经济的县域如何续写产业新奇迹," 2025-06 (政府官网).
+1. 经济日报, "福建泉州体育产品延链成群向高端," 2025-02 (央媒). http://paper.ce.cn/pad/content/202502/17/content_309171.html
+2. 福建省人民政府门户网站, "'新质'成就'国货之光'," 2025-02 (政府官网). https://fujian.gov.cn/zwgk/ztzl/gjcjgxgg/xld/202502/t20250217_6715255.htm
+3. 泉州市人民政府, "创新方程式！看泉州最会搞经济的县域如何续写产业新奇迹," 2025-06 (政府官网). https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/qzdt/qzyw/202506/t20250617_3180643.htm

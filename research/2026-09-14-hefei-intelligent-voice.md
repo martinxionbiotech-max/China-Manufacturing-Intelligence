@@ -8,11 +8,9 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-chinaitcapital-voice | 中国声谷｜先"声"夺人 奏AI产业强音 | 中国 IT 资本（chinaitcapital.com） | 2 行业媒体 | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-chinaitcapital-voice | 中国声谷｜先"声"夺人 奏AI产业强音 | 中国 IT 资本（chinaitcapital.com） | 2 行业媒体 | 2026 | https://www.chinaitcapital.com/detail/186 |
 
 ## FACT（行业源）
 

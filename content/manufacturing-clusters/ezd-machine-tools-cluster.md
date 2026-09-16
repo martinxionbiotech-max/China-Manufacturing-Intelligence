@@ -75,6 +75,6 @@ With roughly a fifth of national output, it is the right anchor for commodity an
 
 ## Sources
 
-1. 温岭日报, "探访浙江省高档数控机床技术创新中心," 2026-08 (党媒).
-2. 浙江广电, "浙东工业母机集群：千企协同打造千亿产值," 2024-12 (省级媒体).
-3. 浙江经信, "集群建设看'浙'里！'核心区+协同区'走出县域特色发展之路," 2024-12 (政府).
+1. 温岭日报, "探访浙江省高档数控机床技术创新中心," 2026-08 (党媒). https://paper.wlxww.com/html/2026-08/03/content_3072495.htm?div=1
+2. 浙江广电, "浙东工业母机集群：千企协同打造千亿产值," 2024-12 (省级媒体). https://www.cztv.com/newsDetail/715907
+3. 浙江经信, "集群建设看'浙'里！'核心区+协同区'走出县域特色发展之路," 2024-12 (政府). https://zjic.zj.gov.cn/ywdh/qyfz/202412/t20241218_23120432.shtml

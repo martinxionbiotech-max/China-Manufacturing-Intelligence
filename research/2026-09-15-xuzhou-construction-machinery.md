@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-sina-xcmg | 打造世界级先进制造业集群"链主企业" 徐工机械2024全年实现营收916.6亿元 | 新浪财经 | 1 一手源（上市公司年报口径） | 2025-05 |
-| src-jsgov-xuzhou | 徐州"343"创新产业集群规模达7800亿元 | 江苏省人民政府 | 1 一手源（政府官网） | 2025-01 |
-| src-sina-xuzhou | 徐州加快打造世界级工程机械产业集群 | 新浪财经 | 1 一手源（政府数据转载） | 2026-03 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-sina-xcmg | 打造世界级先进制造业集群"链主企业" 徐工机械2024全年实现营收916.6亿元 | 新浪财经 | 1 一手源（上市公司年报口径） | 2025-05 | https://finance.sina.com.cn/jjxw/2025-05-04/doc-inevmieq2292486.shtml |
+| src-jsgov-xuzhou | 徐州"343"创新产业集群规模达7800亿元 | 江苏省人民政府 | 1 一手源（政府官网） | 2025-01 | https://www.jiangsu.gov.cn/art/2025/1/23/art_84324_11480116.html |
+| src-sina-xuzhou | 徐州加快打造世界级工程机械产业集群 | 新浪财经 | 1 一手源（政府数据转载） | 2026-03 | https://finance.sina.com.cn/stock/relnews/cn/2026-03-24/doc-inhrzcpm3877217.shtml |
 
 ## FACT（一手源）
 

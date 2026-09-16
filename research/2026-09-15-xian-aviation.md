@@ -8,14 +8,12 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-stdaily-xian | 吹响航空产业"集结号"——西安举行大飞机规模化区域动员会 | 科技日报 | 1 一手源（央媒） | 2024-09 |
-| src-scol-xian | 寻链·新质生产力十城演义丨西安创"新"飞高 | 四川在线 | 2 媒体 | 2024-04 |
-| src-sina-xian | 西安阎良：2024年航空产业总产值超400亿元 | 新浪科技 | 2 媒体 | 2025-05 |
-| src-rmrb-xian | 西安推动航空产业规模化集聚化发展 | 人民日报 | 1 一手源（央媒） | 2025-08 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-stdaily-xian | 吹响航空产业"集结号"——西安举行大飞机规模化区域动员会 | 科技日报 | 1 一手源（央媒） | 2024-09 | https://www.stdaily.com/web/gdxw/2024-09/01/content_222529.html |
+| src-scol-xian | 寻链·新质生产力十城演义丨西安创"新"飞高 | 四川在线 | 2 媒体 | 2024-04 | https://sichuan.scol.com.cn/ggxw/202404/82516487.html |
+| src-sina-xian | 西安阎良：2024年航空产业总产值超400亿元 | 新浪科技 | 2 媒体 | 2025-05 | https://tech.sina.cn/2025-05-23/detail-inexnueq6475037.d.html?vt=4 |
+| src-rmrb-xian | 西安推动航空产业规模化集聚化发展 | 人民日报 | 1 一手源（央媒） | 2025-08 | https://paper.people.com.cn/rmrb/pc/content/202508/14/content_30095821.html |
 
 ## FACT（一手源）
 

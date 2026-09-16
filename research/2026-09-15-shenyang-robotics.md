@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-scol-shenyang | 寻链·新质生产力十城演义丨给机器人产业链装"充电宝"，沈阳探路破解"创新难" | 四川在线 | 2 媒体 | 2024-04 |
-| src-51job-shenyang | 沈阳新松机器人自动化股份有限公司 2024 招聘介绍 | 新松官网（51job 转载） | 1 一手源（公司） | 2024 |
-| src-siasun | 关于新松——中国机器人产业领军企业 | 新松官网 | 1 一手源（公司官网） | 2025 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-scol-shenyang | 寻链·新质生产力十城演义丨给机器人产业链装"充电宝"，沈阳探路破解"创新难" | 四川在线 | 2 媒体 | 2024-04 | https://sichuan.scol.com.cn/ggxw/202404/82503888.html |
+| src-51job-shenyang | 沈阳新松机器人自动化股份有限公司 2024 招聘介绍 | 新松官网（51job 转载） | 1 一手源（公司） | 2024 | http://campus.51job.com/siasunhr/about.html |
+| src-siasun | 关于新松——中国机器人产业领军企业 | 新松官网 | 1 一手源（公司官网） | 2025 | https://www.siasun.com/about.html |
 
 ## FACT（一手源）
 

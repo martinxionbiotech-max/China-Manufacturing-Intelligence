@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-ce-chenghai | 这座小城"玩"出新花样 | 经济日报 | 1 一手源（央媒） | 2024-12 |
-| src-cyol-chenghai | 在"玩博会"上 看汕头玩具如何"玩"转全球 | 中国青年报 | 1 一手源（央媒） | 2024-10 |
-| src-eastmoney-chenghai | 澄海"玩家"：如何掌握一个产业的全球近1/3产能？ | 东方财富 | 2 媒体 | 2024-10 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-ce-chenghai | 这座小城"玩"出新花样 | 经济日报 | 1 一手源（央媒） | 2024-12 | http://paper.ce.cn/pad/content/202412/30/content_306758.html |
+| src-cyol-chenghai | 在"玩博会"上 看汕头玩具如何"玩"转全球 | 中国青年报 | 1 一手源（央媒） | 2024-10 | http://m.cyol.com/gb/articles/2024-10/26/content_ajvL3jTBVx.html |
+| src-eastmoney-chenghai | 澄海"玩家"：如何掌握一个产业的全球近1/3产能？ | 东方财富 | 2 媒体 | 2024-10 | https://wap.eastmoney.com/a/202410283219945379.html |
 
 ## FACT（一手源）
 

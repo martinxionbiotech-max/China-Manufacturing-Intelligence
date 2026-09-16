@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-iqilu-qingdao | 青岛家电产业加速迈向高端 | 齐鲁网（山东广电） | 1 一手源（省级媒体） | 2025-03 |
-| src-ce-qingdao | 青岛：智能家电集群创新发展 | 中国经济网 | 1 一手源（央媒） | 2024-12 |
-| src-dzwww-qingdao | 青岛走在前｜智能家电：打破"天花板"，迈向"世界级" | 大众网 | 1 一手源（省级媒体） | 2025-02 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-iqilu-qingdao | 青岛家电产业加速迈向高端 | 齐鲁网（山东广电） | 1 一手源（省级媒体） | 2025-03 | https://news.iqilu.com/shandong/shandonggedi/20250317/5789023.shtml |
+| src-ce-qingdao | 青岛：智能家电集群创新发展 | 中国经济网 | 1 一手源（央媒） | 2024-12 | http://www.ce.cn/cysc/newmain/yc/jsxw/202412/26/t20241226_39247602.shtml |
+| src-dzwww-qingdao | 青岛走在前｜智能家电：打破"天花板"，迈向"世界级" | 大众网 | 1 一手源（省级媒体） | 2025-02 | https://sd.dzwww.com/sdnews/202502/t20250220_15542124.htm |
 
 ## FACT（一手源）
 

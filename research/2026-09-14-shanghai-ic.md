@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-yicai-zhangjiang | 集成电路产业规模占上海超六成 | 第一财经（yicai） | 1 一手财经媒体 | 2026 |
-| src-wiki-smic | SMIC | Wikipedia (EN) | 3 discovery | 2026 |
-| src-wiki-huahong | Hua Hong Semiconductor | Wikipedia (EN) | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-yicai-zhangjiang | 集成电路产业规模占上海超六成 | 第一财经（yicai） | 1 一手财经媒体 | 2026 | |
+| src-wiki-smic | SMIC | Wikipedia (EN) | 3 discovery | 2026 | https://www.linkedin.com/company/smic |
+| src-wiki-huahong | Hua Hong Semiconductor | Wikipedia (EN) | 3 discovery | 2026 | https://www.zoominfo.com/c/hua-hong-semiconductor-ltd/348227527 |
 
 ## FACT（一手源）
 

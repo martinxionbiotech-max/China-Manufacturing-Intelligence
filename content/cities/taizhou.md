@@ -74,7 +74,7 @@ For mid-to-high-end CNC machine tools and pumps and valves, Taizhou is the corre
 
 ## Sources
 
-1. 新华每日电讯, "台州先进制造业集群的'生长密码'" (2024).
+1. 新华每日电讯, "台州先进制造业集群的'生长密码'" (2024). http://www.zj.xinhuanet.com/20240502/56a3c28748b64e5d9be9db0ee292cd42/c.html
 2. 世界浙商网, "加速领跑！台州制造业高质量发展的秘诀" (2024).
 3. East-Zhejiang machine tools cluster (cls-ezd-machine-tools).
 4. Taizhou pumps cluster (cls-taizhou-pumps).

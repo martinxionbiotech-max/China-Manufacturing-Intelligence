@@ -39,13 +39,17 @@ Man Wah, Kuka).
 
 ## Original analysis
 
-*Inference:* Furniture is a **market-plus-factory cluster** — Lecong's 2M m² showroom floor is the
-discovery layer, with 30,000+ makers behind it. The flat domestic market + faster exports signal a
-sector leaning on overseas demand and brand consolidation, mirroring the building-materials cycle.
+*Inference:* As an industry, furniture's defining structure is a **market-led cluster**: the market
+(2M m² Lecong showroom floor) sits in front of the factory base (30,000+ makers), so distribution
+drives production rather than the reverse — the opposite of, say, a champion-anchored cluster. The
+combination of a flat domestic market and faster exports mirrors the building-materials cycle: domestic
+demand saturates, exports and brand consolidation absorb the surplus. That cycle favors branded
+home-furnishing (Oppein, Man Wah, Kuka tier) over the anonymous factory tail.
 
-*Opinion:* For buyers, Foshan is the correct anchor for **multi-category furniture sourcing** (walk
-Lecong). Expect commodity margins to stay thin; anchor on branded home-furnishing or custom/ODM rather
-than commodity volume. Pair Foshan's manufacturing with Dongguan's world-class furniture events.
+*Opinion:* Industry watchers should treat Foshan-Dongguan as a **single pan-home system**: Foshan
+supplies the manufacturing breadth and the discovery market, Dongguan supplies the trade events and
+cross-category bundling. The structural shift is from commodity volume to brand and custom value —
+companies that stay commodity-only inherit the thin end of the cycle.
 
 ## Buyer notes
 
@@ -55,9 +59,9 @@ than commodity volume. Pair Foshan's manufacturing with Dongguan's world-class f
 
 ## The Author's Take
 
-*In my view, furniture is a market-plus-factory cluster — Lecong's 2-million-square-meter showroom is the discovery layer, with 30,000-plus makers behind it.*
+*In my view, this industry is one of China's clearest cases of the market making the cluster — the showroom built the factories, not the other way around.*
 
-The flat domestic market and faster export growth mean the value is shifting to branded home furnishings. Foshan is the correct anchor for multi-category sourcing (walk Lecong), but anchor on brands, not the anonymous factory tail.
+That inheritance is also its constraint: distribution sits at the top of the value chain, so manufacturers stay price-takers unless they climb into brands. The building-materials cycle says the same thing: mature demand, consolidation, and exports do the growing.
 
 *This is my editorial judgment, not a verified fact — the sourced figures are above.*
 

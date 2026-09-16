@@ -77,5 +77,5 @@ YTO is the cradle of China's tractor industry, and Luoyang's uniqueness — rath
 
 ## Sources
 
-1. 国际在线（河南日报）, "洛阳现代农机装备集群入围'国家队' 千亿集群角逐世界舞台," 2024-12 (央媒).
-2. 大河财立方, "争创国际一流！洛阳现代农机装备集群底气何在," 2025-01 (媒体).
+1. 国际在线（河南日报）, "洛阳现代农机装备集群入围'国家队' 千亿集群角逐世界舞台," 2024-12 (央媒). https://hn.cri.cn/2024-12-27/4bd0f713-acb8-fcaf-67b1-6abb1e1e4e45.html
+2. 大河财立方, "争创国际一流！洛阳现代农机装备集群底气何在," 2025-01 (媒体). https://app.dahecube.com/nweb/news/20250118/224320n2049b3793a6.htm

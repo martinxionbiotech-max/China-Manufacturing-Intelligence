@@ -73,6 +73,6 @@ Baotou owns the cerium-lanthanum (volume ore) fraction from Bayan Obo, while Gan
 
 ## Sources
 
-1. 内蒙古区情网, "从发现稀土到'世界稀土之都'——内蒙古稀土产业高质量发展篇," 2024-09 (政府).
+1. 内蒙古区情网, "从发现稀土到'世界稀土之都'——内蒙古稀土产业高质量发展篇," 2024-09 (政府). https://www.nmgqq.com.cn/quqinggailan/jingjizongheng/gongye/2024-09-27/32204.html
 2. 北方稀土 2024 年半年度业绩说明会（上证路演中心） (上市公司).
-3. 界面新闻, "包头要打造'世界稀土之都'，2024年产值超1000亿," 2024 (财经媒体).
+3. 界面新闻, "包头要打造'世界稀土之都'，2024年产值超1000亿," 2024 (财经媒体). https://www.jiemian.com/article/10639905.html

@@ -63,7 +63,7 @@ Domestic IC design and foundry route to Shanghai Zhangjiang. But advanced-node a
 
 ## Sources
 
-1. "2024年中国半导体行业市场规模将达到17567亿元" (2024).
+1. "2024年中国半导体行业市场规模将达到17567亿元" (2024). https://www.qianzhan.com/analyst/detail/220/241225-b7b32d69.html
 2. 智研咨询, "2024年中国集成电路行业产业链图谱" (2024).
 3. 中国半导体行业协会, "2024年全球集成电路产业回暖" (2025).
 4. Shanghai IC cluster (cls-shanghai-ic).

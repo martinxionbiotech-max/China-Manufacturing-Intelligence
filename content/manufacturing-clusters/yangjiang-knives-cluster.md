@@ -74,6 +74,6 @@ Making 7 of every 10 Chinese blades and holding standard-setting authority is a 
 
 ## Sources
 
-1. 人民日报, "小刀剪闯出大市场（经济聚焦）," 2025-01 (央媒).
-2. 21世纪经济报道, "一把小刀30多道工艺，'刀剪之都'阳江要靠智能制造'翻身'," 2024-10 (财经媒体).
-3. 阳西县人民政府, "世界刀剪看中国，中国刀剪看阳江！," 2024 (政府官网).
+1. 人民日报, "小刀剪闯出大市场（经济聚焦）," 2025-01 (央媒). https://paper.people.com.cn/rmrb/pc/content/202501/20/content_30053011.html
+2. 21世纪经济报道, "一把小刀30多道工艺，'刀剪之都'阳江要靠智能制造'翻身'," 2024-10 (财经媒体). https://www.21jingji.com/article/20241008/herald/1d851acc0a068555ac7cde2494869cb3.html
+3. 阳西县人民政府, "世界刀剪看中国，中国刀剪看阳江！," 2024 (政府官网). http://www.yangxi.gov.cn/xw/yxxw/content/post_899661.html

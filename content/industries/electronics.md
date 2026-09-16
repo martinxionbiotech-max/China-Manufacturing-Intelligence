@@ -67,7 +67,7 @@ So route by layer: components, PCBs, and design to Shenzhen; finished smart term
 ## Sources
 
 1. 中国信息服务网, "2024年电子信息制造业运行情况" (2025).
-2. "中国电子信息制造业发展：'十四五'回顾与'十五五'展望" (2024).
+2. "中国电子信息制造业发展：'十四五'回顾与'十五五'展望" (2024). http://gjs.cssn.cn/kydt/kydt_kycg/202605/t20260522_5992816.shtml
 3. Shenzhen electronics cluster (cls-shenzhen-electronics).
 4. Dongguan smart terminal cluster (cls-dongguan-smart-terminal).
 5. Chengdu-Chongqing electronics cluster (cls-cy-electronics).

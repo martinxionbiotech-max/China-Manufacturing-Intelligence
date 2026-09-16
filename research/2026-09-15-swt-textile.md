@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-ifeng-nantong | 南通高端纺织，发力中东市场！ | 凤凰网江苏 | 2 媒体 | 2025 |
-| src-jstv-nantong | 江苏产业带深观察① | 从叠石桥到全世界：南通家纺的数字新浪潮 | 荔枝新闻（江苏广电） | 1 一手源（省级媒体） | 2025-09 |
-| src-parkworld-nantong | 南通市纺织产业高质量发展三年行动计划（2022—2024年） | 政府规划转载 | 2 政府规划 | 2022 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-ifeng-nantong | 南通高端纺织，发力中东市场！ | 凤凰网江苏 | 2 媒体 | 2025 | https://js.ifeng.com/c/8nRZNR4PsWM |
+| src-jstv-nantong | 江苏产业带深观察① | 从叠石桥到全世界：南通家纺的数字新浪潮 | 荔枝新闻（江苏广电） | 1 一手源（省级媒体） | 2025-09 | https://m.jstv.com/news/2025/9/17/1417823836417314816.html |
+| src-parkworld-nantong | 南通市纺织产业高质量发展三年行动计划（2022—2024年） | 政府规划转载 | 2 政府规划 | 2022 | https://www.parkworld.net/post/8da97513b4c75e0 |
 
 ## FACT（一手源）
 

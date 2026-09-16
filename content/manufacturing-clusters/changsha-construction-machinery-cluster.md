@@ -34,7 +34,8 @@ clusters, and the city is routinely called the "capital of construction machiner
 industry media [1]. Its position is documented at three levels:
 
 - It is the **world's third-largest construction machinery agglomeration**, behind only the US
-  state of Illinois and Tokyo, Japan [2].
+  state of Illinois and Tokyo, Japan — and it has led China in the sector's assets, revenue, and
+  profit for 12+ consecutive years [2].
 - Its cluster output reached **RMB 280 billion in 2021** (~one-third of China's national total),
   fell to roughly RMB 200 billion in 2022 during an industry downturn, and recovered to **over
   RMB 250 billion in 2024** — still more than 30% of the national market [2][3].
@@ -106,6 +107,20 @@ For buyers this is a nuance: Changsha excels at complete machines (excavators, c
 TBMs), but the most advanced sub-components in some models may still come from European or
 Japanese suppliers.
 
+*Note on scale:* the cluster's 70%-of-variety figure counts product categories and model
+specifications, not value share — a breadth metric. Read it alongside the output share (>30% of
+national value) to avoid confusing catalog breadth with revenue dominance [2][8].
+
+## The innovation base underneath
+
+The rivalry was funded by research. In 2022 the cluster's key enterprises spent more than RMB 20
+billion on R&D — a research intensity above 6.5% — and operated over 20 national-level and 100+
+provincial-level innovation platforms [9]. That institutional base (university spin-offs, state
+institutes, railway R&D) is what keeps five champions competitive in one city instead of
+collapsing into one. It also explains the export mix: Changsha's champions now sell more than half
+their revenue overseas, which would be impossible without standards, patents, and product
+certifications accumulated through those platforms [3][9].
+
 ## Cyclicality caveat
 
 Construction machinery is a strongly cyclical industry, tied to infrastructure and real-estate
@@ -134,6 +149,7 @@ a cycle lens, not a steady-growth one.
 - **Five Global Top-50 firms** — Sany, Zoomlion, Sunward, CRCHI, Sinoboom; world's 2nd city with five, after Tokyo [4].
 - **2024 exports RMB 29.06B (+22.9%)**, overseas revenue CAGR >50% [3].
 - **Local sourcing 16.3% (2019) → 22%+ (2022)**, in-province 32.2% [2][8].
+- **R&D: >RMB 20B spent by key firms (2022), intensity >6.5%; 20+ national, 100+ provincial innovation platforms** [9].
 
 ## Original analysis
 
@@ -159,10 +175,10 @@ That competition — Zoomlion and Sany fighting across the Xiang River for two d
 
 1. 湖南省政府门户, "长沙，'工程机械之都'在崛起," 2021-05.
 2. 证券时报, "'工程机械之都'长沙：五朵金花创新锻造大国重器," 2024.
-3. 湖南省政府门户, "长沙工程机械'五龙出海'," 2025-04-27.
+3. 湖南省政府门户, "长沙工程机械'五龙出海'," 2025-04-27. http://www.hunan.gov.cn/hnyw/zwdt/202504/t20250427_33655734.html
 4. 中国日报, "长沙市工程机械集群：引领行业'争锋'世界," 2023-03-01.
 5. 湖南政研网, "山登绝顶人为峰," 2021-09-29.
-6. 红网/长沙晚报, "长沙工程机械'五龙'加速出海," 2025-05-12.
+6. 红网/长沙晚报, "长沙工程机械'五龙'加速出海," 2025-05-12. https://hn.rednet.cn/content/646949/56/14948357.html
 7. 红网 (as source 6), 五企业营收占比口径.
 8. 湖南省政府门户 (as source 1), 品类与配套率数据.
-9. 四川在线, "长沙工程机械集群如何走向世界舞台'C位'," 2024-04-07.
+9. 四川在线, "长沙工程机械集群如何走向世界舞台'C位'," 2024-04-07. https://sichuan.scol.com.cn/ggxw/202404/82503278.html

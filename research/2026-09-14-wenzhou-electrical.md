@@ -8,12 +8,10 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-jdzj-liushi | 乐清柳市镇："中国电器之都"的奋斗蜕变路 | 机电之家（产业集群） | 2 行业媒体 | 2026 |
-| src-wiki-chint | Chint Group | Wikipedia (EN) | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-jdzj-liushi | 乐清柳市镇："中国电器之都"的奋斗蜕变路 | 机电之家（产业集群） | 2 行业媒体 | 2026 | |
+| src-wiki-chint | Chint Group | Wikipedia (EN) | 3 discovery | 2026 | https://en.wikipedia.org/wiki/Chint_Group |
 
 ## FACT（一手/行业源）
 

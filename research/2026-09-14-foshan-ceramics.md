@@ -8,17 +8,15 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-taocixinxi-20240902 | 浅谈"佛山陶瓷"的发展情况 | 陶瓷信息网 | 2 strong | 2024-09-02 |
-| src-nfnews-20220601 | 一座中国陶瓷城见证一段佛山陶瓷奋斗史 | 南方+/佛山日报 | 1 primary | 2022-06-01 |
-| src-fstcwy | 以禅城为主的佛山陶瓷企业产量占全国35%以上 | 佛山陶瓷网/中国陶瓷工业协会 | 2 strong | 2024 |
-| src-jiemian-20170614 | 蒙娜丽莎"强颜欢笑"冲刺上市 | 界面新闻 | 2 strong | 2017-06-14 |
-| src-baike | 佛山陶瓷（百科） | 百度百科 | 3 discovery | - |
-| src-monalisa | 蒙娜丽莎发展历程 | 蒙娜丽莎官网 | 1 primary | 2026 |
-| src-taocizixun-20251129 | 破局5A质量分级，蒙娜丽莎打响升级第一枪 | 陶瓷资讯 | 2 strong | 2025-11-29 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-taocixinxi-20240902 | 浅谈"佛山陶瓷"的发展情况 | 陶瓷信息网 | 2 strong | 2024-09-02 | |
+| src-nfnews-20220601 | 一座中国陶瓷城见证一段佛山陶瓷奋斗史 | 南方+/佛山日报 | 1 primary | 2022-06-01 | |
+| src-fstcwy | 以禅城为主的佛山陶瓷企业产量占全国35%以上 | 佛山陶瓷网/中国陶瓷工业协会 | 2 strong | 2024 | https://m.fstcwy.org/news-view.php?id=3664 |
+| src-jiemian-20170614 | 蒙娜丽莎"强颜欢笑"冲刺上市 | 界面新闻 | 2 strong | 2017-06-14 | |
+| src-baike | 佛山陶瓷（百科） | 百度百科 | 3 discovery | - | |
+| src-monalisa | 蒙娜丽莎发展历程 | 蒙娜丽莎官网 | 1 primary | 2026 | |
+| src-taocizixun-20251129 | 破局5A质量分级，蒙娜丽莎打响升级第一枪 | 陶瓷资讯 | 2 strong | 2025-11-29 | |
 
 ## FACT (primary-sourced)
 

@@ -65,5 +65,5 @@ For air fryers, kettles, and hair dryers where speed and price matter, Cixi is t
 ## Sources
 
 1. 前瞻产业研究院, "2024年中国小家电行业市场规模约1100亿元" (2024).
-2. 海关总署/电器杂志, "2024年中国家电行业运行情况(出口篇)" (2025).
+2. 海关总署/电器杂志, "2024年中国家电行业运行情况(出口篇)" (2025). https://www.dianqizazhi.com/2025/04/17/66663.html
 3. Cixi small appliances cluster (cls-cixi-small-appliances).

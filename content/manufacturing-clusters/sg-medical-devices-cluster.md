@@ -78,4 +78,4 @@ Mindray's 15-year #1 is a scale-and-consistency signal. For finished, digitalize
 
 1. 迈瑞医疗 2024 年年度报告（新浪财经） (上市公司年报).
 2. 深圳市龙华区人民政府, "深圳国际医疗器械城总体发展规划（2024—2035年）," 2024 (政府官网).
-3. 前瞻产业研究院, "2024年深圳市高端医疗器械产业链全景," 2024-12 (行业源).
+3. 前瞻产业研究院, "2024年深圳市高端医疗器械产业链全景," 2024-12 (行业源). https://bg.qianzhan.com/trends/detail/506/241209-1fcc15c0.html

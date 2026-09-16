@@ -76,5 +76,5 @@ The gap between a "RMB 100B" cluster narrative and a RMB 237.7M market-operator 
 
 ## Sources
 
-1. 中国日报网, "当'潮'不让，实力出圈 海宁皮革时尚产业弄潮2024CHIC春季展," 2024-03 (央媒).
+1. 中国日报网, "当'潮'不让，实力出圈 海宁皮革时尚产业弄潮2024CHIC春季展," 2024-03 (央媒). http://cn.chinadaily.com.cn/a/202403/11/WS65eeb4c2a3109f7860dd4e7a.html
 2. 海宁中国皮革城股份有限公司 2025 年年度报告 (深交所·上市公司年报).

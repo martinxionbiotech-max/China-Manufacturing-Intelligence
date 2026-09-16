@@ -40,13 +40,17 @@ China's **2024 home-appliance market was ~RMB 2,000 billion (5.43% five-year CAG
 
 ## Original analysis
 
-*Inference:* Home appliances is a **three-tier industry** — brand scale (Qingdao), manufacturing depth
-(Shunde), and niche density (Cixi) each own a different layer of the same value chain. The 5.43% CAGR
-signals a mature, slow-growth market where competition is brand-and-scale, not category expansion.
+*Inference:* From the product's point of view, **the SKU picks the city**. HS 8418/8450 white goods sit
+in Qingdao's brand-and-scale model (Haier, Hisense); high-volume kitchen appliances sit in Shunde's
+manufacturing-depth model (~15% of national output, Midea, Galanz); fast-refresh niche items sit in
+Cixi's small-batch model (air fryers, personal care). With AC and refrigerators alone at 39% of the
+market [1], the category is structurally mature — new entrants face city-scale production lines that
+were amortized years ago, so the viable strategy is SKU selection, not category invention.
 
-*Opinion:* For buyers, route by tier: **brand/OEM-scale white goods → Qingdao (Haier, Hisense)**;
-**kitchen appliances → Shunde (Midea)**; **niche small appliances → Cixi**. The slow growth means
-pricing is competitive — leverage the three-city structure for multi-tier sourcing.
+*Opinion:* For buyers, match the SKU to the model: **white goods with brand/after-sales requirements →
+Qingdao (Haier, Hisense)**; **kitchen appliances where unit cost dominates → Shunde (Midea, Galanz)**;
+**small-batch, fast-iteration niche items → Cixi**. A 5.43% CAGR market prices competitively — suppliers
+compete on cost and brand, not on growth, so negotiate against that fact.
 
 ## Buyer notes
 
@@ -56,9 +60,9 @@ pricing is competitive — leverage the three-city structure for multi-tier sour
 
 ## The Author's Take
 
-*In my view, home appliances is a three-tier industry, and each tier owns a different layer of the same value chain — the error is routing all appliance needs to one city.*
+*In my view, the product is the routing key — decide the SKU, and the city follows from the SKU.*
 
-Brand and OEM-scale white goods go to Qingdao (Haier, Hisense); manufacturing depth to Shunde; niche density and fast SKU iteration to Cixi. Pick the tier, then the city.
+A white-goods order and an air-fryer order are different animals: one needs brand scale and after-sales infrastructure, the other needs fast tooling and iteration. That is why "one city for all appliances" fails — the three models coexist because the product families genuinely differ.
 
 *This is my editorial judgment, not a verified fact — the sourced figures are above.*
 

@@ -75,7 +75,7 @@ For complete rail vehicles, traction systems, and metro equipment, Zhuzhou is th
 
 ## Sources
 
-1. 21经济网, "株洲'破'与'立'：一座工业老城的制造新变" (2025).
+1. 21经济网, "株洲'破'与'立'：一座工业老城的制造新变" (2025). https://finance.sina.com.cn/roll/2025-11-13/doc-infxfakn4249997.shtml
 2. 株洲市渌口区2024年统计公报 (2024).
 3. Zhuzhou rail transit cluster (cls-zhuzhou-rail-transit).
 4. Zhuzhou aero-engine cluster (cls-zhuzhou-aero-engine).

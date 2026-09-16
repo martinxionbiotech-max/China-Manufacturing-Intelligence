@@ -76,6 +76,6 @@ Its 50-year CAS lineage and SIASUN give it genuine integration capability, but i
 
 ## Sources
 
-1. 四川在线, "寻链·新质生产力十城演义丨给机器人产业链装'充电宝'，沈阳探路破解'创新难'," 2024-04 (媒体).
+1. 四川在线, "寻链·新质生产力十城演义丨给机器人产业链装'充电宝'，沈阳探路破解'创新难'," 2024-04 (媒体). https://sichuan.scol.com.cn/ggxw/202404/82503888.html
 2. 新松机器人 2024 招聘介绍 (公司官网).
-3. 新松官网, "关于新松——中国机器人产业领军企业," 2025 (公司官网).
+3. 新松官网, "关于新松——中国机器人产业领军企业," 2025 (公司官网). https://www.siasun.com/about.html

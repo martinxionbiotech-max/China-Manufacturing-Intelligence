@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-people-zhangjiang | 入选国家级集群的上海张江生物医药 | 人民日报《中国经济周刊》 | 1 一手源（央媒） | 2022-12 |
-| src-shgov-zhangjiang | 国际TOP20药企、医疗器械企业各有19家在沪设立总部或研发中心 | 上海市人民政府 | 1 一手源（政府官网） | 2025-10 |
-| src-scol-zhangjiang | 寻链新质生产力十城演义丨上海生物医药 做世界级产业集群的"造梦者" | 四川在线 | 2 媒体 | 2024-04 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-people-zhangjiang | 入选国家级集群的上海张江生物医药 | 人民日报《中国经济周刊》 | 1 一手源（央媒） | 2022-12 | http://paper.people.com.cn/zgjjzk/html/2022-12/15/nw.zgjjzk_20221215_6-01.htm |
+| src-shgov-zhangjiang | 国际TOP20药企、医疗器械企业各有19家在沪设立总部或研发中心 | 上海市人民政府 | 1 一手源（政府官网） | 2025-10 | |
+| src-scol-zhangjiang | 寻链新质生产力十城演义丨上海生物医药 做世界级产业集群的"造梦者" | 四川在线 | 2 媒体 | 2024-04 | https://sichuan.scol.com.cn/ggxw/202404/82510265.html |
 
 ## FACT（一手源）
 

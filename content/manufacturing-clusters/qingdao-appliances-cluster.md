@@ -72,6 +72,6 @@ Shunde owns volume, Cixi owns export speed, and Qingdao owns branded smart appli
 
 ## Sources
 
-1. 中国经济网, "青岛：智能家电集群创新发展," 2024-12 (央媒).
-2. 齐鲁网（山东广电）, "青岛家电产业加速迈向高端," 2025-03 (省级媒体).
-3. 大众网, "青岛走在前｜智能家电：打破'天花板'，迈向'世界级'," 2025-02 (省级媒体).
+1. 中国经济网, "青岛：智能家电集群创新发展," 2024-12 (央媒). http://www.ce.cn/cysc/newmain/yc/jsxw/202412/26/t20241226_39247602.shtml
+2. 齐鲁网（山东广电）, "青岛家电产业加速迈向高端," 2025-03 (省级媒体). https://news.iqilu.com/shandong/shandonggedi/20250317/5789023.shtml
+3. 大众网, "青岛走在前｜智能家电：打破'天花板'，迈向'世界级'," 2025-02 (省级媒体). https://sd.dzwww.com/sdnews/202502/t20250220_15542124.htm

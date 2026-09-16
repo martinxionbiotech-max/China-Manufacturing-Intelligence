@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-hngxt-zhuzhou | 株洲市中小航空发动机集群：点燃航空动力源 助推产业"振翅"云霄 | 湖南省工业和信息化厅 | 1 一手源（政府） | 2024-08 |
-| src-hngov-zhuzhou | 对省政协十三届二次会议第0966号提案的答复 | 湖南省人民政府门户网站 | 1 一手源（政府） | 2024-06 |
-| src-voc-zhuzhou | 在打造世界级产业集群中成长——芦淞区全力打造中小航空发动机及航空航天装备世界级产业集群纪实 | 湖南在线 | 1 一手源（党媒） | 2021-11 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-hngxt-zhuzhou | 株洲市中小航空发动机集群：点燃航空动力源 助推产业"振翅"云霄 | 湖南省工业和信息化厅 | 1 一手源（政府） | 2024-08 | https://gxt.hunan.gov.cn/gxt/ztzl/zzgdzt/zzgdkjq/202408/t20240826_33438823.html |
+| src-hngov-zhuzhou | 对省政协十三届二次会议第0966号提案的答复 | 湖南省人民政府门户网站 | 1 一手源（政府） | 2024-06 | |
+| src-voc-zhuzhou | 在打造世界级产业集群中成长——芦淞区全力打造中小航空发动机及航空航天装备世界级产业集群纪实 | 湖南在线 | 1 一手源（党媒） | 2021-11 | https://hunan.voc.com.cn/news/202111/23764577.html |
 
 ## FACT（一手源）
 

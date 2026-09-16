@@ -77,6 +77,6 @@ For buyers, Xi'an is relevant mainly for aerospace-adjacent supply — structure
 
 ## Sources
 
-1. 半月谈, "2024年西安地区生产总值达13317.78亿元" (2025).
+1. 半月谈, "2024年西安地区生产总值达13317.78亿元" (2025). http://www.banyuetan.org/dfgc/detail/20250226/1000200033136151740532877711518737_1.html
 2. 经济日报/人民论坛网, "西安经开区引导集聚优势产业" (2024).
 3. Xi'an aviation cluster (cls-xian-aviation).

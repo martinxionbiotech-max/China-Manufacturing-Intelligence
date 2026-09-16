@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-nmgqq-baotou | 从发现稀土到"世界稀土之都"——内蒙古稀土产业高质量发展篇 | 内蒙古区情网 | 1 一手源（政府） | 2024-09 |
-| src-sseinfo-baotou | 北方稀土 2024 年半年度业绩说明会 | 上证路演中心 | 1 一手源（上市公司） | 2024 |
-| src-jiemian-baotou | 包头要打造"世界稀土之都"，2024年产值超1000亿 | 界面新闻 | 2 财经媒体 | 2024 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-nmgqq-baotou | 从发现稀土到"世界稀土之都"——内蒙古稀土产业高质量发展篇 | 内蒙古区情网 | 1 一手源（政府） | 2024-09 | https://www.nmgqq.com.cn/quqinggailan/jingjizongheng/gongye/2024-09-27/32204.html |
+| src-sseinfo-baotou | 北方稀土 2024 年半年度业绩说明会 | 上证路演中心 | 1 一手源（上市公司） | 2024 | https://roadshow.sseinfo.com/roadshowIndex.do?id=20628 |
+| src-jiemian-baotou | 包头要打造"世界稀土之都"，2024年产值超1000亿 | 界面新闻 | 2 财经媒体 | 2024 | https://www.jiemian.com/article/10639905.html |
 
 ## FACT（一手源）
 

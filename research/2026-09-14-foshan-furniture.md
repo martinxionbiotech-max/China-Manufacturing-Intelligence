@@ -8,12 +8,10 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-stcn-furniture | 佛山传统家具产业亟待升级 | 证券时报（stcn.com） | 1 一手财经媒体 | 2026 |
-| src-wiki-lecong | Lecong | Wikipedia (EN) | 3 discovery | 2026 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-stcn-furniture | 佛山传统家具产业亟待升级 | 证券时报（stcn.com） | 1 一手财经媒体 | 2026 | |
+| src-wiki-lecong | Lecong | Wikipedia (EN) | 3 discovery | 2026 | https://bokefurniture.com/top-8-lecong-furniture-mall-shopping-the-ultimate-guide |
 
 ## FACT（一手源）
 

@@ -73,6 +73,6 @@ It already held ~70% of China's socks, and its 194 digital workshops show it is 
 
 ## Sources
 
-1. 经济日报, "浙江诸暨 袜业出口稳健增长," 2024-06 (央媒).
-2. 新华网, "中国经济样本观察·'镇'了不起丨'暖脚'小镇'织'大业：每年给每个地球人做三双袜子," 2024-11 (央媒).
-3. 大唐袜博会官网, "第十八届中国·大唐国际袜业博览会," 2024 (行业源).
+1. 经济日报, "浙江诸暨 袜业出口稳健增长," 2024-06 (央媒). http://paper.ce.cn/pad/content/202406/09/content_295840.html
+2. 新华网, "中国经济样本观察·'镇'了不起丨'暖脚'小镇'织'大业：每年给每个地球人做三双袜子," 2024-11 (央媒). http://www.news.cn/local/20241127/28a8c183b8994388af647f88fac6ade6/c.html
+3. 大唐袜博会官网, "第十八届中国·大唐国际袜业博览会," 2024 (行业源). https://www.datanghosieryexpo.com/uploads/soft/20240422/2-240422135Zc44.pdf

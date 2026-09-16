@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-scol-cy | 央媒看四川丨万亿元产业链这样炼成——成都电子信息产业集聚发展调查 | 经济日报（四川在线转载） | 1 一手源（央媒） | 2024-11 |
-| src-xinhua-cy | 成渝地区双城经济圈2024年地区生产总值预计8.6万亿元 | 新华网 | 1 一手源（央媒） | 2025-01 |
-| src-12371-cy | 提升成渝地区双城经济圈发展能级 | 共产党员网（转载） | 1 一手源（官方） | 2026-01 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-scol-cy | 央媒看四川丨万亿元产业链这样炼成——成都电子信息产业集聚发展调查 | 经济日报（四川在线转载） | 1 一手源（央媒） | 2024-11 | https://sichuan.scol.com.cn/ggxw/202411/82842288.html |
+| src-xinhua-cy | 成渝地区双城经济圈2024年地区生产总值预计8.6万亿元 | 新华网 | 1 一手源（央媒） | 2025-01 | http://www.news.cn/local/20250109/b4ffb3ccda0b47cc9fda674390285524/c.html |
+| src-12371-cy | 提升成渝地区双城经济圈发展能级 | 共产党员网（转载） | 1 一手源（官方） | 2026-01 | https://m.12371.gov.cn/content/2026-01/16/content_505564.html |
 
 ## FACT（一手源）
 

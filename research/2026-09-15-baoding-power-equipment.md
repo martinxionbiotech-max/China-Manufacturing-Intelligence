@@ -8,13 +8,11 @@
 
 ## Sources (evidence registry)
 
-| src id | Title | Publisher | Level | Date |
-|---|---|---|---|---|
-| src-hebgxt-baoding | 五群链动京津冀丨保定市电力及新能源高端装备集群：中国电谷 赋能未来 | 河北省工业和信息化厅 | 1 一手源（政府） | 2025-11 |
-| src-xinhua-baoding | 保定打造电力及新能源高端装备集群 | 新华网河北 | 1 一手源（央媒） | 2023-08 |
-| src-hebccw-baoding | 保定电力及新能源高端装备、汽车及零部件产业集群上榜全国百强 | 河北长城网 | 2 媒体 | 2024-04 |
-
----
+| src id | Title | Publisher | Level | Date | URL |
+|--|--|--|--|--|--|
+| src-hebgxt-baoding | 五群链动京津冀丨保定市电力及新能源高端装备集群：中国电谷 赋能未来 | 河北省工业和信息化厅 | 1 一手源（政府） | 2025-11 | https://gxt.hebei.gov.cn/hbgyhxxht/xwzx32/snxw40/2025110610524483850/index.html |
+| src-xinhua-baoding | 保定打造电力及新能源高端装备集群 | 新华网河北 | 1 一手源（央媒） | 2023-08 | http://www.he.xinhuanet.com/20230815/06d60a80a2c4462796ef399f7cbad083/c.html |
+| src-hebccw-baoding | 保定电力及新能源高端装备、汽车及零部件产业集群上榜全国百强 | 河北长城网 | 2 媒体 | 2024-04 | https://bd.hebccw.cn/system/2024/04/12/101304521.shtml |
 
 ## FACT（一手源）
 
